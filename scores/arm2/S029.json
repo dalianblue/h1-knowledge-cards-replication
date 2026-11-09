@@ -1,0 +1,65 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2.5 mg，每日一次",
+   "verdict": "supported",
+   "note": "符合磺达肝素预防剂量标准"
+  },
+  {
+   "value": "36至42小时",
+   "verdict": "supported",
+   "note": "符合ASRA/ESAIC预防剂量间隔共识"
+  },
+  {
+   "value": "17至21小时",
+   "verdict": "supported",
+   "note": "符合磺达肝素正常人半衰期"
+  },
+  {
+   "value": "4至5个半衰期",
+   "verdict": "supported",
+   "note": "符合5个半衰期清除约97%的药代原则"
+  },
+  {
+   "value": "2倍",
+   "verdict": "supported",
+   "note": "肾衰者半衰期显著延长可达2倍"
+  },
+  {
+   "value": "72小时",
+   "verdict": "unverifiable",
+   "note": "指南未推荐治疗剂量固定阈值"
+  },
+  {
+   "value": "肌酐清除率30至50",
+   "verdict": "unverifiable",
+   "note": "无指南给出此分层的具体小时数"
+  },
+  {
+   "value": "6至12小时",
+   "verdict": "supported",
+   "note": "符合拔管后重启抗凝间隔共识"
+  },
+  {
+   "value": "12小时内识别",
+   "verdict": "supported",
+   "note": "符合硬膜外血肿最佳干预时间窗"
+  },
+  {
+   "value": "8小时内减压",
+   "verdict": "supported",
+   "note": "符合血肿减压预后最佳时限"
+  },
+  {
+   "value": "48小时",
+   "verdict": "unverifiable",
+   "note": "治疗剂量间隔存在机构分歧无定论"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 718
+}

@@ -1,0 +1,85 @@
+{
+ "numeric_claims": [
+  {
+   "value": "Aldrete评分不低于9分",
+   "verdict": "supported",
+   "note": "国内教科书及指南常规出室标准"
+  },
+  {
+   "value": "Steward评分大于4分",
+   "verdict": "supported",
+   "note": "国内教科书常规出室标准"
+  },
+  {
+   "value": "低于35℃",
+   "verdict": "supported",
+   "note": "临床定义低体温阈值"
+  },
+  {
+   "value": "正负20%",
+   "verdict": "supported",
+   "note": "循环稳定常规参考范围"
+  },
+  {
+   "value": "稳定30分钟以上",
+   "verdict": "supported",
+   "note": "国内教科书循环稳定观察时间"
+  },
+  {
+   "value": "血氧饱和度大于95%",
+   "verdict": "supported",
+   "note": "吸空气下出室氧合标准"
+  },
+  {
+   "value": "观察30分钟以上",
+   "verdict": "supported",
+   "note": "用镇痛镇静药后观察时间"
+  },
+  {
+   "value": "动脉血氧分压大于65毫米汞柱",
+   "verdict": "supported",
+   "note": "经典拔管标准非出室标准"
+  },
+  {
+   "value": "血氧饱和度约92%",
+   "verdict": "supported",
+   "note": "经典拔管氧合标准"
+  },
+  {
+   "value": "呼吸频率小于30次每分钟",
+   "verdict": "supported",
+   "note": "经典拔管呼吸频率标准"
+  },
+  {
+   "value": "潮气量大于300毫升",
+   "verdict": "supported",
+   "note": "经典拔管潮气量标准"
+  },
+  {
+   "value": "样本量696例",
+   "verdict": "unverifiable",
+   "note": "单中心研究样本量无公认依据"
+  },
+  {
+   "value": "41%行全关节置换",
+   "verdict": "unverifiable",
+   "note": "单中心研究构成比无公认依据"
+  },
+  {
+   "value": "术中出血小于500毫升",
+   "verdict": "unverifiable",
+   "note": "该研究准入条件无公认依据"
+  },
+  {
+   "value": "ASA分级小于3级",
+   "verdict": "unverifiable",
+   "note": "该研究准入条件无公认依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1141
+}

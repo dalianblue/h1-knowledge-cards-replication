@@ -1,0 +1,75 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2.8 mEq/L",
+   "verdict": "unverifiable",
+   "note": "题设病例数值,非主张"
+  },
+  {
+   "value": "2.5–3.0 mEq/L",
+   "verdict": "supported",
+   "note": "Miller等教科书延期阈值"
+  },
+  {
+   "value": "<2.5 mEq/L",
+   "verdict": "supported",
+   "note": "教科书公认非急诊取消阈值"
+  },
+  {
+   "value": "3.1–3.5 mEq/L",
+   "verdict": "supported",
+   "note": "教科书低风险区间"
+  },
+  {
+   "value": ">0.5 mEq/L",
+   "verdict": "unverifiable",
+   "note": "急降阈值无公认指南依据"
+  },
+  {
+   "value": "2.6–3.4 mEq/L",
+   "verdict": "unverifiable",
+   "note": "转引研究范围,无PMID核验"
+  },
+  {
+   "value": "40–100 mEq/天",
+   "verdict": "supported",
+   "note": "教科书慢性低钾口服补充量"
+  },
+  {
+   "value": "100 mEq",
+   "verdict": "unverifiable",
+   "note": "总储备换算系数缺乏溯源"
+  },
+  {
+   "value": "0.27 mEq/L",
+   "verdict": "unverifiable",
+   "note": "血钾换算比值缺乏溯源"
+  },
+  {
+   "value": "400 mEq",
+   "verdict": "unverifiable",
+   "note": "补钾估算值缺乏溯源"
+  },
+  {
+   "value": "23 个中心",
+   "verdict": "supported",
+   "note": "TIGHT K试验设计事实"
+  },
+  {
+   "value": "32 346 例",
+   "verdict": "supported",
+   "note": "HFrEF IPD汇总样本量"
+  },
+  {
+   "value": "13 723 例",
+   "verdict": "supported",
+   "note": "HFpEF IPD汇总样本量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2158
+}

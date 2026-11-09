@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "阿司匹林围术期停药4-5天",
+   "verdict": "supported",
+   "note": "2016 ACC/AHA聚焦更新推荐"
+  },
+  {
+   "value": "氯吡格雷围术期停药5天",
+   "verdict": "supported",
+   "note": "2016 ACC/AHA聚焦更新推荐"
+  },
+  {
+   "value": "替格瑞洛围术期停药3-5天",
+   "verdict": "supported",
+   "note": "2016 ACC/AHA聚焦更新推荐"
+  },
+  {
+   "value": "普拉格雷围术期停药7天",
+   "verdict": "supported",
+   "note": "2016 ACC/AHA聚焦更新推荐"
+  },
+  {
+   "value": "氯吡格雷维持剂量75 mg qd",
+   "verdict": "supported",
+   "note": "HOST-EXAM试验标准维持量"
+  },
+  {
+   "value": "阿司匹林维持剂量100 mg qd",
+   "verdict": "supported",
+   "note": "HOST-EXAM试验东亚人群剂量"
+  },
+  {
+   "value": "HOST-EXAM样本量5438例",
+   "verdict": "supported",
+   "note": "HOST-EXAM原始试验样本量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 3081
+}

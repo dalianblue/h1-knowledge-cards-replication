@@ -1,0 +1,92 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3 cm",
+   "verdict": "supported",
+   "note": "共识提出头端距腘静脉<3cm为高危"
+  },
+  {
+   "value": "4 mm",
+   "verdict": "supported",
+   "note": "共识提出股腘静脉血栓厚度增加≥4mm判复发"
+  },
+  {
+   "value": "5 cm",
+   "verdict": "supported",
+   "note": "指明5cm作分界缺乏可靠印证不予采用"
+  },
+  {
+   "value": "10 cm",
+   "verdict": "supported",
+   "note": "指明10cm作分界缺乏可靠印证不予采用"
+  },
+  {
+   "value": "44%",
+   "verdict": "wrong",
+   "note": "近端DVT致PTE率约40-50%,但44%无出处"
+  },
+  {
+   "value": "13%",
+   "verdict": "supported",
+   "note": "远端DVT向近端蔓延率约10-20%,13%合理"
+  },
+  {
+   "value": "14 d",
+   "verdict": "supported",
+   "note": "急性期DVT定义≤14d符合教科书标准"
+  },
+  {
+   "value": "15~30 d",
+   "verdict": "supported",
+   "note": "亚急性期15-30d符合教科书定义"
+  },
+  {
+   "value": ">30 d",
+   "verdict": "supported",
+   "note": "慢性期>30d符合教科书定义"
+  },
+  {
+   "value": "5~7 d",
+   "verdict": "supported",
+   "note": "临床高度怀疑阴性者5-7d复查符合指南"
+  },
+  {
+   "value": "1周",
+   "verdict": "supported",
+   "note": "小腿DVT未治者1周复查符合指南共识"
+  },
+  {
+   "value": "2周",
+   "verdict": "supported",
+   "note": "持续存在者2周再查符合常规随访节奏"
+  },
+  {
+   "value": "5 d至1周",
+   "verdict": "supported",
+   "note": "结果不确定者5d-1周复查符合指南"
+  },
+  {
+   "value": "90天",
+   "verdict": "unverifiable",
+   "note": "特定研究设计的90天终点,原文数据缺"
+  },
+  {
+   "value": "年龄×10 µg/L",
+   "verdict": "supported",
+   "note": "≥50岁年龄校正D-二聚体标准切点"
+  },
+  {
+   "value": "≥50岁",
+   "verdict": "supported",
+   "note": "年龄校正D-二聚体适用人群阈值"
+  }
+ ],
+ "hallucination_rate": 0.06,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "近端深静脉血栓进展为肺血栓栓塞症的比例表述为约44%，该具体数值缺乏权威指南或教科书（如Miller's Anesthesia或ACCP指南）支持，属无出处的精确化捏造"
+ ],
+ "status": "ok",
+ "answer_chars": 1578
+}

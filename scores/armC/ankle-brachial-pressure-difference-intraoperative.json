@@ -1,0 +1,50 @@
+{
+ "numeric_claims": [
+  {
+   "value": "10-20 mmHg",
+   "verdict": "unverifiable",
+   "note": "答案明确指此差值无依据,属常见无据常识"
+  },
+  {
+   "value": "40747例",
+   "verdict": "supported",
+   "note": "PMID:38426892队列研究样本量"
+  },
+  {
+   "value": "65.6岁",
+   "verdict": "supported",
+   "note": "PMID:38426892研究平均年龄"
+  },
+  {
+   "value": "0.9",
+   "verdict": "unverifiable",
+   "note": "答案指卡库未引用此ABI下限阈值"
+  },
+  {
+   "value": "1.4",
+   "verdict": "unverifiable",
+   "note": "答案指卡库未引用此ABI上限阈值"
+  },
+  {
+   "value": "<42 cm",
+   "verdict": "supported",
+   "note": "PMID:37232853研究纳入标准臂围"
+  },
+  {
+   "value": "≤450 mmHg",
+   "verdict": "supported",
+   "note": "PMID:34437311加压输注临床压力范围"
+  },
+  {
+   "value": "≤1050 mmHg",
+   "verdict": "supported",
+   "note": "PMID:34437311加压输注更高压力范围"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1847
+}

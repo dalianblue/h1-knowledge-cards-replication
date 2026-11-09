@@ -1,0 +1,42 @@
+{
+ "numeric_claims": [
+  {
+   "value": "12小时",
+   "verdict": "supported",
+   "note": "预防剂量LMWH椎管前停药12h为ASRA共识"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "治疗剂量LMWH椎管前停药24h为ASRA共识"
+  },
+  {
+   "value": "6小时",
+   "verdict": "supported",
+   "note": "静脉普通肝素停药4-6h为ASRA共识"
+  },
+  {
+   "value": "5天",
+   "verdict": "supported",
+   "note": "华法林停药5天为ASRA及指南共识"
+  },
+  {
+   "value": "4小时",
+   "verdict": "wrong",
+   "note": "磺达肝素预防量停4h违背其半衰期"
+  },
+  {
+   "value": "24小时",
+   "verdict": "unverifiable",
+   "note": "磺达肝素治疗量停24h无指南依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 3,
+ "errors_found": [
+  "网络流传的磺达肝素预防剂量停药4小时说法存在事实性错误，磺达肝素半衰期约17小时，4小时远不足以消除抗凝作用"
+ ],
+ "status": "ok",
+ "answer_chars": 789
+}

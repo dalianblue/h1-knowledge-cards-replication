@@ -1,0 +1,42 @@
+{
+ "date": "2026-11-08",
+ "experiment": "表征×蒸馏双因子消融(C臂: chunk原文塞卡片schema, 格式化但零蒸馏)",
+ "four_arm_table": {
+  "arm1_裸DS": {
+   "wrong%": 7.3,
+   "supported%": 88.2,
+   "per_answer_zero%": 60.0
+  },
+  "arm3_chunk原文": {
+   "wrong%": 5.9,
+   "supported%": 58.1,
+   "per_answer_zero%": 65.1
+  },
+  "armC_chunk+schema": {
+   "wrong%": 0.5,
+   "supported%": 63.8,
+   "per_answer_zero%": 95.3,
+   "note": "断言数9.3/题(臂2三值制13.1)——说得较少"
+  },
+  "arm2_蒸馏卡": {
+   "wrong%": 1.4,
+   "supported%": 74.4,
+   "per_answer_zero%": 87.2,
+   "note": "三值制prompt版(P2后), 断言数最多"
+  }
+ },
+ "findings": {
+  "F1_结构化格式本身就能大幅降错": "C臂(格式化未蒸馏)wrong 0.5%, 全场最低——把原文塞进schema就带来巨大保护",
+  "F2_蒸馏的增益在覆盖率与可用性": "臂2 supported 74.4% vs C臂61.1%, 断言数13.1 vs 9.3——蒸馏让模型敢说且说得多",
+  "F3_两因子并存且互补": "C臂赢在安全(少说不错), 臂2赢在覆盖(多说有据)——\"正确性\"与\"信息量\"是两个独立维度"
+ },
+ "mechanism_interpretation": {
+  "why_C_format_protects": "schema空壳字段(key_numbers=[]/pitfalls=[])给生成模型一个\"这里应该有结构化数据但没有\"的信号, 模型行为转向保守搬运原文而非自由生成——格式即约束",
+  "why_distill_covers": "蒸馏卡经LLM理解后key_numbers抽取完整, 生成模型有更多可安全搬运的结构化数值——敢说且说得对"
+ },
+ "paper_implication": [
+  "双因子消融表(四臂)是论文Results的核心表——文献中无此先例",
+  "\"格式即约束\"(format-as-constraint)是新提法: schema空壳本身就能诱发保守行为",
+  "系统设计含义: 对高风险场景, 可故意用\"空壳schema\"抑制生成; 对覆盖场景, 用满配蒸馏卡"
+ ]
+}

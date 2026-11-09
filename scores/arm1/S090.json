@@ -1,0 +1,95 @@
+{
+ "numeric_claims": [
+  {
+   "value": "低于36℃",
+   "verdict": "supported",
+   "note": "围术期低体温定义符合指南标准"
+  },
+  {
+   "value": "50%至70%",
+   "verdict": "supported",
+   "note": "术中低体温发生率符合文献报道"
+  },
+  {
+   "value": "下降1℃，降低10%",
+   "verdict": "supported",
+   "note": "凝血因子活性下降率符合教科书数据"
+  },
+  {
+   "value": "低于35℃",
+   "verdict": "supported",
+   "note": "室颤风险增加阈值符合教科书描述"
+  },
+  {
+   "value": "2至3倍",
+   "verdict": "supported",
+   "note": "切口感染率增加倍数符合指南数据"
+  },
+  {
+   "value": "超过30分钟",
+   "verdict": "supported",
+   "note": "体温监测指征时间阈值符合指南"
+  },
+  {
+   "value": "15至30分钟",
+   "verdict": "supported",
+   "note": "监测记录间隔符合常规临床规范"
+  },
+  {
+   "value": "30分钟",
+   "verdict": "supported",
+   "note": "预保温开始时间符合指南推荐"
+  },
+  {
+   "value": "0.5至1℃",
+   "verdict": "supported",
+   "note": "再分布性下降幅度符合文献数据"
+  },
+  {
+   "value": "不低于21℃",
+   "verdict": "supported",
+   "note": "成人手术室最低温度符合指南"
+  },
+  {
+   "value": "24至26℃",
+   "verdict": "supported",
+   "note": "婴幼儿手术室温度符合指南推荐"
+  },
+  {
+   "value": "38至43℃",
+   "verdict": "supported",
+   "note": "充气式加温毯温度设置符合设备规范"
+  },
+  {
+   "value": "超过500毫升",
+   "verdict": "supported",
+   "note": "液体加温阈值符合指南推荐"
+  },
+  {
+   "value": "37至41℃",
+   "verdict": "supported",
+   "note": "静脉液体加温范围符合安全标准"
+  },
+  {
+   "value": "37至40℃",
+   "verdict": "supported",
+   "note": "体腔冲洗液加温范围符合指南"
+  },
+  {
+   "value": "不低于36℃",
+   "verdict": "supported",
+   "note": "核心体温管理目标符合指南标准"
+  },
+  {
+   "value": "36至37℃",
+   "verdict": "supported",
+   "note": "高危患者体温目标符合临床常规"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 836
+}

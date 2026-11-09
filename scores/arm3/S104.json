@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "六项",
+   "verdict": "supported",
+   "note": "符合ITACTIC等6项RCT协调化数据库事实"
+  },
+  {
+   "value": "742",
+   "verdict": "supported",
+   "note": "HEMOTION亚组样本量准确"
+  },
+  {
+   "value": ">7 g/dL",
+   "verdict": "supported",
+   "note": "HEMOTION限制性输血阈值准确"
+  },
+  {
+   "value": ">10 g/dL",
+   "verdict": "supported",
+   "note": "HEMOTION宽松性输血阈值准确"
+  },
+  {
+   "value": "ISS>15",
+   "verdict": "supported",
+   "note": "多发伤定义ISS阈值符合临床常规"
+  },
+  {
+   "value": "6个月",
+   "verdict": "supported",
+   "note": "GOS-E评估时间点准确"
+  },
+  {
+   "value": "第六版",
+   "verdict": "supported",
+   "note": "欧洲大出血指南版次准确"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 3,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 815
+}

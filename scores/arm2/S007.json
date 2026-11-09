@@ -1,0 +1,125 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1:1500（95%CI 1000–2500）",
+   "verdict": "supported",
+   "note": "符合近期流行病学皮肤试验数据(Savic等)"
+  },
+  {
+   "value": "1:3300（95%CI 2100–5300）",
+   "verdict": "supported",
+   "note": "罗库溴铵过敏率符合单国回顾性数据"
+  },
+  {
+   "value": "1:15000（95%CI 6800–40000）",
+   "verdict": "supported",
+   "note": "阿曲库铵过敏率符合同类回顾性数据"
+  },
+  {
+   "value": "8倍",
+   "verdict": "supported",
+   "note": "女性过敏风险为男性8倍符合文献报告"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "烧伤24h后高钾风险机制确立,教科书标准"
+  },
+  {
+   "value": "1–2年",
+   "verdict": "supported",
+   "note": "烧伤后避免使用时间窗符合指南共识"
+  },
+  {
+   "value": "12篇",
+   "verdict": "unverifiable",
+   "note": "Kounis综合征综述具体篇数无法核实"
+  },
+  {
+   "value": "6例",
+   "verdict": "unverifiable",
+   "note": "肌松药致Kounis综合征例数无法核实"
+  },
+  {
+   "value": "3例",
+   "verdict": "unverifiable",
+   "note": "舒更葡糖致Kounis综合征例数无法核实"
+  },
+  {
+   "value": "20分钟",
+   "verdict": "unverifiable",
+   "note": "过敏反应出现时间窗缺乏公认标准阈值"
+  },
+  {
+   "value": "45–75分钟",
+   "verdict": "unverifiable",
+   "note": "延迟反应时间窗缺乏公认标准阈值"
+  },
+  {
+   "value": "35例",
+   "verdict": "unverifiable",
+   "note": "系统综述样本量无法核实"
+  },
+  {
+   "value": "14/35例",
+   "verdict": "unverifiable",
+   "note": "未做过敏测试比例无法核实"
+  },
+  {
+   "value": "1.0",
+   "verdict": "supported",
+   "note": "相I阻滞TOF无衰减比率1.0为标准生理值"
+  },
+  {
+   "value": "4–8分钟",
+   "verdict": "supported",
+   "note": "正常假性胆碱酯酶TOF恢复时间符合教科书"
+  },
+  {
+   "value": "4–8小时",
+   "verdict": "supported",
+   "note": "非典型假性胆碱酯酶缺乏恢复时间符合"
+  },
+  {
+   "value": "≥1.5 mg/kg",
+   "verdict": "supported",
+   "note": "小儿琥珀胆碱插管剂量符合教科书推荐"
+  },
+  {
+   "value": "≥0.9 mg/kg",
+   "verdict": "supported",
+   "note": "小儿罗库溴铵插管剂量符合教科书推荐"
+  },
+  {
+   "value": "60秒",
+   "verdict": "supported",
+   "note": "小儿插管起效时间符合药代动力学特征"
+  },
+  {
+   "value": "20%–40%",
+   "verdict": "supported",
+   "note": "术后残余阻滞发生率符合经典文献范围"
+  },
+  {
+   "value": "56%",
+   "verdict": "supported",
+   "note": "残余阻滞极端发生率有文献报道支持"
+  },
+  {
+   "value": "0.4–0.5",
+   "verdict": "supported",
+   "note": "触觉察觉TOF衰减阈值符合教科书标准"
+  },
+  {
+   "value": "0.7",
+   "verdict": "supported",
+   "note": "临床无力持续TOFr阈值符合共识标准"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1182
+}

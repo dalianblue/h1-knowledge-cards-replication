@@ -1,0 +1,30 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.5 mEq/L/h",
+   "verdict": "unverifiable",
+   "note": "特定兔模型参数，无公认文献依据可查"
+  },
+  {
+   "value": "48小时升钠15 mEq/L",
+   "verdict": "unverifiable",
+   "note": "特定兔模型推算参数，无法溯源验证"
+  },
+  {
+   "value": "1、2、3 mEq/L/h",
+   "verdict": "unverifiable",
+   "note": "特定兔模型降钠速率，无公认文献依据"
+  },
+  {
+   "value": "154 mmol/L",
+   "verdict": "supported",
+   "note": "生理盐水钠离子浓度符合化学事实"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 1,
+ "usability": 2,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 922
+}

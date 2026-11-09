@@ -1,0 +1,40 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1 mEq/L/h",
+   "verdict": "unverifiable",
+   "note": "动物模型速率,无临床指南背书"
+  },
+  {
+   "value": "2 mEq/L/h",
+   "verdict": "unverifiable",
+   "note": "动物模型速率,无临床指南背书"
+  },
+  {
+   "value": "3 mEq/L/h",
+   "verdict": "unverifiable",
+   "note": "动物模型速率,无临床指南背书"
+  },
+  {
+   "value": "约30%",
+   "verdict": "supported",
+   "note": "CPB预充致氧输送下降符合生理学"
+  },
+  {
+   "value": "20%–30%",
+   "verdict": "supported",
+   "note": "中度血液稀释Hct范围符合教科书"
+  },
+  {
+   "value": "24–48小时",
+   "verdict": "unverifiable",
+   "note": "术后SIADH显现时间属推演无验证"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1785
+}

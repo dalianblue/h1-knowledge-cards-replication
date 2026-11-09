@@ -1,0 +1,40 @@
+{
+ "numeric_claims": [
+  {
+   "value": "30 ml/kg",
+   "verdict": "supported",
+   "note": "SSC指南脓毒症初始晶体液复苏量"
+  },
+  {
+   "value": "10,275例",
+   "verdict": "unverifiable",
+   "note": "MIMIC-III研究样本量,未提供溯源"
+  },
+  {
+   "value": "44%",
+   "verdict": "unverifiable",
+   "note": "MIMIC-III研究亚组比例,未提供溯源"
+  },
+  {
+   "value": "4516例",
+   "verdict": "unverifiable",
+   "note": "MIMIC-III研究具体例数,未提供溯源"
+  },
+  {
+   "value": "28天",
+   "verdict": "unverifiable",
+   "note": "观察终点时间,未提供具体文献"
+  },
+  {
+   "value": "8-12 mmHg",
+   "verdict": "supported",
+   "note": "传统CVP目标值,答案已指出无依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 991
+}

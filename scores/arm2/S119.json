@@ -1,0 +1,110 @@
+{
+ "numeric_claims": [
+  {
+   "value": "≤40%",
+   "verdict": "supported",
+   "note": "心衰GDMR启动ACEI/ARB+β阻滞剂界值"
+  },
+  {
+   "value": "≤30%",
+   "verdict": "supported",
+   "note": "ICD一级预防界值(心梗后>40天等)"
+  },
+  {
+   "value": "<30%",
+   "verdict": "supported",
+   "note": "TAVR高危情境界值(非麻醉禁忌)"
+  },
+  {
+   "value": "<50%",
+   "verdict": "supported",
+   "note": "无症状重度AS手术指征之一"
+  },
+  {
+   "value": "43.1±13.1%",
+   "verdict": "unverifiable",
+   "note": "特定ECPR队列撤机存活者EF,缺通用依据"
+  },
+  {
+   "value": "6.93%",
+   "verdict": "unverifiable",
+   "note": "死亡者EF平均差值,特定研究数据"
+  },
+  {
+   "value": "−10.0至−3.83",
+   "verdict": "unverifiable",
+   "note": "上述差值的95%CI,特定研究数据"
+  },
+  {
+   "value": "200例",
+   "verdict": "unverifiable",
+   "note": "左西孟旦VA-ECMO撤机研究样本量"
+  },
+  {
+   "value": "53例对147例",
+   "verdict": "unverifiable",
+   "note": "左西孟旦组与对照组例数"
+  },
+  {
+   "value": "9.7±10.1%",
+   "verdict": "unverifiable",
+   "note": "ECPR期间初始EF,特定研究数据"
+  },
+  {
+   "value": "77例",
+   "verdict": "unverifiable",
+   "note": "ECPR队列EF恢复研究样本量"
+  },
+  {
+   "value": "≥20–25%（个别≥30%）",
+   "verdict": "supported",
+   "note": "部分中心ECMO撤机参数(未获印证)"
+  },
+  {
+   "value": ">2.0–2.2 L/min/m²",
+   "verdict": "supported",
+   "note": "部分中心ECMO撤机CI参数(未获印证)"
+  },
+  {
+   "value": "24.7%对8.3%",
+   "verdict": "unverifiable",
+   "note": "SAVR与TAVR术后右室恶化率"
+  },
+  {
+   "value": "4.05",
+   "verdict": "unverifiable",
+   "note": "右室恶化比值比(OR)"
+  },
+  {
+   "value": "2.55–6.44",
+   "verdict": "unverifiable",
+   "note": "上述OR的95%CI"
+  },
+  {
+   "value": "1.98",
+   "verdict": "unverifiable",
+   "note": "右室恶化与死亡风险比(HR)"
+  },
+  {
+   "value": "1.40–2.79",
+   "verdict": "unverifiable",
+   "note": "上述HR的95%CI"
+  },
+  {
+   "value": "1376例",
+   "verdict": "unverifiable",
+   "note": "右室功能研究总样本量"
+  },
+  {
+   "value": "169例",
+   "verdict": "unverifiable",
+   "note": "右室功能研究死亡例数"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1460
+}

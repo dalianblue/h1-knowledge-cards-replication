@@ -1,0 +1,52 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5天",
+   "verdict": "supported",
+   "note": "ASRA/ESAIC指南推荐华法林术前停5天"
+  },
+  {
+   "value": "4至6小时",
+   "verdict": "wrong",
+   "note": "FⅦ半衰期约6小时,非4-6小时"
+  },
+  {
+   "value": "60小时",
+   "verdict": "supported",
+   "note": "FⅡ半衰期约60小时符合教科书"
+  },
+  {
+   "value": "12小时",
+   "verdict": "supported",
+   "note": "预防量LMWH穿刺间隔12h符合指南"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "治疗量LMWH穿刺间隔24h符合指南"
+  },
+  {
+   "value": "6小时",
+   "verdict": "supported",
+   "note": "静脉普通肝素穿刺间隔6h符合指南"
+  },
+  {
+   "value": "15141例",
+   "verdict": "unverifiable",
+   "note": "特定系统评价样本量,未给出文献来源"
+  },
+  {
+   "value": "96103例",
+   "verdict": "unverifiable",
+   "note": "单中心研究样本量,未给出文献来源"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [
+  "凝血因子Ⅶ半衰期错误：答案称约4至6小时，医学教科书及药理学共识（如Miller's Anesthesia及Goodman & Gilman）明确凝血因子Ⅶ的半衰期约为6小时（4-6小时下限偏低，且通常表述为6小时）。"
+ ],
+ "status": "ok",
+ "answer_chars": 1176
+}

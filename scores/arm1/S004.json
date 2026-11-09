@@ -1,0 +1,65 @@
+{
+ "numeric_claims": [
+  {
+   "value": "停用不少于5天",
+   "verdict": "supported",
+   "note": "ASRA/ESAIC指南均建议停华法林5天"
+  },
+  {
+   "value": "INR应不高于1.4",
+   "verdict": "supported",
+   "note": "ASRA指南规定穿刺/拔管INR≤1.4"
+  },
+  {
+   "value": "不高于1.2",
+   "verdict": "unverifiable",
+   "note": "主流指南无1.2阈值,属个别机构经验"
+  },
+  {
+   "value": "半衰期约为36至42小时",
+   "verdict": "supported",
+   "note": "药理学教科书中华法林半衰期约40h"
+  },
+  {
+   "value": "5个半衰期以上",
+   "verdict": "supported",
+   "note": "5个半衰期消除>96%符合药代动力学"
+  },
+  {
+   "value": "第4至5天复查INR",
+   "verdict": "supported",
+   "note": "ASRA建议停药4-5天后复查INR"
+  },
+  {
+   "value": "预防剂量停用12小时",
+   "verdict": "supported",
+   "note": "ASRA指南:预防LMWH桥接停12h"
+  },
+  {
+   "value": "治疗剂量停用24小时",
+   "verdict": "supported",
+   "note": "ASRA指南:治疗LMWH桥接停24h"
+  },
+  {
+   "value": "24至48小时内",
+   "verdict": "supported",
+   "note": "指南建议术后监测血肿征象24-48h"
+  },
+  {
+   "value": "拔管后4小时及24小时",
+   "verdict": "supported",
+   "note": "指南推荐拔管后2h及24h评估,4h亦合理"
+  },
+  {
+   "value": "拔管至少4小时",
+   "verdict": "unverifiable",
+   "note": "指南未明确华法林重启需等拔管4h"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 604
+}

@@ -1,0 +1,67 @@
+{
+ "numeric_claims": [
+  {
+   "value": "90例",
+   "verdict": "unverifiable",
+   "note": "特定RCT样本量，缺乏通用指南依据"
+  },
+  {
+   "value": "48小时",
+   "verdict": "unverifiable",
+   "note": "特定研究主要终点，非公认标准阈值"
+  },
+  {
+   "value": "60例",
+   "verdict": "unverifiable",
+   "note": "特定非劣性试验样本量，无法溯源"
+  },
+  {
+   "value": "0.2%罗哌卡因20毫升",
+   "verdict": "unverifiable",
+   "note": "特定研究给药参数，非指南推荐剂量"
+  },
+  {
+   "value": "0.2%罗哌卡因150毫升",
+   "verdict": "unverifiable",
+   "note": "特定LIA研究给药参数，非指南标准"
+  },
+  {
+   "value": "24小时",
+   "verdict": "unverifiable",
+   "note": "特定研究观察窗，非公认标准"
+  },
+  {
+   "value": "七倍以上",
+   "verdict": "supported",
+   "note": "150ml与20ml的比值，数学计算正确"
+  },
+  {
+   "value": "24至48小时",
+   "verdict": "supported",
+   "note": "TKA术后疼痛峰值时段符合临床事实"
+  },
+  {
+   "value": "75%",
+   "verdict": "wrong",
+   "note": "源自心胸外科泛化，跨人群搬运错误"
+  },
+  {
+   "value": "0.2%罗哌卡因每小时6至8毫升",
+   "verdict": "unverifiable",
+   "note": "答案自认缺乏溯源的操作参数"
+  },
+  {
+   "value": "0.5%罗哌卡因20至30毫升",
+   "verdict": "unverifiable",
+   "note": "答案自认缺乏溯源的操作参数"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 1,
+ "usability": 3,
+ "errors_found": [
+  "75%镇痛不足数值错误跨人群搬运"
+ ],
+ "status": "ok",
+ "answer_chars": 999
+}

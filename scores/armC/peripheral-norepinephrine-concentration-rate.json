@@ -1,0 +1,87 @@
+{
+ "numeric_claims": [
+  {
+   "value": "10 µg/mL",
+   "verdict": "supported",
+   "note": "PMID:34872102先导RCT设定的浓度"
+  },
+  {
+   "value": "60 例",
+   "verdict": "supported",
+   "note": "PMID:34872102的目标样本量"
+  },
+  {
+   "value": "100–120 mmHg",
+   "verdict": "supported",
+   "note": "PMID:34872102目标导向收缩压区间"
+  },
+  {
+   "value": "4 或 24 小时",
+   "verdict": "supported",
+   "note": "PMID:34872102术中及术后输注时长限定"
+  },
+  {
+   "value": "84%",
+   "verdict": "supported",
+   "note": "PMID:34872102报告的同意率"
+  },
+  {
+   "value": "1004 例",
+   "verdict": "supported",
+   "note": "PMID:38180886前瞻性观察样本量"
+  },
+  {
+   "value": "48 小时",
+   "verdict": "supported",
+   "note": "PMID:38180886不良事件观察窗"
+  },
+  {
+   "value": "220 mmHg",
+   "verdict": "supported",
+   "note": "PMID:38180886定义的血压不良事件阈值"
+  },
+  {
+   "value": "40 次/min",
+   "verdict": "supported",
+   "note": "PMID:38180886定义的心率不良事件阈值"
+  },
+  {
+   "value": "27 874 例",
+   "verdict": "supported",
+   "note": "PMID:42538266AKI分析样本量"
+  },
+  {
+   "value": "72 例",
+   "verdict": "supported",
+   "note": "PMID:40744797给药模式RCT样本量"
+  },
+  {
+   "value": "80–160 µg/mL",
+   "verdict": "wrong",
+   "note": "外周NE此浓度极高,致组织坏死"
+  },
+  {
+   "value": "0.05–0.1 µg/kg/min",
+   "verdict": "unverifiable",
+   "note": "常见起始速率但答案称无外周溯源"
+  },
+  {
+   "value": ">1 µg/kg/min",
+   "verdict": "unverifiable",
+   "note": "常见警戒线但答案称无外周溯源"
+  },
+  {
+   "value": "<6–12 h",
+   "verdict": "unverifiable",
+   "note": "常见时限但答案称无外周溯源"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 4,
+ "errors_found": [
+  "将80–160 µg/mL列为外周NE常用浓度属严重事实错误，此浓度用于中心静脉，外周使用将致严重外渗坏死"
+ ],
+ "status": "ok",
+ "answer_chars": 4148
+}

@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "version": "v2 (2026-11-07 定稿, 施主批'39题调整+6凑45')",
+    "seed": 1106,
+    "total": 45,
+    "adjustments_1107": {
+      "swap_reason": "同题跨层重复会污染配对统计(去重)",
+      "swaps": [
+        {"layer": "D", "out": "tubeless-vs-double-lumen-tube", "in": "dvt-size-threshold-no-treatment", "reason": "E层已有同题tubeless-vs-double-lumen-thoracic-surgery"},
+        {"layer": "B", "out": "sugammadex-adverse-events-prevention", "in": "fospropofol-induction-pruritus-management", "reason": "D层已有sugammadex-rocuronium-reversal-adverse-effects"}
+      ],
+      "added_6": [
+        {"slug": "succinylcholine-hyperkalemia-window", "layer": "B", "why": "机制层补薄: 去神经支配受体时间窗=经典机制+数值交界"},
+        {"slug": "perioperative-kounis-syndrome-differential", "layer": "B", "why": "过敏→冠脉痉挛机制识别, 2026-11新发布"},
+        {"slug": "das-2025-difficult-airway-first-attempt", "layer": "D", "why": "DAS 2025新指南=参数知识时效盲区典型"},
+        {"slug": "perioperative-anticoagulation-extreme-obesity-pe", "layer": "E", "why": "施主真实病例=知识边界题, 三臂诚实度差异本身是数据"},
+        {"slug": "bis-monitoring-neurosurgery-value", "layer": "E", "why": "施主研究方向域, 专家盲评锚点题"},
+        {"slug": "knee-surgery-multimodal-analgesia-gaps", "layer": "E", "why": "2026-11新证据综合, 评分金标准清晰"}
+      ]
+    }
+  },
+  "A_数值密集": [
+    "lvef-anesthesia-threshold-ecmo-weaning",
+    "fusdagannulin-neuraxial-interval",
+    "cvp-fluid-resuscitation-guidance",
+    "warfarin-neuraxial-anesthesia-inr-timing",
+    "aspirin-clopidogrel-periop-cessation",
+    "hypokalemia-surgery-threshold",
+    "perioperative-hyperkalemia-management",
+    "rivaroxaban-neuraxial-anesthesia-timing",
+    "perioperative-hypernatremia-hyponatremia-management",
+    "obstetric-hemorrhage-trauma-coagulopathy"
+  ],
+  "B_机制解释": [
+    "preoperative-hypoglycemia-candy-aspiration-risk",
+    "fospropofol-induction-pruritus-management",
+    "postoperative-nausea-vomiting-antiemetics",
+    "pacu-discharge-criteria-anesthesia",
+    "intraoperative-hypothermia-prevention-complications",
+    "emergence-agitation-anesthesia-causes-management",
+    "succinylcholine-hyperkalemia-window",
+    "perioperative-kounis-syndrome-differential"
+  ],
+  "C_临床决策": [
+    "preoxygenation-pao2-desaturation-time",
+    "pediatric-postoperative-analgesia",
+    "tachycardia-exercise-vs-tavi-pacing",
+    "open-globe-injury-anesthesia",
+    "norepinephrine-weight-vs-absolute-dosing",
+    "preoperative-blood-glucose-threshold-surgery",
+    "dexamethasone-diabetes-perioperative-glucose",
+    "ankle-brachial-pressure-difference-intraoperative",
+    "peripheral-norepinephrine-concentration-rate",
+    "alveolar-capillary-oxygenation-transit-time-factors"
+  ],
+  "D_指南推荐": [
+    "peep-perioperative-general-anesthesia-review",
+    "fondaparinux-neuraxial-anesthesia-interval",
+    "ice-cap-cpb-evidence-gap",
+    "sugammadex-rocuronium-reversal-adverse-effects",
+    "orthopedic-preoperative-fasting-2h-gap",
+    "mechanical-valve-leaflet-failure-missed-echo",
+    "methotrexate-anesthesia-rheumatoid-arthritis",
+    "dvt-size-threshold-no-treatment",
+    "das-2025-difficult-airway-first-attempt"
+  ],
+  "E_近期热点": [
+    "tubeless-vs-double-lumen-thoracic-surgery",
+    "teer-degenerative-p1-prolapse-lung-cancer",
+    "asymptomatic-triple-vessel-stenosis-preop",
+    "tbi-coagulopathy-distinct-phenotype",
+    "cisatracurium-coronary-stenosis-induction-evidence",
+    "perioperative-anticoagulation-extreme-obesity-pe",
+    "bis-monitoring-neurosurgery-value",
+    "knee-surgery-multimodal-analgesia-gaps"
+  ]
+}

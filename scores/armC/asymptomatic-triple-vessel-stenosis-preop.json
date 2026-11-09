@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "舒张压≥110 mmHg",
+   "verdict": "supported",
+   "note": "符合教科书重度高血压推迟手术阈值"
+  },
+  {
+   "value": "收缩压≥180 mmHg",
+   "verdict": "supported",
+   "note": "符合教科书重度高血压推迟手术阈值"
+  },
+  {
+   "value": "降至160/100 mmHg以下",
+   "verdict": "supported",
+   "note": "符合教科书择期手术降压目标值"
+  },
+  {
+   "value": "球囊扩张2周",
+   "verdict": "supported",
+   "note": "符合指南POBA后延迟手术时间"
+  },
+  {
+   "value": "BMS 1个月",
+   "verdict": "supported",
+   "note": "符合指南BMS后延迟手术时间"
+  },
+  {
+   "value": "DES最好1年",
+   "verdict": "supported",
+   "note": "符合传统指南DES后延迟时间"
+  },
+  {
+   "value": "DES风险权衡可6个月",
+   "verdict": "supported",
+   "note": "符合现行指南DES最短延迟时间"
+  },
+  {
+   "value": "MICA多发生在术后24–72小时",
+   "verdict": "supported",
+   "note": "符合围术期心梗峰值时间窗"
+  },
+  {
+   "value": "n=18 211",
+   "verdict": "unverifiable",
+   "note": "文献样本量，无公认标准核对"
+  },
+  {
+   "value": "中位随访3.6年",
+   "verdict": "unverifiable",
+   "note": "文献随访时间，无公认标准核对"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2511
+}

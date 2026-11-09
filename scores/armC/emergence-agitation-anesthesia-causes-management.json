@@ -1,0 +1,90 @@
+{
+ "numeric_claims": [
+  {
+   "value": "35.6/1000例麻醉",
+   "verdict": "supported",
+   "note": "PMID:37010956队列研究发生率"
+  },
+  {
+   "value": "95% CI 34.1–37.2",
+   "verdict": "supported",
+   "note": "PMID:37010956研究置信区间"
+  },
+  {
+   "value": "2003例",
+   "verdict": "supported",
+   "note": "PMID:37010956深镇静事件数"
+  },
+  {
+   "value": "56 275例",
+   "verdict": "supported",
+   "note": "PMID:37010956回顾队列总样本量"
+  },
+  {
+   "value": "RASS ≤−4",
+   "verdict": "supported",
+   "note": "PMID:37010956深镇静切点定义"
+  },
+  {
+   "value": "入PACU时、入PACU后30 min、1 h、出PACU时",
+   "verdict": "supported",
+   "note": "PMID:25540068谵妄评估时间点"
+  },
+  {
+   "value": "儿童10–20%",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "成人5%",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "疼痛占40%以上",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "SpO₂<90%",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "EtCO₂>50 mmHg",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "TOF<0.9",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "血糖<3.9 mmol/L",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "体温>38.5℃",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "膀胱>400 mL",
+   "verdict": "unverifiable",
+   "note": "明确标注为模型意见未溯源"
+  },
+  {
+   "value": "MAP维持60 mmHg",
+   "verdict": "unverifiable",
+   "note": "专科麻醉目标,与EA无因果依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2595
+}

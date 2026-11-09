@@ -1,0 +1,55 @@
+{
+ "numeric_claims": [
+  {
+   "value": "通过时间0.75–1.0 s",
+   "verdict": "unverifiable",
+   "note": "答案声明查无实据,无法从给定文献溯源"
+  },
+  {
+   "value": "弥散平衡0.25–0.35 s",
+   "verdict": "unverifiable",
+   "note": "答案声明查无实据,无法从给定文献溯源"
+  },
+  {
+   "value": "弥散储备2–3倍",
+   "verdict": "unverifiable",
+   "note": "答案声明查无实据,无法从给定文献溯源"
+  },
+  {
+   "value": "32.3±3.4 kg",
+   "verdict": "supported",
+   "note": "直接引用PMID:38207290仔猪体重数据"
+  },
+  {
+   "value": "PEEP 5与15 cmH₂O",
+   "verdict": "supported",
+   "note": "直接引用PMID:35818077研究设定参数"
+  },
+  {
+   "value": "PEEP阶差10 cmH₂O",
+   "verdict": "supported",
+   "note": "直接引用PMID:32697482两步PEEP试验设计"
+  },
+  {
+   "value": "肺毛细血管总血容量70–140 mL",
+   "verdict": "unverifiable",
+   "note": "溯源声明指出卡片库无出处,未采用"
+  },
+  {
+   "value": "静息肺血流5 L/min",
+   "verdict": "unverifiable",
+   "note": "溯源声明指出卡片库无出处,未采用"
+  },
+  {
+   "value": "运动时通过时间0.25–0.4 s",
+   "verdict": "unverifiable",
+   "note": "溯源声明指出卡片库无出处,未采用"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 3246
+}

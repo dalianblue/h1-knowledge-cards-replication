@@ -1,0 +1,80 @@
+{
+ "numeric_claims": [
+  {
+   "value": "92%或93%",
+   "verdict": "supported",
+   "note": "常见RCT终点(如SpO2 92%/93%)符合文献"
+  },
+  {
+   "value": "70 mmHg",
+   "verdict": "supported",
+   "note": "PaO2 70mmHg对应SpO2平台期,逻辑成立"
+  },
+  {
+   "value": "84例随机、79例完成插管",
+   "verdict": "unverifiable",
+   "note": "特定RCT数据,未提供来源无法核实"
+  },
+  {
+   "value": "45、70、95 L/min",
+   "verdict": "unverifiable",
+   "note": "2025年特定试验流量,无来源无法核实"
+  },
+  {
+   "value": "8项研究、共1953例",
+   "verdict": "unverifiable",
+   "note": "特定荟萃分析数据,无来源无法核实"
+  },
+  {
+   "value": "27.6%",
+   "verdict": "unverifiable",
+   "note": "常规组绝对风险,无来源无法核实"
+  },
+  {
+   "value": "19.1%",
+   "verdict": "unverifiable",
+   "note": "给氧组绝对风险,无来源无法核实"
+  },
+  {
+   "value": "80例健康产妇",
+   "verdict": "unverifiable",
+   "note": "特定产科RCT数据,无来源无法核实"
+  },
+  {
+   "value": "3.6分钟",
+   "verdict": "unverifiable",
+   "note": "产科面罩有效时间,无来源无法核实"
+  },
+  {
+   "value": "3.3至6.7分钟",
+   "verdict": "unverifiable",
+   "note": "95%置信区间,无来源无法核实"
+  },
+  {
+   "value": "4至6分钟",
+   "verdict": "supported",
+   "note": "经典教科书推算安全窒息时间"
+  },
+  {
+   "value": "2至3分钟",
+   "verdict": "supported",
+   "note": "高危人群(肥胖/孕妇)安全窗缩短符合生理"
+  },
+  {
+   "value": "2.5 L",
+   "verdict": "supported",
+   "note": "成人FRC约2.5L为标准生理学假设"
+  },
+  {
+   "value": "250 mL/min",
+   "verdict": "supported",
+   "note": "静息氧耗量约250mL/min为标准假设"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1198
+}

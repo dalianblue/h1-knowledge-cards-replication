@@ -1,0 +1,55 @@
+{
+ "numeric_claims": [
+  {
+   "value": "舒张压不低于110毫米汞柱",
+   "verdict": "supported",
+   "note": "符合指南高血压推迟择期手术标准"
+  },
+  {
+   "value": "收缩压不低于180毫米汞柱",
+   "verdict": "supported",
+   "note": "符合指南高血压推迟择期手术标准"
+  },
+  {
+   "value": "降至160/100毫米汞柱以下",
+   "verdict": "supported",
+   "note": "符合指南降压目标及手术允许阈值"
+  },
+  {
+   "value": "球囊扩张后择期非心脏手术延迟2周",
+   "verdict": "supported",
+   "note": "符合ACC/AHA指南球囊扩张延迟时间"
+  },
+  {
+   "value": "裸金属支架后1个月",
+   "verdict": "supported",
+   "note": "符合ACC/AHA指南BMS延迟时间"
+  },
+  {
+   "value": "药物洗脱支架最好1年并可考虑6个月",
+   "verdict": "supported",
+   "note": "符合现行指南DES延迟1年及6个月共识"
+  },
+  {
+   "value": "6.0%的患者接受术前静息超声心动图",
+   "verdict": "unverifiable",
+   "note": "特定队列数据,原文未提供具体来源"
+  },
+  {
+   "value": "可分类者29%缺乏适当指征",
+   "verdict": "unverifiable",
+   "note": "特定队列数据,原文未提供具体来源"
+  },
+  {
+   "value": "随访仅3.6年",
+   "verdict": "unverifiable",
+   "note": "特定研究数据,原文未提供具体来源"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1088
+}

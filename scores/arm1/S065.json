@@ -1,0 +1,30 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.5–1 mg",
+   "verdict": "supported",
+   "note": "符合指南过敏性休克肌注肾上腺素剂量"
+  },
+  {
+   "value": "10–50 μg",
+   "verdict": "supported",
+   "note": "符合指南过敏性休克静推肾上腺素小剂量"
+  },
+  {
+   "value": "25–50 mg",
+   "verdict": "supported",
+   "note": "符合指南苯海拉明(H1阻滞剂)推荐剂量"
+  },
+  {
+   "value": "1–2 mg/kg",
+   "verdict": "supported",
+   "note": "符合指南甲泼尼龙糖皮质激素剂量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 905
+}

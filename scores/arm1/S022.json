@@ -1,0 +1,27 @@
+{
+ "numeric_claims": [
+  {
+   "value": "两倍ED95",
+   "verdict": "supported",
+   "note": "教科书明确≤2倍ED95无显著组胺释放"
+  },
+  {
+   "value": "三倍ED95",
+   "verdict": "supported",
+   "note": "≥3倍ED95快速推注可致组胺释放"
+  },
+  {
+   "value": "三至五分钟",
+   "verdict": "wrong",
+   "note": "顺阿曲库铵起效约1.5-3分钟"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "顺阿曲库铵起效时间声称需三至五分钟，实际为1.5至3分钟，3-5分钟为严重高估"
+ ],
+ "status": "ok",
+ "answer_chars": 849
+}

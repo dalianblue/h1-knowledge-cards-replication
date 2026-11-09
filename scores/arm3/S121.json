@@ -1,0 +1,55 @@
+{
+ "numeric_claims": [
+  {
+   "value": "10 µg/mL",
+   "verdict": "supported",
+   "note": "确为外周去甲肾上腺素可行性试验常用浓度"
+  },
+  {
+   "value": "84%",
+   "verdict": "unverifiable",
+   "note": "特定试验同意率,缺乏通用指南依据"
+  },
+  {
+   "value": "98%",
+   "verdict": "unverifiable",
+   "note": "特定试验成功率,缺乏通用指南依据"
+  },
+  {
+   "value": "10%",
+   "verdict": "unverifiable",
+   "note": "特定试验滴定目标,缺乏通用指南依据"
+  },
+  {
+   "value": "100–120 mmHg",
+   "verdict": "unverifiable",
+   "note": "特定试验血压区间,缺乏通用指南依据"
+  },
+  {
+   "value": "1004例",
+   "verdict": "unverifiable",
+   "note": "特定研究样本量,缺乏通用指南依据"
+  },
+  {
+   "value": "72例",
+   "verdict": "unverifiable",
+   "note": "特定研究样本量,缺乏通用指南依据"
+  },
+  {
+   "value": "27874例",
+   "verdict": "unverifiable",
+   "note": "特定研究样本量,缺乏通用指南依据"
+  },
+  {
+   "value": "4小时",
+   "verdict": "unverifiable",
+   "note": "特定试验设计窗口,缺乏通用指南依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 3,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1011
+}

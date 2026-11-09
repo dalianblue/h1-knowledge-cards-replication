@@ -1,0 +1,63 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2 mg/kg",
+   "verdict": "supported",
+   "note": "常规拮抗(PTC≥2)剂量符合说明书"
+  },
+  {
+   "value": "4 mg/kg",
+   "verdict": "supported",
+   "note": "深度阻滞(PTC1-2)剂量符合说明书"
+  },
+  {
+   "value": "16 mg/kg",
+   "verdict": "supported",
+   "note": "紧急气道即刻逆转剂量符合说明书"
+  },
+  {
+   "value": "3分钟内",
+   "verdict": "supported",
+   "note": "即刻逆转时限符合说明书规定"
+  },
+  {
+   "value": "超过10秒",
+   "verdict": "wrong",
+   "note": "说明书推荐快速推注,非超过10秒"
+  },
+  {
+   "value": "2分钟内",
+   "verdict": "supported",
+   "note": "2mg/kg起效时间符合文献"
+  },
+  {
+   "value": "1.5分钟",
+   "verdict": "supported",
+   "note": "4mg/kg起效时间符合文献"
+  },
+  {
+   "value": "0.9以上",
+   "verdict": "supported",
+   "note": "TOFR≥0.9拔管标准为共识"
+  },
+  {
+   "value": "2至5分钟",
+   "verdict": "supported",
+   "note": "复测时间符合临床常规"
+  },
+  {
+   "value": "1.2 mg/kg",
+   "verdict": "supported",
+   "note": "紧急场景罗库溴铵剂量符合指南"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 3,
+ "errors_found": [
+  "注射时间超过10秒错误，指南与说明书要求快速静脉推注，未规定推注需超过10秒",
+  "声称对维库溴铵无效后又称与维库溴铵结合，前后矛盾，事实上舒更葡糖对维库溴铵有效但亲和力低于罗库溴铵"
+ ],
+ "status": "ok",
+ "answer_chars": 977
+}

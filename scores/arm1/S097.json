@@ -1,0 +1,77 @@
+{
+ "numeric_claims": [
+  {
+   "value": "肌酐清除率≥80 mL/min，标准风险停药≥24小时",
+   "verdict": "supported",
+   "note": "符合ASRA/ESAIC指南对CrCl≥80的间隔要求"
+  },
+  {
+   "value": "肌酐清除率≥80 mL/min，高出血风险停药≥48小时",
+   "verdict": "supported",
+   "note": "符合ASRA/ESAIC指南对高出血风险要求"
+  },
+  {
+   "value": "肌酐清除率50-79 mL/min，标准风险停药≥24小时",
+   "verdict": "supported",
+   "note": "符合ASRA/ESAIC指南对该肾功能区间要求"
+  },
+  {
+   "value": "肌酐清除率50-79 mL/min，高出血风险停药≥48小时",
+   "verdict": "supported",
+   "note": "符合ASRA/ESAIC指南对该肾功能区间要求"
+  },
+  {
+   "value": "肌酐清除率30-49 mL/min，标准风险停药≥36小时",
+   "verdict": "supported",
+   "note": "符合ASRA/ESAIC指南对该肾功能区间要求"
+  },
+  {
+   "value": "肌酐清除率30-49 mL/min，高出血风险停药≥48小时",
+   "verdict": "supported",
+   "note": "符合ASRA/ESAIC指南对该肾功能区间要求"
+  },
+  {
+   "value": "肌酐清除率15-29 mL/min，均需停药≥48小时",
+   "verdict": "supported",
+   "note": "符合ASRA/ESAIC指南，且属避免使用情形"
+  },
+  {
+   "value": "预防剂量10 mg每日一次",
+   "verdict": "supported",
+   "note": "符合利伐沙班标准预防剂量"
+  },
+  {
+   "value": "治疗剂量15或20 mg",
+   "verdict": "supported",
+   "note": "符合利伐沙班标准治疗剂量"
+  },
+  {
+   "value": "服药后18至24小时达峰效应",
+   "verdict": "wrong",
+   "note": "利伐沙班达峰时间为2-4小时，非18-24h"
+  },
+  {
+   "value": "拔管后至少6小时方可恢复利伐沙班",
+   "verdict": "supported",
+   "note": "符合ASRA指南对拔管后恢复抗凝要求"
+  },
+  {
+   "value": "治疗剂量建议至少24小时后再恢复",
+   "verdict": "supported",
+   "note": "符合ASRA指南对治疗剂量恢复要求"
+  },
+  {
+   "value": "血肿减压的黄金窗为8至12小时",
+   "verdict": "supported",
+   "note": "符合教科书与共识对减压时间窗要求"
+  }
+ ],
+ "hallucination_rate": 0.08,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "利伐沙班服药后达峰效应时间错误，实际为2-4小时，答案误述为18-24小时（18-24小时实为半衰期或药物消除时间，而非达峰时间）"
+ ],
+ "status": "ok",
+ "answer_chars": 815
+}

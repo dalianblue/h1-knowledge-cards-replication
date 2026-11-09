@@ -1,0 +1,25 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2小时",
+   "verdict": "supported",
+   "note": "ASA/指南清饮禁饮时间"
+  },
+  {
+   "value": "6至8小时",
+   "verdict": "supported",
+   "note": "指南固体食物禁食时间"
+  },
+  {
+   "value": "400毫升",
+   "verdict": "supported",
+   "note": "ASA清饮限量标准"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 945
+}

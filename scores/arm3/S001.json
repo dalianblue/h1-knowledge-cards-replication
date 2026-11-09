@@ -1,0 +1,50 @@
+{
+ "numeric_claims": [
+  {
+   "value": "低分子肝素预防剂量停药至少12小时",
+   "verdict": "supported",
+   "note": "ASRA/ESAIC指南明确预防量间隔12h"
+  },
+  {
+   "value": "低分子肝素治疗剂量停药至少24小时",
+   "verdict": "supported",
+   "note": "ASRA/ESAIC指南明确治疗量间隔24h"
+  },
+  {
+   "value": "华法林需停药至少5天",
+   "verdict": "supported",
+   "note": "指南共识要求停药4-5天查INR正常"
+  },
+  {
+   "value": "静脉普通肝素术前停药至少6小时",
+   "verdict": "supported",
+   "note": "ASRA指南推荐静脉肝素停4-6h"
+  },
+  {
+   "value": "磺达肝素预防36小时",
+   "verdict": "unverifiable",
+   "note": "答案声明无法溯源，不予采信"
+  },
+  {
+   "value": "磺达肝素治疗72小时",
+   "verdict": "unverifiable",
+   "note": "答案声明无法溯源，不予采信"
+  },
+  {
+   "value": "肌酐清除率30-50ml/min时延长至至少72小时",
+   "verdict": "unverifiable",
+   "note": "答案声明无法溯源，不予采信"
+  },
+  {
+   "value": "拔管后4-6小时恢复给药",
+   "verdict": "unverifiable",
+   "note": "答案声明无法溯源，不予采信"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 2,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 773
+}

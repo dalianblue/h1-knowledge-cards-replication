@@ -1,0 +1,1562 @@
+{
+ "resident-b0-0": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0214.json",
+   "book-Anes5th-chunk_0229.json",
+   "book-Anes5th-chunk_0507.json",
+   "book-Anes5th-chunk_0508.json"
+  ],
+  "questions": [
+   {
+    "q": "成人行床旁胃超声评估胃容量时，应选用频率为2～5MHz的腹部凸阵探头。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·四、胃肠道功能的超声评估",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b0-1": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0214.json",
+   "book-Anes5th-chunk_0229.json",
+   "book-Anes5th-chunk_0507.json",
+   "book-Anes5th-chunk_0508.json"
+  ],
+  "questions": [
+   {
+    "q": "床旁胃超声评估围手术期反流误吸风险时，患者取左侧卧位测量胃窦截面积最接近真实胃容量。",
+    "a": "错",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "麻醉学·四、胃肠道功能的超声评估",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b0-2": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0214.json",
+   "book-Anes5th-chunk_0229.json",
+   "book-Anes5th-chunk_0507.json",
+   "book-Anes5th-chunk_0508.json"
+  ],
+  "questions": [
+   {
+    "q": "依赖性药物通过阻断多巴胺转运体，导致突触间隙多巴胺聚集而产生欣快感。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "麻醉学·二、参与药物依赖的神经递质",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-3": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0484.json",
+   "book-Anes5th-chunk_0043.json",
+   "book-Anes5th-chunk_0256.json",
+   "book-Anes5th-chunk_0047.json"
+  ],
+  "questions": [
+   {
+    "q": "肝衰竭终末期患者的蛋白质供给量应为1.2-1.5g/(kg·d)。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·肝衰竭患者的营养支持",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-4": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0484.json",
+   "book-Anes5th-chunk_0043.json",
+   "book-Anes5th-chunk_0256.json",
+   "book-Anes5th-chunk_0047.json"
+  ],
+  "questions": [
+   {
+    "q": "成人蛛网膜下腔穿刺应在第2腰椎以下进行，而小儿应在第3腰椎以下进行。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "麻醉学·椎管解剖",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-5": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0484.json",
+   "book-Anes5th-chunk_0043.json",
+   "book-Anes5th-chunk_0256.json",
+   "book-Anes5th-chunk_0047.json"
+  ],
+  "questions": [
+   {
+    "q": "在面罩通气术中，为避免胃胀气，送气时间应不少于2秒。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·面罩通气术",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-6": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0495.json",
+   "book-Anes5th-chunk_0478.json",
+   "book-Anes5th-chunk_0071.json",
+   "book-Anes5th-chunk_0287.json"
+  ],
+  "questions": [
+   {
+    "q": "危重患者营养支持需待血流动力学稳定、水电解质酸碱平衡24小时后启动。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·一、营养支持方案的选择",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-7": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0495.json",
+   "book-Anes5th-chunk_0478.json",
+   "book-Anes5th-chunk_0071.json",
+   "book-Anes5th-chunk_0287.json"
+  ],
+  "questions": [
+   {
+    "q": "术前肺功能评估中，FVC<15ml/kg为高度危险。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·二、肺功能的评估",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-8": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0495.json",
+   "book-Anes5th-chunk_0478.json",
+   "book-Anes5th-chunk_0071.json",
+   "book-Anes5th-chunk_0287.json"
+  ],
+  "questions": [
+   {
+    "q": "日间手术采用椎管内麻醉的患者，需下肢感觉运动功能完全恢复后才能出院。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "麻醉学·三、日间手术麻醉的常用方法",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b0-9": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0415.json",
+   "book-Anes5th-chunk_0352.json",
+   "book-Anes5th-chunk_0286.json",
+   "book-Anes5th-chunk_0387.json"
+  ],
+  "questions": [
+   {
+    "q": "心搏骤停后5分钟内开始开胸按压可提高自主复跳率，开胸切口为胸骨左缘第4肋间至左腋前线。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·尽早开始高质量的CPR",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b0-10": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0415.json",
+   "book-Anes5th-chunk_0352.json",
+   "book-Anes5th-chunk_0286.json",
+   "book-Anes5th-chunk_0387.json"
+  ],
+  "questions": [
+   {
+    "q": "日间手术麻醉适应证要求手术时间一般不超过2小时，且患者年龄应在1岁以上至65岁以下。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·日间手术麻醉的适应证",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b0-11": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0415.json",
+   "book-Anes5th-chunk_0352.json",
+   "book-Anes5th-chunk_0286.json",
+   "book-Anes5th-chunk_0387.json"
+  ],
+  "questions": [
+   {
+    "q": "休克治疗中，当Hb<70g/L应输浓缩红细胞，而pH<7.15时需用碳酸氢钠纠正酸中毒。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·休克治疗的基本原则",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-12": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0147.json",
+   "book-Anes5th-chunk_0115.json",
+   "book-Anes5th-chunk_0033.json",
+   "book-Anes5th-chunk_0453.json"
+  ],
+  "questions": [
+   {
+    "q": "围手术期低血压定义为收缩压下降大于基础值20%或MAP小于60mmHg，需按病因处理并防治器官缺血。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·围术期低血压诊断",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-13": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0147.json",
+   "book-Anes5th-chunk_0115.json",
+   "book-Anes5th-chunk_0033.json",
+   "book-Anes5th-chunk_0453.json"
+  ],
+  "questions": [
+   {
+    "q": "对于服用ACEI/ARB的患者，为防治围手术期低血压，应于术前24小时停用该类药物。",
+    "a": "对",
+    "cat": "时机",
+    "diff": "medium",
+    "src": "麻醉学·围术期低血压处理",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-14": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0147.json",
+   "book-Anes5th-chunk_0115.json",
+   "book-Anes5th-chunk_0033.json",
+   "book-Anes5th-chunk_0453.json"
+  ],
+  "questions": [
+   {
+    "q": "在MODS的临床评估与监测中，需每24～72小时复查一次床旁X线胸片以评估肺部情况。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·MODS评估与监测",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-15": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0209.json",
+   "book-Anes5th-chunk_0024.json",
+   "book-Anes5th-chunk_0197.json",
+   "book-Anes5th-chunk_0308.json"
+  ],
+  "questions": [
+   {
+    "q": "术前访视通常应在麻醉前1～3天完成，以进行麻醉前患者状态评估。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·麻醉前评估内容",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-16": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0209.json",
+   "book-Anes5th-chunk_0024.json",
+   "book-Anes5th-chunk_0197.json",
+   "book-Anes5th-chunk_0308.json"
+  ],
+  "questions": [
+   {
+    "q": "麻醉后恢复室（PACU）的监护时间一般不超过48小时。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·PACU概述",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-17": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0209.json",
+   "book-Anes5th-chunk_0024.json",
+   "book-Anes5th-chunk_0197.json",
+   "book-Anes5th-chunk_0308.json"
+  ],
+  "questions": [
+   {
+    "q": "在PACU人员配置中，护士人数与PACU床位数之比应≥1:3，且至少配备1名麻醉医师。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·PACU概述",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b3-18": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0351.json",
+   "book-Anes5th-chunk_0360.json",
+   "book-Anes5th-chunk_0484.json",
+   "book-Anes5th-chunk_0475.json"
+  ],
+  "questions": [
+   {
+    "q": "患者在海平面静息状态下呼吸空气，测得PaO2为55mmHg、PaCO2为45mmHg，符合急性呼吸衰竭的诊断标准。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·急性呼吸衰竭概念",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b3-19": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0351.json",
+   "book-Anes5th-chunk_0360.json",
+   "book-Anes5th-chunk_0484.json",
+   "book-Anes5th-chunk_0475.json"
+  ],
+  "questions": [
+   {
+    "q": "监测发现患者的肺动脉楔压（PAWP）为20mmHg，该结果支持患者存在左心衰竭。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·实验室检查PAWP",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b3-20": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0351.json",
+   "book-Anes5th-chunk_0360.json",
+   "book-Anes5th-chunk_0484.json",
+   "book-Anes5th-chunk_0475.json"
+  ],
+  "questions": [
+   {
+    "q": "肝衰竭终末期患者的蛋白质供给量应为1.2-1.5g/(kg·d)，肝性脑病患者应将蛋白摄入分4-6次少量进餐。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·肝衰竭营养支持",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "fellow-b0-21": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0024.json",
+   "book-Lcsa-chunk_0457.json",
+   "book-Lcsa-chunk_0504.json",
+   "book-Lcsa-chunk_0671.json"
+  ],
+  "questions": [
+   {
+    "q": "急性心肌梗死并发室间隔穿孔患者，宜延迟3~4周至间隔纤维化后再行手术修复。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "麻醉学临床思维·心梗并发室间隔穿孔",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b0-22": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0024.json",
+   "book-Lcsa-chunk_0457.json",
+   "book-Lcsa-chunk_0504.json",
+   "book-Lcsa-chunk_0671.json"
+  ],
+  "questions": [
+   {
+    "q": "急性心肌梗死并发室间隔穿孔通常发生于心梗后1~3天。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学临床思维·心梗并发室间隔穿孔",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b0-23": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0024.json",
+   "book-Lcsa-chunk_0457.json",
+   "book-Lcsa-chunk_0504.json",
+   "book-Lcsa-chunk_0671.json"
+  ],
+  "questions": [
+   {
+    "q": "A型主动脉夹层未治疗的第一天每小时死亡率约为0.5%~1%。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "hard",
+    "src": "麻醉学临床思维·A型夹层围术期管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b1-24": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0048.json",
+   "book-Lcsa-chunk_0463.json",
+   "book-Lcsa-chunk_0657.json",
+   "book-Lcsa-chunk_0343.json"
+  ],
+  "questions": [
+   {
+    "q": "严重创伤患者的三个死亡高峰中，第二死亡高峰多死于失血性休克等。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "重度创伤性脑损伤死亡案例分析",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b1-25": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0048.json",
+   "book-Lcsa-chunk_0463.json",
+   "book-Lcsa-chunk_0657.json",
+   "book-Lcsa-chunk_0343.json"
+  ],
+  "questions": [
+   {
+    "q": "急性心肌梗死并发室间隔穿孔患者心脏手术的围术期管理，血压控制目标为120~130/70~80mmHg，心率控制目标为60~80次/min。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "急性心梗并发室间隔穿孔麻醉管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b1-26": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0048.json",
+   "book-Lcsa-chunk_0463.json",
+   "book-Lcsa-chunk_0657.json",
+   "book-Lcsa-chunk_0343.json"
+  ],
+  "questions": [
+   {
+    "q": "妊娠合并急性主动脉夹层患者需控制血压心率，血压控制目标为100-120/60-80mmHg，心率控制目标为70-90次/min。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "妊娠合并主动脉夹层麻醉管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b2-27": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0071.json",
+   "book-Lcsa-chunk_0489.json",
+   "book-Lcsa-chunk_0127.json",
+   "book-Lcsa-chunk_0333.json"
+  ],
+  "questions": [
+   {
+    "q": "急性心肌梗死并发室间隔穿孔患者行心脏手术麻醉时，需维持较高的中心静脉压（10-15mmHg）以保证前向血流，避免脱水。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学临床思维·心梗室间隔穿孔",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b2-28": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0071.json",
+   "book-Lcsa-chunk_0489.json",
+   "book-Lcsa-chunk_0127.json",
+   "book-Lcsa-chunk_0333.json"
+  ],
+  "questions": [
+   {
+    "q": "脓毒症休克麻醉管理中，识别血管麻痹综合征后，可使用亚甲蓝2mg/kg输注30分钟用于难治性血管麻痹。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "hard",
+    "src": "麻醉学临床思维·难治性产后出血",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b2-29": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0071.json",
+   "book-Lcsa-chunk_0489.json",
+   "book-Lcsa-chunk_0127.json",
+   "book-Lcsa-chunk_0333.json"
+  ],
+  "questions": [
+   {
+    "q": "嗜铬细胞瘤合并扩张型心肌病患者手术麻醉需有创监测，优选七氟烷和丙泊酚，避免使用氯胺酮、吗啡及泮库溴铵，慎用右美托咪定。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "麻醉学临床思维·嗜铬细胞瘤合并心病",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b3-30": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0199.json",
+   "book-Lcsa-chunk_0115.json",
+   "book-Lcsa-chunk_0383.json",
+   "book-Lcsa-chunk_0047.json"
+  ],
+  "questions": [
+   {
+    "q": "创伤性膈疝麻醉需保留自主呼吸、避免正压通气，还纳后渐增潮气量，控制CO2，慎用丙泊酚。",
+    "a": "错",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "全凭静脉麻醉术后苏醒延迟",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b3-31": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0199.json",
+   "book-Lcsa-chunk_0115.json",
+   "book-Lcsa-chunk_0383.json",
+   "book-Lcsa-chunk_0047.json"
+  ],
+  "questions": [
+   {
+    "q": "重度创伤性脑损伤患者采用损伤控制性复苏时，允许性低血压应维持收缩压在80~90mmHg。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "重度创伤性脑损伤二次开颅",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b3-32": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0199.json",
+   "book-Lcsa-chunk_0115.json",
+   "book-Lcsa-chunk_0383.json",
+   "book-Lcsa-chunk_0047.json"
+  ],
+  "questions": [
+   {
+    "q": "重度创伤性脑损伤患者大量输血时，新鲜冰冻血浆、血小板与红细胞的比例应为1:1:2。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "重度创伤性脑损伤二次开颅",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "senior-b0-33": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_0378.json",
+   "book-Xdax5D-chunk_0456.json",
+   "book-Xdax5D-chunk_1327.json",
+   "book-Xdax5D-chunk_1705.json"
+  ],
+  "questions": [
+   {
+    "q": "小儿蛛网膜下腔阻滞使用1%丁卡因时，剂量为0.4~1.0mg/kg，加用肾上腺素后作用持续时间可延长至90~120分钟。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学第5版下册区域麻醉",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b0-34": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_0378.json",
+   "book-Xdax5D-chunk_0456.json",
+   "book-Xdax5D-chunk_1327.json",
+   "book-Xdax5D-chunk_1705.json"
+  ],
+  "questions": [
+   {
+    "q": "患者机械通气时，若FiO2超过60%低氧仍不改善，应考虑提高PEEP等措施，且目标PaO2应维持在50~80mmHg。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学第5版下册实施方法",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b0-35": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_0378.json",
+   "book-Xdax5D-chunk_0456.json",
+   "book-Xdax5D-chunk_1327.json",
+   "book-Xdax5D-chunk_1705.json"
+  ],
+  "questions": [
+   {
+    "q": "计算正常心率时，正常青年人约70~100次/min，去神经支配后的固有心率约为85次/min。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "现代麻醉学第5版上册心排血量",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b1-36": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_1365.json",
+   "book-Xdax5D-chunk_0255.json",
+   "book-Xdax5U-chunk_0432.json",
+   "book-Xdax5U-chunk_1358.json"
+  ],
+  "questions": [
+   {
+    "q": "对于术前体温低于36°C的患者，应在麻醉诱导前至少20分钟开始主动保温，且术前等候区或手术室温度应维持在≥23°C。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学5版上册·围术期低体温",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b1-37": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_1365.json",
+   "book-Xdax5D-chunk_0255.json",
+   "book-Xdax5U-chunk_0432.json",
+   "book-Xdax5U-chunk_1358.json"
+  ],
+  "questions": [
+   {
+    "q": "围手术期低体温防治中，术中环境温度应维持在≥23°C，且每15~30分钟测量一次体温。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "现代麻醉学5版上册·围术期低体温",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b1-38": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_1365.json",
+   "book-Xdax5D-chunk_0255.json",
+   "book-Xdax5U-chunk_0432.json",
+   "book-Xdax5U-chunk_1358.json"
+  ],
+  "questions": [
+   {
+    "q": "主动脉瓣关闭不全的麻醉管理核心为增加前负荷、维持心率约90次/分、降低体循环阻力以增加前向血流。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "现代麻醉学5版下册·麻醉管理",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b2-39": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_1363.json",
+   "book-Xdax5D-chunk_0832.json",
+   "book-Xdax5U-chunk_0222.json",
+   "book-Xdax5U-chunk_1915.json"
+  ],
+  "questions": [
+   {
+    "q": "围手术期低体温可使患者切口感染率从6%升至19%，并导致拆线时间延长1天、住院时间延长2.6天。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学5版上册·低体温不良后果",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b2-40": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_1363.json",
+   "book-Xdax5D-chunk_0832.json",
+   "book-Xdax5U-chunk_0222.json",
+   "book-Xdax5U-chunk_1915.json"
+  ],
+  "questions": [
+   {
+    "q": "阵发性睡眠性血红蛋白尿症患者术前需评估溶血诱因、血细胞减少和血栓风险，输血应避免输入全血，而输入洗涤红细胞或去白细胞红细胞。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "现代麻醉学5版下册·造血干细胞疾病",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b2-41": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_1363.json",
+   "book-Xdax5D-chunk_0832.json",
+   "book-Xdax5U-chunk_0222.json",
+   "book-Xdax5U-chunk_1915.json"
+  ],
+  "questions": [
+   {
+    "q": "手术室二氧化碳浓度达到0.05%即可产生危害，手术室最高噪声限值为90dB，超过80dB可致部分人听力减退。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "hard",
+    "src": "现代麻醉学5版上册·有害物质污染",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b3-42": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1413.json",
+   "book-Xdax5D-chunk_0930.json",
+   "book-Xdax5D-chunk_0948.json",
+   "book-Xdax5D-chunk_0856.json"
+  ],
+  "questions": [
+   {
+    "q": "ICU疼痛管理以阿片类药物持续静脉注射为主，提倡多模式镇痛以减少副作用，并按CPOT评估调整剂量，CPOT总分范围为0~10分。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学(第5版)下册·镇痛药物",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b3-43": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1413.json",
+   "book-Xdax5D-chunk_0930.json",
+   "book-Xdax5D-chunk_0948.json",
+   "book-Xdax5D-chunk_0856.json"
+  ],
+  "questions": [
+   {
+    "q": "既往无呼吸或心脏分流疾病者突发通气或换气障碍，诊断为急性呼吸衰竭的阈值标准为PaO₂≤60mmHg和/或PaCO₂≥50mmHg。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学(第5版)下册·急性呼吸衰竭",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b3-44": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1413.json",
+   "book-Xdax5D-chunk_0930.json",
+   "book-Xdax5D-chunk_0948.json",
+   "book-Xdax5D-chunk_0856.json"
+  ],
+  "questions": [
+   {
+    "q": "主动脉内球囊反搏撤离指征包括EF>3L/m²、MAP>70mmHg等，其中要求脉压>30mmHg、尿量>30ml/h。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "现代麻醉学(第5版)下册·体外生命支持",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b0-45": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0346.json",
+   "book-Anes5th-chunk_0337.json",
+   "book-Anes5th-chunk_0026.json",
+   "book-Anes5th-chunk_0416.json"
+  ],
+  "questions": [
+   {
+    "q": "患者新发心肌梗死4周拟行择期手术，其术前评估属于高危因素。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·麻醉前患者状态评估",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b0-46": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0346.json",
+   "book-Anes5th-chunk_0337.json",
+   "book-Anes5th-chunk_0026.json",
+   "book-Anes5th-chunk_0416.json"
+  ],
+  "questions": [
+   {
+    "q": "术前肺功能评估示MVV为25%预计值，该患者仍具备手术指征。",
+    "a": "错",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "麻醉学·麻醉前患者状态评估",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b0-47": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0346.json",
+   "book-Anes5th-chunk_0337.json",
+   "book-Anes5th-chunk_0026.json",
+   "book-Anes5th-chunk_0416.json"
+  ],
+  "questions": [
+   {
+    "q": "小儿胸内电除颤首次能量从5J/kg开始，总量不超过20J/kg。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "hard",
+    "src": "麻醉学·电除颤",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-48": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0475.json",
+   "book-Anes5th-chunk_0075.json",
+   "book-Anes5th-chunk_0106.json",
+   "book-Anes5th-chunk_0369.json"
+  ],
+  "questions": [
+   {
+    "q": "严重创伤患者容量复苏时，血浆、红细胞与血小板的比例应为1:1:1。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·三、严重创伤患者的临床评估",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-49": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0475.json",
+   "book-Anes5th-chunk_0075.json",
+   "book-Anes5th-chunk_0106.json",
+   "book-Anes5th-chunk_0369.json"
+  ],
+  "questions": [
+   {
+    "q": "有创动脉血压监测时，传感器位置每升高5cm，血压值相应升高3～4mmHg。",
+    "a": "错",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "麻醉学·二、有创动脉血压监测",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b1-50": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0475.json",
+   "book-Anes5th-chunk_0075.json",
+   "book-Anes5th-chunk_0106.json",
+   "book-Anes5th-chunk_0369.json"
+  ],
+  "questions": [
+   {
+    "q": "危重患者营养评估中，年龄≥70岁者NRS 2002总分需加2分。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·一、危重患者营养状况的评估方法",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-51": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0199.json",
+   "book-Anes5th-chunk_0233.json",
+   "book-Anes5th-chunk_0511.json",
+   "book-Anes5th-chunk_0234.json"
+  ],
+  "questions": [
+   {
+    "q": "超声引导下坐骨神经阻滞时，局麻药用量通常为20～30ml。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学·周围神经阻滞",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-52": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0199.json",
+   "book-Anes5th-chunk_0233.json",
+   "book-Anes5th-chunk_0511.json",
+   "book-Anes5th-chunk_0234.json"
+  ],
+  "questions": [
+   {
+    "q": "阿片类药物停药后18～36小时出现明显戒断症状。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·药物依赖临床表现",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "resident-b2-53": {
+  "role": "resident",
+  "book": "麻醉学(第5版)",
+  "card_files": [
+   "book-Anes5th-chunk_0199.json",
+   "book-Anes5th-chunk_0233.json",
+   "book-Anes5th-chunk_0511.json",
+   "book-Anes5th-chunk_0234.json"
+  ],
+  "questions": [
+   {
+    "q": "超声引导下桡动脉穿刺置管时，长轴平面内进针角度应为45°～60°。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "麻醉学·血管穿刺置管",
+    "book": "麻醉学(第5版)"
+   }
+  ]
+ },
+ "fellow-b0-54": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0057.json",
+   "book-Lcsa-chunk_0339.json",
+   "book-Lcsa-chunk_0089.json",
+   "book-Lcsa-chunk_0293.json"
+  ],
+  "questions": [
+   {
+    "q": "妊娠合并A型主动脉夹层患者术前控制血压和心率时，β受体阻滞剂为首选药物。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "妊娠合并主动脉夹层麻醉管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b0-55": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0057.json",
+   "book-Lcsa-chunk_0339.json",
+   "book-Lcsa-chunk_0089.json",
+   "book-Lcsa-chunk_0293.json"
+  ],
+  "questions": [
+   {
+    "q": "妊娠合并主动脉夹层患者术前心率控制目标约为70次/min，收缩压持续高于120mmHg时加用血管扩张药。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "妊娠合并主动脉夹层麻醉管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b0-56": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0057.json",
+   "book-Lcsa-chunk_0339.json",
+   "book-Lcsa-chunk_0089.json",
+   "book-Lcsa-chunk_0293.json"
+  ],
+  "questions": [
+   {
+    "q": "右房黏液瘤合并肺动脉栓塞患者围术期需避免触碰瘤体，选择对循环抑制最小的麻醉药，结合TEE和脑氧饱和度监测，多巴酚丁胺等辅助脱机。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "室壁瘤直肠癌手术麻醉管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b1-57": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0231.json",
+   "book-Lcsa-chunk_0148.json",
+   "book-Lcsa-chunk_0389.json",
+   "book-Lcsa-chunk_0117.json"
+  ],
+  "questions": [
+   {
+    "q": "利多卡因血浆浓度达10~12μg/mL时可出现惊厥，达20~25μg/mL时出现心脏毒性。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学临床思维·其他并发症",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b1-58": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0231.json",
+   "book-Lcsa-chunk_0148.json",
+   "book-Lcsa-chunk_0389.json",
+   "book-Lcsa-chunk_0117.json"
+  ],
+  "questions": [
+   {
+    "q": "局麻药全身毒性反应表现为抽搐时，需立即静脉给予丙泊酚控制惊厥，并注意血流动力学变化。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "麻醉学临床思维·其他并发症",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b1-59": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0231.json",
+   "book-Lcsa-chunk_0148.json",
+   "book-Lcsa-chunk_0389.json",
+   "book-Lcsa-chunk_0117.json"
+  ],
+  "questions": [
+   {
+    "q": "减重手术患者SpO2<90%且持续>1min定义为术后低氧血症。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "麻醉学临床思维·减重手术低氧血症",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b2-60": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0305.json",
+   "book-Lcsa-chunk_0300.json",
+   "book-Lcsa-chunk_0657.json",
+   "book-Lcsa-chunk_0483.json"
+  ],
+  "questions": [
+   {
+    "q": "室壁瘤患者行直肠癌手术的麻醉以气管插管全麻为主，备血管活性药、TEE监测，术后入ICU。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "室壁瘤患者直肠癌手术麻醉管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b2-61": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0305.json",
+   "book-Lcsa-chunk_0300.json",
+   "book-Lcsa-chunk_0657.json",
+   "book-Lcsa-chunk_0483.json"
+  ],
+  "questions": [
+   {
+    "q": "50%室壁瘤发生于心梗后48h，其余多发生于心梗后1周。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "室壁瘤发生时间分布",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b2-62": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0305.json",
+   "book-Lcsa-chunk_0300.json",
+   "book-Lcsa-chunk_0657.json",
+   "book-Lcsa-chunk_0483.json"
+  ],
+  "questions": [
+   {
+    "q": "妊娠合并主动脉夹层麻醉管理重点：维持血流动力学稳定，避免低血压影响胎盘灌注和高血压导致夹层破裂，术后镇痛用舒芬太尼联合右美托咪定，可母乳喂养。",
+    "a": "错",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "妊娠合并主动脉夹层麻醉管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b3-63": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0253.json",
+   "book-Lcsa-chunk_0127.json",
+   "book-Lcsa-chunk_0077.json",
+   "book-Lcsa-chunk_0424.json"
+  ],
+  "questions": [
+   {
+    "q": "巨大右心房黏液瘤手术中，在切除瘤体前应在三尖瓣口垫湿纱布以防碎片脱落，切除后彻底清洗心腔并使用动脉微栓滤器降低栓塞风险。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "巨大右心房黏液瘤手术麻醉管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b3-64": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0253.json",
+   "book-Lcsa-chunk_0127.json",
+   "book-Lcsa-chunk_0077.json",
+   "book-Lcsa-chunk_0424.json"
+  ],
+  "questions": [
+   {
+    "q": "脓毒症休克出现难治性血管麻痹时，可使用亚甲蓝1mg/kg输注30分钟进行治疗。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "难治性产后出血围术期管理",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "fellow-b3-65": {
+  "role": "fellow",
+  "book": "麻醉学临床思维与案例分析",
+  "card_files": [
+   "book-Lcsa-chunk_0253.json",
+   "book-Lcsa-chunk_0127.json",
+   "book-Lcsa-chunk_0077.json",
+   "book-Lcsa-chunk_0424.json"
+  ],
+  "questions": [
+   {
+    "q": "腹腔镜术中发生气体栓塞时，识别后应立即解除气腹、纯氧通气，并采取头低左侧卧位。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "腹腔镜气体栓塞心搏骤停",
+    "book": "麻醉学临床思维与案例分析"
+   }
+  ]
+ },
+ "senior-b0-66": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_0224.json",
+   "book-Xdax5U-chunk_0345.json",
+   "book-Xdax5D-chunk_1112.json",
+   "book-Xdax5D-chunk_1214.json"
+  ],
+  "questions": [
+   {
+    "q": "脓毒性休克患者为起到肾脏保护作用，推荐使用小剂量多巴胺<2μg/(kg·min)。",
+    "a": "错",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "现代麻醉学第5版下册休克治疗",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b0-67": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_0224.json",
+   "book-Xdax5U-chunk_0345.json",
+   "book-Xdax5D-chunk_1112.json",
+   "book-Xdax5D-chunk_1214.json"
+  ],
+  "questions": [
+   {
+    "q": "休克患者使用血管加压素时，常规使用剂量不应大于0.03~0.04U/min。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "medium",
+    "src": "现代麻醉学第5版下册休克治疗",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b0-68": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5U-chunk_0224.json",
+   "book-Xdax5U-chunk_0345.json",
+   "book-Xdax5D-chunk_1112.json",
+   "book-Xdax5D-chunk_1214.json"
+  ],
+  "questions": [
+   {
+    "q": "心肺复苏建立人工气道后，应每6秒进行一次通气，即每分钟10次。",
+    "a": "对",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学第5版下册循环支持",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b1-69": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_0828.json",
+   "book-Xdax5U-chunk_0441.json",
+   "book-Xdax5U-chunk_0882.json",
+   "book-Xdax5D-chunk_1143.json"
+  ],
+  "questions": [
+   {
+    "q": "术后谵妄患者症状控制后，应持续用药4~5天再停药。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学(第5版)下册·谵妄",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b1-70": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_0828.json",
+   "book-Xdax5U-chunk_0441.json",
+   "book-Xdax5U-chunk_0882.json",
+   "book-Xdax5D-chunk_1143.json"
+  ],
+  "questions": [
+   {
+    "q": "术后谵妄的治疗中，苯二氮䓬类药物不推荐常规使用，但戒断性谵妄除外。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "现代麻醉学(第5版)下册·谵妄",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b1-71": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_0828.json",
+   "book-Xdax5U-chunk_0441.json",
+   "book-Xdax5U-chunk_0882.json",
+   "book-Xdax5D-chunk_1143.json"
+  ],
+  "questions": [
+   {
+    "q": "术后谵妄的治疗中，利斯的明推荐作为常规用药。",
+    "a": "错",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "现代麻醉学(第5版)下册·谵妄",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b2-72": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1711.json",
+   "book-Xdax5D-chunk_0693.json",
+   "book-Xdax5U-chunk_1899.json",
+   "book-Xdax5U-chunk_0173.json"
+  ],
+  "questions": [
+   {
+    "q": "围术期过敏性休克患者发生过敏反应后，需在4~6周行皮肤点刺或皮内试验以确定过敏原。",
+    "a": "对",
+    "cat": "时机",
+    "diff": "medium",
+    "src": "现代麻醉学第5版下册过敏性休克",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b2-73": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1711.json",
+   "book-Xdax5D-chunk_0693.json",
+   "book-Xdax5U-chunk_1899.json",
+   "book-Xdax5U-chunk_0173.json"
+  ],
+  "questions": [
+   {
+    "q": "在手术室燃烧爆炸的三要素中，50%氧气与50%氧化亚氮混合气体的助燃作用相当于80%纯氧。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "hard",
+    "src": "现代麻醉学第5版上册燃烧与爆炸",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b2-74": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1711.json",
+   "book-Xdax5D-chunk_0693.json",
+   "book-Xdax5U-chunk_1899.json",
+   "book-Xdax5U-chunk_0173.json"
+  ],
+  "questions": [
+   {
+    "q": "中医认为术中出血伴气随血脱时，输血仅补血容量不能补气，反可能耗正气。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "现代麻醉学第5版下册术中意外病机",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b3-75": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1406.json",
+   "book-Xdax5D-chunk_1037.json",
+   "book-Xdax5U-chunk_0915.json",
+   "book-Xdax5U-chunk_0696.json"
+  ],
+  "questions": [
+   {
+    "q": "ICU镇静提倡目标导向浅镇静，并推荐将脑电双频指数(BIS)作为客观连续监测方法，其中BIS=70对应全身麻醉状态。",
+    "a": "错",
+    "cat": "数值",
+    "diff": "easy",
+    "src": "现代麻醉学(第5版)下册·常用镇静药物",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b3-76": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1406.json",
+   "book-Xdax5D-chunk_1037.json",
+   "book-Xdax5U-chunk_0915.json",
+   "book-Xdax5U-chunk_0696.json"
+  ],
+  "questions": [
+   {
+    "q": "急性ST段抬高型心肌梗死(STEMI)血流中断15~20分钟开始不可逆损伤，若在发病4~6小时内恢复血流可挽救心肌，且1~2小时内恢复血流挽救可能性更大。",
+    "a": "对",
+    "cat": "结论",
+    "diff": "medium",
+    "src": "现代麻醉学(第5版)下册·急性冠状动脉综合征",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ },
+ "senior-b3-77": {
+  "role": "senior",
+  "book": "现代麻醉学(第5版)",
+  "card_files": [
+   "book-Xdax5D-chunk_1406.json",
+   "book-Xdax5D-chunk_1037.json",
+   "book-Xdax5U-chunk_0915.json",
+   "book-Xdax5U-chunk_0696.json"
+  ],
+  "questions": [
+   {
+    "q": "帕瑞昔布为COX-2选择性抑制剂，用于骨关节炎和类风湿关节炎时，老年人需根据肌酐清除率进行剂量调整。",
+    "a": "错",
+    "cat": "结论",
+    "diff": "easy",
+    "src": "现代麻醉学(第5版)上册·帕瑞昔布",
+    "book": "现代麻醉学(第5版)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "numeric_claims": [
+  {
+   "value": "4786例",
+   "verdict": "supported",
+   "note": "CIRT试验(N Engl J Med)入组人数"
+  },
+  {
+   "value": "15–20 mg/周",
+   "verdict": "supported",
+   "note": "CIRT试验低剂量MTX方案"
+  },
+  {
+   "value": "1 mg叶酸",
+   "verdict": "supported",
+   "note": "CIRT试验每日叶酸补充剂量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1579
+}

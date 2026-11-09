@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3小时",
+   "verdict": "supported",
+   "note": "CRASH-3试验证实伤后3h内给药获益"
+  },
+  {
+   "value": "1克经10分钟静脉注射后以1克持续8小时输注",
+   "verdict": "supported",
+   "note": "符合CRASH-2/3标准TXA给药方案"
+  },
+  {
+   "value": "60至70毫米汞柱",
+   "verdict": "supported",
+   "note": "BTF指南推荐CPP下限60-70mmHg"
+  },
+  {
+   "value": "80毫米汞柱",
+   "verdict": "supported",
+   "note": "维持CPP>60需MAP>80(假设ICP<20)"
+  },
+  {
+   "value": "80至90毫米汞柱",
+   "verdict": "supported",
+   "note": "多发伤允许性低血压目标SBP80-90"
+  },
+  {
+   "value": "1.5至2.0克每升",
+   "verdict": "supported",
+   "note": "TBI纤维蛋白原目标>1.5-2.0g/L"
+  },
+  {
+   "value": "50×10⁹/L",
+   "verdict": "supported",
+   "note": "多发伤大量输血血小板阈值50"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 969
+}

@@ -1,0 +1,35 @@
+{
+ "numeric_claims": [
+  {
+   "value": "14%（178/1246）",
+   "verdict": "supported",
+   "note": "符合择期患者胃超声高风险比例文献数据"
+  },
+  {
+   "value": "21%（158/757）",
+   "verdict": "supported",
+   "note": "符合急诊患者胃超声高风险比例文献数据"
+  },
+  {
+   "value": "60 mg/dL",
+   "verdict": "supported",
+   "note": "符合儿童低血糖诊断标准阈值"
+  },
+  {
+   "value": "3.3 mmol/L",
+   "verdict": "supported",
+   "note": "60mg/dL换算正确，符合低血糖阈值"
+  },
+  {
+   "value": "1.5 ml·kg⁻¹",
+   "verdict": "supported",
+   "note": "符合胃超声误吸高风险胃液量阈值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 823
+}

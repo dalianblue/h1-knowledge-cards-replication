@@ -1,0 +1,240 @@
+{
+ "numeric_claims": [
+  {
+   "value": "300 mmHg",
+   "verdict": "supported",
+   "note": "预充氧后PaO2可达300mmHg左右"
+  },
+  {
+   "value": "70 mmHg",
+   "verdict": "supported",
+   "note": "PaO2 70mmHg约对应SpO2 92-93%"
+  },
+  {
+   "value": "1至3分钟",
+   "verdict": "unverifiable",
+   "note": "300降至100mmHg时间无公认文献定论"
+  },
+  {
+   "value": "2至5分钟",
+   "verdict": "unverifiable",
+   "note": "100降至70mmHg时间无公认文献定论"
+  },
+  {
+   "value": "3至8分钟",
+   "verdict": "unverifiable",
+   "note": "合计时间缺乏直接文献证据支持"
+  },
+  {
+   "value": "9分钟",
+   "verdict": "supported",
+   "note": "健康成人呼吸暂停至SpO2 80%约9分钟"
+  },
+  {
+   "value": "3分钟",
+   "verdict": "supported",
+   "note": "儿童/肥胖成人去饱和时间不超过3分钟"
+  },
+  {
+   "value": "309秒",
+   "verdict": "supported",
+   "note": "面罩预充氧至SpO2 92%中位时间"
+  },
+  {
+   "value": "344秒",
+   "verdict": "supported",
+   "note": "单纯经鼻高流量至SpO2 92%中位时间"
+  },
+  {
+   "value": "386秒",
+   "verdict": "supported",
+   "note": "经鼻高流量联合口咬嘴至SpO2 92%中位时间"
+  },
+  {
+   "value": "p=0.014",
+   "verdict": "supported",
+   "note": "三种方式比较的P值"
+  },
+  {
+   "value": "p=0.006",
+   "verdict": "supported",
+   "note": "面罩与联合方式比较的P值"
+  },
+  {
+   "value": "49 kPa",
+   "verdict": "supported",
+   "note": "面罩预充氧3分钟后PaO2中位值"
+  },
+  {
+   "value": "57 kPa",
+   "verdict": "supported",
+   "note": "单纯经鼻高流量预充氧3分钟后PaO2中位值"
+  },
+  {
+   "value": "61 kPa",
+   "verdict": "supported",
+   "note": "联合方式预充氧3分钟后PaO2中位值"
+  },
+  {
+   "value": "p=0.003",
+   "verdict": "supported",
+   "note": "三种预充氧后PaO2比较的P值"
+  },
+  {
+   "value": "45 L/min",
+   "verdict": "supported",
+   "note": "经鼻高流量氧疗流率之一"
+  },
+  {
+   "value": "70 L/min",
+   "verdict": "supported",
+   "note": "经鼻高流量氧疗流率之一"
+  },
+  {
+   "value": "95 L/min",
+   "verdict": "supported",
+   "note": "经鼻高流量氧疗流率之一"
+  },
+  {
+   "value": "472秒",
+   "verdict": "supported",
+   "note": "45L/min对应的安全呼吸暂停时间"
+  },
+  {
+   "value": "523秒",
+   "verdict": "supported",
+   "note": "70L/min对应的安全呼吸暂停时间"
+  },
+  {
+   "value": "483秒",
+   "verdict": "supported",
+   "note": "95L/min对应的安全呼吸暂停时间"
+  },
+  {
+   "value": "P=0.59",
+   "verdict": "supported",
+   "note": "三档流率安全时间比较的P值"
+  },
+  {
+   "value": "27.6%",
+   "verdict": "supported",
+   "note": "常规护理组低氧血症发生率"
+  },
+  {
+   "value": "19.1%",
+   "verdict": "supported",
+   "note": "无呼吸氧合组低氧血症发生率"
+  },
+  {
+   "value": "30%",
+   "verdict": "supported",
+   "note": "相对危险度降低幅度"
+  },
+  {
+   "value": "0.59至0.82",
+   "verdict": "supported",
+   "note": "RRR的95%置信区间"
+  },
+  {
+   "value": "0.77",
+   "verdict": "supported",
+   "note": "死亡率相对危险度"
+  },
+  {
+   "value": "0.59至1.02",
+   "verdict": "supported",
+   "note": "死亡率RR的95%置信区间"
+  },
+  {
+   "value": "3.6分钟",
+   "verdict": "supported",
+   "note": "健康产妇面罩预充氧90%有效时间"
+  },
+  {
+   "value": "3.3至6.7",
+   "verdict": "supported",
+   "note": "3.6分钟的95%置信区间"
+  },
+  {
+   "value": "71%",
+   "verdict": "supported",
+   "note": "产妇3分钟达标率(面罩)"
+  },
+  {
+   "value": "0%",
+   "verdict": "supported",
+   "note": "产妇3分钟达标率(经鼻高流量)"
+  },
+  {
+   "value": "8分钟",
+   "verdict": "supported",
+   "note": "产妇经鼻高流量评估时间点"
+  },
+  {
+   "value": "55%",
+   "verdict": "supported",
+   "note": "8分钟未达标率(加简单面罩)"
+  },
+  {
+   "value": "92%",
+   "verdict": "supported",
+   "note": "8分钟未达标率(不加面罩)"
+  },
+  {
+   "value": "体重指数50 kg/m²",
+   "verdict": "supported",
+   "note": "极度肥胖的BMI设定值"
+  },
+  {
+   "value": "1.8至8.5分钟",
+   "verdict": "supported",
+   "note": "BMI 50时HFNC对呼吸暂停时间改善"
+  },
+  {
+   "value": "体重指数24 kg/m²",
+   "verdict": "supported",
+   "note": "正常体重BMI设定值"
+  },
+  {
+   "value": "超过60分钟",
+   "verdict": "supported",
+   "note": "BMI 24时HFNC对呼吸暂停时间改善"
+  },
+  {
+   "value": "64 mmHg",
+   "verdict": "supported",
+   "note": "HFNC提高PaO2的平均差值"
+  },
+  {
+   "value": "32至97",
+   "verdict": "supported",
+   "note": "PaO2平均差的95%置信区间"
+  },
+  {
+   "value": "p<0.001",
+   "verdict": "supported",
+   "note": "PaO2差异的P值"
+  },
+  {
+   "value": "7%",
+   "verdict": "supported",
+   "note": "无创通气组SpO2<85%发生率"
+  },
+  {
+   "value": "46%",
+   "verdict": "supported",
+   "note": "对照组SpO2<85%发生率"
+  },
+  {
+   "value": "p<0.01",
+   "verdict": "supported",
+   "note": "低氧血症发生率的P值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1328
+}

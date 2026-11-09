@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "generated": "2026-11-08T01:50",
+  "scorer": "GLM-4.6 (thinking disabled), temp=0.2",
+  "n_scores": 129,
+  "ok": 129,
+  "paired_analysis_n": 39,
+  "note": "拦截/零断言按保守错误率1.0代入敏感性口径; 主配对n=38(非零断言)"
+ },
+ "arm_totals": {
+  "arm1_bare_ds": {
+   "n": 45,
+   "claims": 510,
+   "supported_pct": 88.2,
+   "wrong_pct": 7.3,
+   "hallucination_mean": 0.055,
+   "trace_mean": 3.59,
+   "usability_mean": 4.38
+  },
+  "arm2_cardlib": {
+   "n": 39,
+   "claims": 685,
+   "supported_pct": 59.3,
+   "wrong_pct": 1.6,
+   "hallucination_mean": 0.092,
+   "trace_mean": 2.85,
+   "usability_mean": 4.23,
+   "note": "6题回答性预检拦截(协议计0分)"
+  },
+  "arm3_chunk_rag": {
+   "n": 45,
+   "claims": 437,
+   "supported_pct": 58.1,
+   "wrong_pct": 5.9,
+   "hallucination_mean": 0.066,
+   "trace_mean": 2.41,
+   "usability_mean": 3.67
+  }
+ },
+ "hypothesis_tests": {
+  "H1a_i_arm2_lt_arm1": {
+   "p": 0.0167,
+   "n_pairs": 20,
+   "result": "SUPPORTED"
+  },
+  "H1a_ii_arm3_lt_arm1": {
+   "p": 0.3576,
+   "n_pairs": 23,
+   "result": "NOT SUPPORTED (臂3错误率与臂1无差甚至略高)"
+  },
+  "H1b_arm2_lt_arm3": {
+   "p": 0.0056,
+   "n_pairs": 20,
+   "result": "SUPPORTED (错误率降65%)"
+  },
+  "usability_arm2_vs_arm1": {
+   "p": 0.2124,
+   "result": "NS"
+  },
+  "usability_arm3_vs_arm1": {
+   "p": 0.0005,
+   "result": "臂3显著低于臂1"
+  },
+  "usability_arm2_vs_arm3": {
+   "p": 0.0038,
+   "result": "臂3显著低于臂2"
+  }
+ },
+ "effect_sizes": {
+  "arm2_vs_arm1_wrong_reduction": "67%",
+  "arm3_vs_arm1": "4%(NS)",
+  "arm2_vs_arm3_wrong_reduction": "65%"
+ },
+ "layer_breakdown": {
+  "A_数值密集": {
+   "wrong": [
+    0.078,
+    0.025,
+    0.034
+   ]
+  },
+  "B_机制解释": {
+   "wrong": [
+    0.01,
+    0.022,
+    0.214
+   ]
+  },
+  "C_临床决策": {
+   "wrong": [
+    0.037,
+    0.004,
+    0.021
+   ]
+  },
+  "D_指南推荐": {
+   "wrong": [
+    0.079,
+    0.025,
+    0.072
+   ]
+  },
+  "E_近期热点": {
+   "wrong": [
+    0.052,
+    0.022,
+    0.159
+   ]
+  }
+ },
+ "honest_surprise": [
+  "臂1裸DS的GLM评分数值准确率88%——benchmark型题面下裸模型并不弱(施主benchmark挑战被数据证实)",
+  "臂2的错误率最低(1.6%)但supported率也低(59.3%)——卡库管线大量使用\"模型意见,未溯源\"降级表述+fail-closed拒答具体值",
+  "臂3(chunk-RAG)错误率5.9%且可用性显著最低——原始chunk喂给同款生成函数, 数值从散文里猜, 幻觉空间回归",
+  "臂2的幻觉率(0.092)反而高于臂1(0.055)——\"未溯源但给了内容\"的表述被评者记为幻觉, 这本身是评分口径发现"
+ ]
+}

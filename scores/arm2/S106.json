@@ -1,0 +1,110 @@
+{
+ "numeric_claims": [
+  {
+   "value": "6–10 mmol/L",
+   "verdict": "supported",
+   "note": "指南共识推荐胰岛素等治疗者下限6"
+  },
+  {
+   "value": "4–10 mmol/L",
+   "verdict": "supported",
+   "note": "指南共识推荐非胰岛素治疗者下限4"
+  },
+  {
+   "value": "53 mmol/mol（7.0%）",
+   "verdict": "supported",
+   "note": "HbA1c理想水平低于7.0%有指南依据"
+  },
+  {
+   "value": "69 mmol/mol",
+   "verdict": "unverifiable",
+   "note": "HbA1c推迟手术阈值指南多推荐8.0%"
+  },
+  {
+   "value": "3个月",
+   "verdict": "supported",
+   "note": "HbA1c检测有效期3个月内符合常规"
+  },
+  {
+   "value": "4小时升高17.5 mg/dL",
+   "verdict": "supported",
+   "note": "符合地塞米松致高血糖Meta分析数据"
+  },
+  {
+   "value": "8小时升高17.3 mg/dL",
+   "verdict": "supported",
+   "note": "符合地塞米松致高血糖Meta分析数据"
+  },
+  {
+   "value": "23项随机对照试验、共11 154例",
+   "verdict": "supported",
+   "note": "符合相关地塞米松Meta分析纳入数据"
+  },
+  {
+   "value": "9.6±1.1 mmol/L",
+   "verdict": "unverifiable",
+   "note": "CGM大手术数据具体均值难溯源"
+  },
+  {
+   "value": "30.6±13.9%",
+   "verdict": "unverifiable",
+   "note": "高于目标范围时间占比难溯源"
+  },
+  {
+   "value": "5.6±0.5 mmol/L",
+   "verdict": "unverifiable",
+   "note": "减重手术CGM均值难溯源"
+  },
+  {
+   "value": "15.4±8.6%",
+   "verdict": "unverifiable",
+   "note": "减重手术高于范围时间难溯源"
+  },
+  {
+   "value": "13 mmol/L",
+   "verdict": "supported",
+   "note": "血糖>13.9mmol/L测酮体,13近似合理"
+  },
+  {
+   "value": "72小时",
+   "verdict": "supported",
+   "note": "SGLT2i择期术前停药3-4天(72h)指南推荐"
+  },
+  {
+   "value": "每6小时检测一次、持续24小时",
+   "verdict": "unverifiable",
+   "note": "术后血酮监测频率缺乏统一指南依据"
+  },
+  {
+   "value": "41–70 mg/dL",
+   "verdict": "supported",
+   "note": "中度低血糖定义41-70mg/dL符合共识"
+  },
+  {
+   "value": "低于41 mg/dL",
+   "verdict": "supported",
+   "note": "重度低血糖定义<40或41mg/dL符合共识"
+  },
+  {
+   "value": "7.8–10.0 mmol/L",
+   "verdict": "supported",
+   "note": "ICU血糖目标7.8-10.0符合指南推荐"
+  },
+  {
+   "value": "低于6 mmol/L",
+   "verdict": "supported",
+   "note": "避免血糖<6mmol/L防低血糖符合指南"
+  },
+  {
+   "value": "140–180 mg/dL",
+   "verdict": "supported",
+   "note": "住院患者目标140-180mg/dL为指南共识"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1412
+}

@@ -1,0 +1,75 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2.32±0.76 cm²",
+   "verdict": "unverifiable",
+   "note": "三维孔口面积法数据,缺乏公认指南依据"
+  },
+  {
+   "value": "3±0.6 cm²",
+   "verdict": "unverifiable",
+   "note": "压力半衰期法数据,缺乏公认指南依据"
+  },
+  {
+   "value": "3.58±0.75 cm²",
+   "verdict": "unverifiable",
+   "note": "二维平面法数据,缺乏公认指南依据"
+  },
+  {
+   "value": "2.78±0.74 cm²",
+   "verdict": "unverifiable",
+   "note": "三维平面法数据,缺乏公认指南依据"
+  },
+  {
+   "value": "49%",
+   "verdict": "unverifiable",
+   "note": "肺动脉楔压无法判定率,无公认指南依据"
+  },
+  {
+   "value": "71%",
+   "verdict": "unverifiable",
+   "note": "预测升高者实际≥18mmHg比例,无依据"
+  },
+  {
+   "value": "18 mmHg",
+   "verdict": "supported",
+   "note": "肺动脉楔压升高阈值符合临床标准"
+  },
+  {
+   "value": "77%",
+   "verdict": "unverifiable",
+   "note": "预测正常者实际<18mmHg比例,无依据"
+  },
+  {
+   "value": "39项",
+   "verdict": "unverifiable",
+   "note": "AI超声标签数,缺乏公认文献依据"
+  },
+  {
+   "value": "0.95",
+   "verdict": "unverifiable",
+   "note": "Lin一致性相关系数,缺乏公认文献依据"
+  },
+  {
+   "value": "0.86-0.98",
+   "verdict": "unverifiable",
+   "note": "95%CI区间,缺乏公认文献依据"
+  },
+  {
+   "value": "-0.45至0.26",
+   "verdict": "unverifiable",
+   "note": "Bland-Altman界限,缺乏公认文献依据"
+  },
+  {
+   "value": "20例",
+   "verdict": "unverifiable",
+   "note": "样本量,缺乏公认文献依据"
+  }
+ ],
+ "hallucination_rate": 0.35,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1300
+}

@@ -1,0 +1,75 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.5 mmol/L",
+   "verdict": "supported",
+   "note": "正常人群静注琥珀胆碱血钾升幅约0.5mmol/L"
+  },
+  {
+   "value": "3至8分钟",
+   "verdict": "supported",
+   "note": "MH及高钾反应典型发作时间窗"
+  },
+  {
+   "value": "55 mmHg",
+   "verdict": "supported",
+   "note": "MH诊断标准中PetCO2显著升高阈值"
+  },
+  {
+   "value": "50%",
+   "verdict": "supported",
+   "note": "咬肌痉挛后发生MH的概率约50%"
+  },
+  {
+   "value": "2.5 mg/kg",
+   "verdict": "supported",
+   "note": "丹曲林治疗MH初始静注剂量"
+  },
+  {
+   "value": "10 mg/kg",
+   "verdict": "supported",
+   "note": "丹曲林治疗MH最大累积剂量"
+  },
+  {
+   "value": "8至12 mmol/L",
+   "verdict": "supported",
+   "note": "受体上调时琥珀胆碱致极致命高钾水平"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "烧伤后琥珀胆碱致高钾风险起始时间"
+  },
+  {
+   "value": "5至15天",
+   "verdict": "supported",
+   "note": "烧伤后琥珀胆碱致高钾危险高峰期"
+  },
+  {
+   "value": "1至2年",
+   "verdict": "supported",
+   "note": "烧伤后高钾风险持续最长时间"
+  },
+  {
+   "value": "1周",
+   "verdict": "supported",
+   "note": "截瘫去神经后高钾风险起始时间"
+  },
+  {
+   "value": "1至6周",
+   "verdict": "supported",
+   "note": "截瘫去神经后高钾危险高峰期"
+  },
+  {
+   "value": "1.2 mg/kg",
+   "verdict": "supported",
+   "note": "罗库溴铵快速序贯诱导剂量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 894
+}

@@ -1,0 +1,35 @@
+{
+ "numeric_claims": [
+  {
+   "value": "742例",
+   "verdict": "supported",
+   "note": "HEMOTION试验样本量符合文献记录"
+  },
+  {
+   "value": ">7 g/dL",
+   "verdict": "supported",
+   "note": "HEMOTION限制性输血阈值设定正确"
+  },
+  {
+   "value": ">10 g/dL",
+   "verdict": "supported",
+   "note": "HEMOTION宽松输血阈值设定正确"
+  },
+  {
+   "value": "ISS >15",
+   "verdict": "supported",
+   "note": "多发伤定义ISS>15符合创伤评分标准"
+  },
+  {
+   "value": "六项",
+   "verdict": "supported",
+   "note": "PMID:41504542确实基于六项休克试验数据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2650
+}

@@ -1,0 +1,35 @@
+{
+ "numeric_claims": [
+  {
+   "value": "180次/分",
+   "verdict": "supported",
+   "note": "年轻人极量运动心率可达该水平"
+  },
+  {
+   "value": "20%",
+   "verdict": "supported",
+   "note": "房缩对室充盈贡献约15-25%"
+  },
+  {
+   "value": "180至220次/分",
+   "verdict": "supported",
+   "note": "TAVR超速起搏标准频率范围"
+  },
+  {
+   "value": "333毫秒",
+   "verdict": "supported",
+   "note": "60000/180=333.3ms，计算正确"
+  },
+  {
+   "value": "不足100毫秒",
+   "verdict": "supported",
+   "note": "180bpm时舒张期约占30%，<100ms"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 873
+}

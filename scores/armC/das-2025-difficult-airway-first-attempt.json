@@ -1,0 +1,48 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3+1原则(初始操作者最多3次,第4次换人)",
+   "verdict": "supported",
+   "note": "DAS指南明确限定最多3次尝试,第4次换人"
+  },
+  {
+   "value": "PMID:41339170",
+   "verdict": "unverifiable",
+   "note": "该PMID与DAS2025正式发表文献不符"
+  },
+  {
+   "value": "PMID:36435665",
+   "verdict": "unverifiable",
+   "note": "该PMID对应文献非BJA2022年反对VL社论"
+  },
+  {
+   "value": "PMID:36307273",
+   "verdict": "unverifiable",
+   "note": "该PMID对应文献与VL反对通讯不符"
+  },
+  {
+   "value": "PMID:36740531",
+   "verdict": "unverifiable",
+   "note": "该PMID对应文献与VL反对通讯不符"
+  },
+  {
+   "value": "PMID:36459113",
+   "verdict": "unverifiable",
+   "note": "该PMID对应文献非新生儿纤支镜个案"
+  },
+  {
+   "value": "PMID:40402023",
+   "verdict": "unverifiable",
+   "note": "该PMID对应文献非儿童VL联合纤支镜分析"
+  }
+ ],
+ "hallucination_rate": 0.35,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [
+  "多个PMID与所声称的文献标题/内容严重不符，存在文献引用张冠李戴或捏造",
+  "声称eFONA标准化为垂直切口技术的PMID(41339170)无法验证该结论"
+ ],
+ "status": "ok",
+ "answer_chars": 2783
+}

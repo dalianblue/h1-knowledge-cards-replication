@@ -1,0 +1,25 @@
+{
+ "numeric_claims": [
+  {
+   "value": "平均动脉压不低于65 mmHg",
+   "verdict": "unverifiable",
+   "note": "答案自述无确证，TBI领域MAP阈值确存争议"
+  },
+  {
+   "value": "脑灌注压不低于60 mmHg",
+   "verdict": "unverifiable",
+   "note": "答案自述无确证，CPP目标指南间存差异"
+  },
+  {
+   "value": "动脉血二氧化碳分压维持在35至40 mmHg",
+   "verdict": "unverifiable",
+   "note": "答案自述无确证，PaCO2目标缺乏直接证据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 905
+}

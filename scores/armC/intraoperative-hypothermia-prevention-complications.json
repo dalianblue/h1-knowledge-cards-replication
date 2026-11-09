@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "37°C",
+   "verdict": "supported",
+   "note": "Lancet试验(PMID:35390321)积极加温目标"
+  },
+  {
+   "value": "35.5°C",
+   "verdict": "supported",
+   "note": "Lancet试验(PMID:35390321)常规管理目标"
+  },
+  {
+   "value": "≥36.0°C",
+   "verdict": "supported",
+   "note": "指南与教科书公认的防低体温底线"
+  },
+  {
+   "value": "<36.0°C",
+   "verdict": "supported",
+   "note": "Miller's定义的术中低体温阈值"
+  },
+  {
+   "value": "1714例",
+   "verdict": "supported",
+   "note": "OPCAB队列(PMID:31567327)样本量"
+  },
+  {
+   "value": "47个月",
+   "verdict": "supported",
+   "note": "OPCAB队列(PMID:31567327)中位随访"
+  },
+  {
+   "value": "<35.5°C",
+   "verdict": "supported",
+   "note": "OPCAB队列(PMID:31567327)分组界值"
+  },
+  {
+   "value": "35.5–36.5°C",
+   "verdict": "supported",
+   "note": "OPCAB队列(PMID:31567327)分组界值"
+  },
+  {
+   "value": "36.5–37.5°C",
+   "verdict": "supported",
+   "note": "OPCAB队列(PMID:31567327)分组界值"
+  },
+  {
+   "value": "≥37.5°C",
+   "verdict": "supported",
+   "note": "OPCAB队列(PMID:31567327)分组界值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1743
+}

@@ -1,0 +1,103 @@
+{
+ "numeric_claims": [
+  {
+   "value": "Steward评分大于4分（总分6分）",
+   "verdict": "supported",
+   "note": "符合教科书标准，>4分为出室阈值"
+  },
+  {
+   "value": "Aldrete评分大于9分（总分10分）",
+   "verdict": "wrong",
+   "note": "教科书及共识标准为≥9分，非>9分"
+  },
+  {
+   "value": "Aldrete评分不低于9分",
+   "verdict": "supported",
+   "note": "符合Miller等教科书标准，≥9分"
+  },
+  {
+   "value": "血压与心率波动不超过术前正负20%",
+   "verdict": "supported",
+   "note": "符合教科书常见出室血流动力学标准"
+  },
+  {
+   "value": "稳定30分钟以上",
+   "verdict": "supported",
+   "note": "符合教科书PACU出室最低观察时间"
+  },
+  {
+   "value": "呼吸频率12至30次每分钟",
+   "verdict": "supported",
+   "note": "符合教科书成人出室呼吸频率范围"
+  },
+  {
+   "value": "抬头维持超过10秒",
+   "verdict": "supported",
+   "note": "符合教科书肌松残余评估标准"
+  },
+  {
+   "value": "PACU停留时间不应少于20分钟",
+   "verdict": "supported",
+   "note": "符合ASA等指南最低停留时间要求"
+  },
+  {
+   "value": "696例低风险髋膝关节置换患者",
+   "verdict": "unverifiable",
+   "note": "特定研究数据，无公认依据且无法溯源"
+  },
+  {
+   "value": "207例中44%绕过",
+   "verdict": "unverifiable",
+   "note": "特定研究数据，无法溯源验证"
+  },
+  {
+   "value": "24小时内共发生151起事件",
+   "verdict": "unverifiable",
+   "note": "特定研究数据，无法溯源验证"
+  },
+  {
+   "value": "病房组41起（27%），PACU组110起（73%）",
+   "verdict": "unverifiable",
+   "note": "特定研究数据，无法溯源验证"
+  },
+  {
+   "value": "每组各有2起事件发生于最初2小时内",
+   "verdict": "unverifiable",
+   "note": "特定研究数据，无法溯源验证"
+  },
+  {
+   "value": "麻醉平面低于T6",
+   "verdict": "wrong",
+   "note": "椎管内麻醉出室标准应为平面低于T4或更低"
+  },
+  {
+   "value": "最后一次椎管内用药超过1小时",
+   "verdict": "unverifiable",
+   "note": "教科书无此绝对时间阈值，视药物而定"
+  },
+  {
+   "value": "PADSS大于9分（总分10分）",
+   "verdict": "supported",
+   "note": "符合PADSS日间手术出院评分标准"
+  },
+  {
+   "value": "七氟烷较异氟烷PACU恢复时间约短4%",
+   "verdict": "unverifiable",
+   "note": "特定研究数据，无公认依据且无法溯源"
+  },
+  {
+   "value": "中位数61分钟对64分钟",
+   "verdict": "unverifiable",
+   "note": "特定研究数据，无公认依据且无法溯源"
+  }
+ ],
+ "hallucination_rate": 0.25,
+ "traceability": 2,
+ "usability": 3,
+ "errors_found": [
+  "Aldrete评分出室阈值表述为大于9分（>9），正确应为大于或等于9分（≥9）",
+  "椎管内麻醉出室标准要求平面低于T6，教科书标准通常要求感觉阻滞平面消退至T4以下或更低"
+ ],
+ "status": "ok",
+ "answer_chars": 1366
+}

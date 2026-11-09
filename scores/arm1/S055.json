@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "10-20 mmHg",
+   "verdict": "supported",
+   "note": "脉搏波反射致踝压高于肱压10-20mmHg符合生理学"
+  },
+  {
+   "value": "5-20 mmHg",
+   "verdict": "supported",
+   "note": "部分文献报道5-20mmHg属正常波动范围"
+  },
+  {
+   "value": "1.0-1.4",
+   "verdict": "supported",
+   "note": "ABI正常范围1.0-1.4为指南公认标准"
+  },
+  {
+   "value": "0.9",
+   "verdict": "supported",
+   "note": "ABI<0.9诊断外周动脉疾病(PAD)为指南金标准"
+  },
+  {
+   "value": "1.4",
+   "verdict": "supported",
+   "note": "ABI>1.4提示动脉僵硬度增高(如Mönckeberg硬化)"
+  },
+  {
+   "value": "20 mmHg",
+   "verdict": "unverifiable",
+   "note": "差异-20mmHg复测阈值无7版/指南明确/教科书明确依据"
+  },
+  {
+   "value": "1-2小时",
+   "verdict": "unverifiable",
+   "note": "末梢评估1-2h频率无权威指南/教科书明确规定"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 827
+}

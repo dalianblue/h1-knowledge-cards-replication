@@ -1,0 +1,114 @@
+{
+ "numeric_claims": [
+  {
+   "value": "916例",
+   "verdict": "supported",
+   "note": "符合双腔管可视喉镜多中心RCT真实样本量"
+  },
+  {
+   "value": "4家西班牙医院",
+   "verdict": "supported",
+   "note": "符合该多中心RCT实际参与中心数"
+  },
+  {
+   "value": "123例",
+   "verdict": "supported",
+   "note": "符合纤支镜引导双腔管RCT真实样本量"
+  },
+  {
+   "value": "ASA分级Ⅰ至Ⅲ级",
+   "verdict": "supported",
+   "note": "符合无管化胸科手术共识推荐人群"
+  },
+  {
+   "value": "年龄18至70岁",
+   "verdict": "supported",
+   "note": "符合无管化胸科麻醉共识年龄限制"
+  },
+  {
+   "value": "手术时间4小时以内",
+   "verdict": "supported",
+   "note": "符合无管化胸科手术共识时间上限"
+  },
+  {
+   "value": "体重指数不超过28 kg/m²",
+   "verdict": "supported",
+   "note": "符合无管化胸科麻醉共识BMI上限"
+  },
+  {
+   "value": "低于21 kg/m²更为理想",
+   "verdict": "unverifiable",
+   "note": "共识未明确21为理想阈值,依据不足"
+  },
+  {
+   "value": "30秒内识别并处理血氧饱和度低于90%",
+   "verdict": "supported",
+   "note": "符合胸科无管化低氧紧急干预时限"
+  },
+  {
+   "value": "喉罩路径术中血氧饱和度目标为不低于95%",
+   "verdict": "unverifiable",
+   "note": "未查及喉罩路径特指95%的共识依据"
+  },
+  {
+   "value": "湿化高流量鼻导管路径为不低于90%",
+   "verdict": "supported",
+   "note": "符合HFNC胸科无管化最低氧合目标"
+  },
+  {
+   "value": "二氧化碳分压高于70 mmHg",
+   "verdict": "supported",
+   "note": "符合无管化允许性高碳酸血症中转阈值"
+  },
+  {
+   "value": "血氧饱和度低于90%持续超过30秒",
+   "verdict": "supported",
+   "note": "符合侧卧位气道变更中止标准"
+  },
+  {
+   "value": "封堵器气囊充气量为5至10 ml空气",
+   "verdict": "unverifiable",
+   "note": "封堵器充气量依型号而定,无通用定值"
+  },
+  {
+   "value": "潮气量4至6 ml/kg、频率12至15次每分钟",
+   "verdict": "wrong",
+   "note": "控制通气频率12-15过快,不符合常规"
+  },
+  {
+   "value": "自主呼吸潮气量维持3至5 ml/kg",
+   "verdict": "wrong",
+   "note": "自主呼吸TV 3-5ml/kg过低,属浅快呼吸"
+  },
+  {
+   "value": "自主呼吸呼吸频率8至15次每分钟",
+   "verdict": "wrong",
+   "note": "自主呼吸频率8-15偏低,实际常代偿增快"
+  },
+  {
+   "value": "脑电双频指数目标为40至60",
+   "verdict": "supported",
+   "note": "符合全麻/镇静标准BIS监测目标范围"
+  },
+  {
+   "value": "血压波动不超过术前基础值的20%",
+   "verdict": "supported",
+   "note": "符合常规血流动力学管理目标"
+  },
+  {
+   "value": "心率维持在60至100次每分钟",
+   "verdict": "supported",
+   "note": "符合常规术中心率维持目标范围"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 3,
+ "errors_found": [
+  "控制通气频率12至15次/分设定过高，常规胸科控制通气频率一般不超过12次/分",
+  "自主呼吸潮气量3至5 ml/kg设定过低，违背自主呼吸生理常态且易致严重高碳酸血症",
+  "自主呼吸频率8至15次/分设定偏低，无管化自主呼吸下患者常因浅快呼吸代偿，频率多>15次/分"
+ ],
+ "status": "ok",
+ "answer_chars": 1685
+}

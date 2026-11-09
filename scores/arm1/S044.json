@@ -1,0 +1,81 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2.5 mg每日一次",
+   "verdict": "supported",
+   "note": "符合指南预防剂量标准"
+  },
+  {
+   "value": "预防剂量穿刺/拔管前停药至少36小时",
+   "verdict": "wrong",
+   "note": "ASRA指南要求预防剂量停药至少36h仅限穿刺,拔管需更长"
+  },
+  {
+   "value": "预防剂量延长至约72小时",
+   "verdict": "wrong",
+   "note": "ASRA指南预防剂量拔管前停药至少36h,非72h"
+  },
+  {
+   "value": "治疗剂量不低于5 mg每日一次或1.5 mg/kg",
+   "verdict": "wrong",
+   "note": "治疗剂量为5mg或7.5mgqd,无1.5mg/kg用法"
+  },
+  {
+   "value": "治疗剂量穿刺、置管及拔管前停药至少72小时",
+   "verdict": "supported",
+   "note": "符合ASRA指南治疗剂量停药要求"
+  },
+  {
+   "value": "肌酐清除率低于30 ml/min",
+   "verdict": "supported",
+   "note": "符合指南重度肾功能不全阈值"
+  },
+  {
+   "value": "严重肾功能不全预防剂量延长至至少72小时",
+   "verdict": "wrong",
+   "note": "CrCl<30时半衰期延长,指南建议避免使用或无限期停"
+  },
+  {
+   "value": "严重肾功能不全治疗剂量延长至至少96小时",
+   "verdict": "unverifiable",
+   "note": "指南对CrCl<30治疗剂量无明确96h推荐"
+  },
+  {
+   "value": "半衰期约为17至21小时",
+   "verdict": "supported",
+   "note": "符合药理学正常肾功能半衰期"
+  },
+  {
+   "value": "36小时约相当于2个半衰期",
+   "verdict": "wrong",
+   "note": "17-21h半衰期,36h不足2个半衰期"
+  },
+  {
+   "value": "72小时约相当于4个半衰期",
+   "verdict": "wrong",
+   "note": "17-21h半衰期,72h约3.4-4.2个半衰期,非恰好4个"
+  },
+  {
+   "value": "预防剂量可于4小时后恢复",
+   "verdict": "wrong",
+   "note": "ASRA指南要求拔管后至少12h恢复预防剂量"
+  },
+  {
+   "value": "治疗剂量建议延迟至6至8小时恢复",
+   "verdict": "wrong",
+   "note": "ASRA指南要求拔管后至少12h恢复治疗剂量"
+  }
+ ],
+ "hallucination_rate": 0.35,
+ "traceability": 2,
+ "usability": 2,
+ "errors_found": [
+  "预防剂量拔管前停药要求与穿刺前一致(36h)错误，ASRA指南拔管前需更长或至少36h但未明确等同，且保守方案72h无依据",
+  "治疗剂量1.5 mg/kg为凭空捏造的给药方式",
+  "严重肾功能不全(CrCl<30)预防剂量延长至72h错误，指南认为半衰期极度延长应避免椎管内操作",
+  "36h相当于2个半衰期计算错误(17-21h×2=34-42h)",
+  "拔管后恢复用药时间4-8h严重错误，ASRA指南要求至少12h"
+ ],
+ "status": "ok",
+ "answer_chars": 778
+}

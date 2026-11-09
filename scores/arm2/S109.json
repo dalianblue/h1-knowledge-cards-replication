@@ -1,0 +1,155 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5 mg",
+   "verdict": "unverifiable",
+   "note": "答案自认5mg无专属数据,属外推"
+  },
+  {
+   "value": "23项",
+   "verdict": "supported",
+   "note": "符合相关荟萃分析纳入研究数"
+  },
+  {
+   "value": "11154例",
+   "verdict": "supported",
+   "note": "符合相关荟萃分析样本量"
+  },
+  {
+   "value": "4小时升高17.5 mg/dL",
+   "verdict": "supported",
+   "note": "符合荟萃分析4h均差数据"
+  },
+  {
+   "value": "2小时升高6.7 mg/dL",
+   "verdict": "supported",
+   "note": "符合荟萃分析2h均差数据"
+  },
+  {
+   "value": "8小时升高17.3 mg/dL",
+   "verdict": "supported",
+   "note": "符合荟萃分析8h均差数据"
+  },
+  {
+   "value": "12小时升高16.2 mg/dL",
+   "verdict": "supported",
+   "note": "符合荟萃分析12h均差数据"
+  },
+  {
+   "value": "8至12小时",
+   "verdict": "supported",
+   "note": "符合地塞米松升糖高峰时相"
+  },
+  {
+   "value": "8 mg",
+   "verdict": "supported",
+   "note": "符合POISE-2等研究常用剂量"
+  },
+  {
+   "value": "8.1%对9.1%",
+   "verdict": "supported",
+   "note": "符合POISE-2地塞米松组感染率"
+  },
+  {
+   "value": "负0.9个百分点",
+   "verdict": "supported",
+   "note": "符合POISE-2校正风险差"
+  },
+  {
+   "value": "P小于0.001",
+   "verdict": "supported",
+   "note": "符合POISE-2非劣效检验P值"
+  },
+  {
+   "value": "8880例",
+   "verdict": "supported",
+   "note": "符合POISE-2地塞米松组样本量"
+  },
+  {
+   "value": "负0.10",
+   "verdict": "supported",
+   "note": "符合糖尿病亚组感染对数OR"
+  },
+  {
+   "value": "负0.64至0.44",
+   "verdict": "supported",
+   "note": "符合糖尿病亚组感染95%CI"
+  },
+  {
+   "value": "61527例",
+   "verdict": "supported",
+   "note": "符合全关节置换队列样本量"
+  },
+  {
+   "value": "0.814",
+   "verdict": "supported",
+   "note": "符合糖尿病组总并发症aOR"
+  },
+  {
+   "value": "0.746至0.889",
+   "verdict": "supported",
+   "note": "符合总并发症aOR的95%CI"
+  },
+  {
+   "value": "0.827",
+   "verdict": "supported",
+   "note": "符合感染并发症aOR"
+  },
+  {
+   "value": "0.754至0.908",
+   "verdict": "supported",
+   "note": "符合感染并发症aOR的95%CI"
+  },
+  {
+   "value": "0.692",
+   "verdict": "supported",
+   "note": "符合死亡率aOR"
+  },
+  {
+   "value": "0.532至0.901",
+   "verdict": "supported",
+   "note": "符合死亡率aOR的95%CI"
+  },
+  {
+   "value": "4.0 mmol/L",
+   "verdict": "supported",
+   "note": "符合指南低血糖干预阈值"
+  },
+  {
+   "value": "10 mmol/L",
+   "verdict": "supported",
+   "note": "符合指南高血糖干预阈值"
+  },
+  {
+   "value": "6.0 mmol/L",
+   "verdict": "supported",
+   "note": "符合用药者低血糖干预阈值"
+  },
+  {
+   "value": "13 mmol/L",
+   "verdict": "supported",
+   "note": "符合指南测酮体血糖阈值"
+  },
+  {
+   "value": "3至4天",
+   "verdict": "supported",
+   "note": "符合SGLT2i术前停药共识"
+  },
+  {
+   "value": "4 mg或8 mg",
+   "verdict": "supported",
+   "note": "符合现有RCT实际采用剂量"
+  },
+  {
+   "value": "5项",
+   "verdict": "supported",
+   "note": "符合糖尿病亚组可合并研究数"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1324
+}

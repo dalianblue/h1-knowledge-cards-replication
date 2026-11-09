@@ -1,0 +1,43 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2463例",
+   "verdict": "supported",
+   "note": "符合B-Aware试验高知晓风险亚组样本量"
+  },
+  {
+   "value": "知晓率由0.65%降至0.14%",
+   "verdict": "wrong",
+   "note": "B-Aware试验实际知晓率为1%降至0.5%"
+  },
+  {
+   "value": "150例",
+   "verdict": "supported",
+   "note": "符合脊柱侧弯手术tcMEP研究样本量"
+  },
+  {
+   "value": "脑电双频指数由60（55-65）加深至40（55-65）",
+   "verdict": "wrong",
+   "note": "原研究BIS目标为60与40,但范围均为15点而非55-65"
+  },
+  {
+   "value": "280例",
+   "verdict": "supported",
+   "note": "符合多中心BIS与熵指数比较研究样本量"
+  },
+  {
+   "value": "闪光视觉诱发电位监测研究中维持的指数范围为40至50",
+   "verdict": "unverifiable",
+   "note": "未提供具体文献来源且无法核实该数值"
+  }
+ ],
+ "hallucination_rate": 0.25,
+ "traceability": 2,
+ "usability": 3,
+ "errors_found": [
+  "B-Aware试验高知晓风险亚组的知晓率数据错误，实际为1%降至0.5%，而非0.65%降至0.14%",
+  "青少年脊柱手术研究中BIS范围描述错误，目标值60和40对应的波动范围应为±15（即45-75和25-55），而非55-65"
+ ],
+ "status": "ok",
+ "answer_chars": 1222
+}

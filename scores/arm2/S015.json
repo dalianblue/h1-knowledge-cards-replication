@@ -1,0 +1,75 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3 cm",
+   "verdict": "supported",
+   "note": "指南界定远/近端DVT的解剖界值"
+  },
+  {
+   "value": "44%",
+   "verdict": "supported",
+   "note": "近端DVT并发PE发生率约40-50%"
+  },
+  {
+   "value": "13%",
+   "verdict": "supported",
+   "note": "远端DVT向近端蔓延率约10-20%"
+  },
+  {
+   "value": "5至7天",
+   "verdict": "supported",
+   "note": "指南推荐复查间隔5-7天"
+  },
+  {
+   "value": "50岁及以上者按年龄乘以10 µg/L",
+   "verdict": "supported",
+   "note": "D-二聚体年龄校正公式(年×10)"
+  },
+  {
+   "value": "46.1%",
+   "verdict": "unverifiable",
+   "note": "单中心数据,非公认标准阈值"
+  },
+  {
+   "value": "34.8%与65.2%",
+   "verdict": "unverifiable",
+   "note": "单中心构成比,非公认标准"
+  },
+  {
+   "value": "3000 ng/mL",
+   "verdict": "unverifiable",
+   "note": "单中心小样本界值,无外部验证"
+  },
+  {
+   "value": "4 mm",
+   "verdict": "unverifiable",
+   "note": "特定研究复发监测指标,非共识"
+  },
+  {
+   "value": "小于5 cm",
+   "verdict": "supported",
+   "note": "明确指出该阈值缺乏可靠印证"
+  },
+  {
+   "value": "充盈缺损小于50%",
+   "verdict": "supported",
+   "note": "明确指出该阈值缺乏可靠印证"
+  },
+  {
+   "value": "周径差大于3 cm",
+   "verdict": "supported",
+   "note": "明确指出该数值缺乏可靠印证"
+  },
+  {
+   "value": "第4至6周复查",
+   "verdict": "supported",
+   "note": "明确指出该时间缺乏可靠印证"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1411
+}

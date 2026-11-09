@@ -1,0 +1,65 @@
+{
+ "numeric_claims": [
+  {
+   "value": "≤14 d",
+   "verdict": "supported",
+   "note": "急性期DVT定义≤14天符合ACCP及标准教科书"
+  },
+  {
+   "value": "15~30 d",
+   "verdict": "supported",
+   "note": "亚急性期15-30天符合VTE时相分期共识"
+  },
+  {
+   "value": ">30 d",
+   "verdict": "supported",
+   "note": "慢性期>30天符合VTE时相分期共识"
+  },
+  {
+   "value": "44%",
+   "verdict": "unverifiable",
+   "note": "近端DVT进展为PTE比例，来源标注unverified"
+  },
+  {
+   "value": "<3 cm",
+   "verdict": "unverifiable",
+   "note": "血栓头端距腘静脉距离，来源标注unverified"
+  },
+  {
+   "value": "5~7 天",
+   "verdict": "supported",
+   "note": "远端DVT超声复查间隔5-7天符合ACCP指南"
+  },
+  {
+   "value": "1 周",
+   "verdict": "supported",
+   "note": "未治疗急性小腿DVT1周后复查符合指南"
+  },
+  {
+   "value": "2 周",
+   "verdict": "unverifiable",
+   "note": "持续存在者2周再查，来源标注unverified"
+  },
+  {
+   "value": "≥4 mm",
+   "verdict": "unverifiable",
+   "note": "复发诊断厚度增加标准，来源标注unverified"
+  },
+  {
+   "value": "88~112/10 万人年",
+   "verdict": "supported",
+   "note": "下肢DVT发病率，有JAMA综述PMID支持"
+  },
+  {
+   "value": "20%~36%",
+   "verdict": "supported",
+   "note": "10年VTE复发率，有JAMA综述PMID支持"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2755
+}

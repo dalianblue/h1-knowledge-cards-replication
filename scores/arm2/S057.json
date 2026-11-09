@@ -1,0 +1,100 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1004例",
+   "verdict": "supported",
+   "note": "符合Cardenas-Garcia等2015年前瞻性研究样本量"
+  },
+  {
+   "value": "2.3%（95%CI 1.4%–3.2%）",
+   "verdict": "supported",
+   "note": "符合上述研究外渗发生率及其95%CI"
+  },
+  {
+   "value": "0.9%（95%CI 0.4%–1.7%）",
+   "verdict": "supported",
+   "note": "符合上述研究心动过缓发生率及CI"
+  },
+  {
+   "value": "48小时",
+   "verdict": "supported",
+   "note": "符合上述研究外渗缓解时间上限"
+  },
+  {
+   "value": "14385例",
+   "verdict": "supported",
+   "note": "符合Lira等2020年回顾性队列样本量"
+  },
+  {
+   "value": "20 µg/mL",
+   "verdict": "supported",
+   "note": "符合Lira等研究采用的稀释浓度"
+  },
+  {
+   "value": "0.035%（95%CI 0.011%–0.081%）",
+   "verdict": "supported",
+   "note": "符合Lira等研究渗漏率及CI"
+  },
+  {
+   "value": "635例",
+   "verdict": "supported",
+   "note": "符合Raj等2020年前瞻性观察样本量"
+  },
+  {
+   "value": "1天（IQR 0–2）",
+   "verdict": "supported",
+   "note": "符合Raj等研究避免CVC中位时间"
+  },
+  {
+   "value": "51.6%（311/603）",
+   "verdict": "supported",
+   "note": "符合Raj等研究免CVC比例(分母603为剔除后)"
+  },
+  {
+   "value": "98%",
+   "verdict": "supported",
+   "note": "符合MacLaren等2019年RCT术中给药成功率"
+  },
+  {
+   "value": "60例",
+   "verdict": "supported",
+   "note": "符合MacLaren等RCT样本量"
+  },
+  {
+   "value": "16–32 mcg/mL",
+   "verdict": "unverifiable",
+   "note": "综述归纳值,无单一原始研究直接定义此上限"
+  },
+  {
+   "value": "12.7 µg/min",
+   "verdict": "supported",
+   "note": "符合剖宫产腰麻低血压预防ED50研究"
+  },
+  {
+   "value": "27874例",
+   "verdict": "supported",
+   "note": "符合Shin等2021年回顾性队列样本量"
+  },
+  {
+   "value": ">0.029 µg/kg/min",
+   "verdict": "supported",
+   "note": "符合Shin等研究AKI关联剂量阈值"
+  },
+  {
+   "value": "OR 1.76，95%CI 1.41–2.20",
+   "verdict": "supported",
+   "note": "符合Shin等研究AKI关联效应量及CI"
+  },
+  {
+   "value": "4.4%",
+   "verdict": "supported",
+   "note": "符合Shin等研究去甲肾上腺素使用率"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1292
+}

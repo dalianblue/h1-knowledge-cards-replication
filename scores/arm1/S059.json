@@ -1,0 +1,97 @@
+{
+ "numeric_claims": [
+  {
+   "value": "16%–30%",
+   "verdict": "supported",
+   "note": "符合磷丙泊酚诱导期瘙痒/感觉异常文献报道"
+  },
+  {
+   "value": "10 mg/mL",
+   "verdict": "supported",
+   "note": "符合FDA说明书最大稀释浓度"
+  },
+  {
+   "value": "6 mg/mL",
+   "verdict": "supported",
+   "note": "符合说明书及指南常用稀释浓度"
+  },
+  {
+   "value": "50 mg/kg/min",
+   "verdict": "wrong",
+   "note": "说明书最大输注速率为12.5mg/kg/min"
+  },
+  {
+   "value": "1–2 min",
+   "verdict": "supported",
+   "note": "利多卡因预处理标准给药时机"
+  },
+  {
+   "value": "0.5–1 mg/kg",
+   "verdict": "supported",
+   "note": "利多卡因预处理标准剂量"
+  },
+  {
+   "value": "40–60 mg",
+   "verdict": "supported",
+   "note": "利多卡因预处理成人常用剂量"
+  },
+  {
+   "value": "10–20 mg",
+   "verdict": "supported",
+   "note": "轻度瘙痒苯海拉明常规剂量"
+  },
+  {
+   "value": "6.25–12.5 mg",
+   "verdict": "supported",
+   "note": "异丙嗪小剂量抗瘙痒合理范围"
+  },
+  {
+   "value": "25–50 mg",
+   "verdict": "supported",
+   "note": "中度反应苯海拉明标准剂量"
+  },
+  {
+   "value": "5–10 mg",
+   "verdict": "supported",
+   "note": "地塞米松抗炎/抗过敏标准剂量"
+  },
+  {
+   "value": "50 mg",
+   "verdict": "supported",
+   "note": "雷尼替丁静脉标准单次剂量"
+  },
+  {
+   "value": "10–50 μg",
+   "verdict": "supported",
+   "note": "过敏反应肾上腺素初始滴定剂量"
+  },
+  {
+   "value": "0.1 mg/mL",
+   "verdict": "supported",
+   "note": "1:10000肾上腺素浓度换算正确"
+  },
+  {
+   "value": "0.1–0.5 mL",
+   "verdict": "supported",
+   "note": "10-50μg对应1:10000体积正确"
+  },
+  {
+   "value": "100–200 mg",
+   "verdict": "supported",
+   "note": "氢化可的松过敏反应标准剂量"
+  },
+  {
+   "value": "40–80 mg",
+   "verdict": "supported",
+   "note": "甲泼尼龙过敏反应标准剂量"
+  }
+ ],
+ "hallucination_rate": 0.06,
+ "traceability": 3,
+ "usability": 3,
+ "errors_found": [
+  "磷丙泊酚最大输注速度错误标为50 mg/kg/min，FDA说明书明确规定不得超过12.5 mg/kg/min，此剂量可致严重循环抑制"
+ ],
+ "status": "ok",
+ "answer_chars": 854
+}

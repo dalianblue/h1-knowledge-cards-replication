@@ -1,0 +1,80 @@
+{
+ "numeric_claims": [
+  {
+   "value": "约30%",
+   "verdict": "supported",
+   "note": "规范预防下PONV发生率约30%符合指南与文献"
+  },
+  {
+   "value": "80%",
+   "verdict": "supported",
+   "note": "未预防高危人群PONV发生率可达80%"
+  },
+  {
+   "value": "14项",
+   "verdict": "supported",
+   "note": "姜制剂系统评价纳入14项RCT符合文献"
+  },
+  {
+   "value": "1417例",
+   "verdict": "supported",
+   "note": "姜制剂系统评价样本量符合文献"
+  },
+  {
+   "value": "MD=-0.71",
+   "verdict": "supported",
+   "note": "姜制剂恶心严重度MD符合文献数据"
+  },
+  {
+   "value": "95%CI -1.37~-0.06",
+   "verdict": "supported",
+   "note": "姜制剂MD的95%CI符合文献数据"
+  },
+  {
+   "value": "P=0.03",
+   "verdict": "supported",
+   "note": "姜制剂恶心严重度P值符合文献数据"
+  },
+  {
+   "value": "200例",
+   "verdict": "supported",
+   "note": "内关穴按压研究样本量符合文献"
+  },
+  {
+   "value": "108例",
+   "verdict": "supported",
+   "note": "按压组样本量符合文献"
+  },
+  {
+   "value": "92例",
+   "verdict": "supported",
+   "note": "对照组样本量符合文献"
+  },
+  {
+   "value": "0.2 g",
+   "verdict": "supported",
+   "note": "吡哆醇诱导前剂量0.2g符合文献"
+  },
+  {
+   "value": "15 min",
+   "verdict": "supported",
+   "note": "咀嚼口香糖治疗时长15min符合文献"
+  },
+  {
+   "value": "4 mg IV",
+   "verdict": "supported",
+   "note": "昂丹司琼补救剂量4mg IV符合文献"
+  },
+  {
+   "value": "23,333例",
+   "verdict": "supported",
+   "note": "公平性回顾队列样本量符合文献"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 4005
+}

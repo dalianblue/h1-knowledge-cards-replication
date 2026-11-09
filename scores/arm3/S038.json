@@ -1,0 +1,40 @@
+{
+ "numeric_claims": [
+  {
+   "value": "250秒",
+   "verdict": "supported",
+   "note": "MitraClip指南推荐房间隔穿刺后ACT维持250秒左右"
+  },
+  {
+   "value": "4.0平方厘米",
+   "verdict": "supported",
+   "note": "MitraClip解剖标准要求瓣口面积>4.0cm²防狭窄"
+  },
+  {
+   "value": "15毫米",
+   "verdict": "supported",
+   "note": "连枷宽度<15mm为MitraClip经典解剖入选标准"
+  },
+  {
+   "value": "10毫米",
+   "verdict": "supported",
+   "note": "连枷间隙<10mm为MitraClip经典解剖入选标准"
+  },
+  {
+   "value": "1年",
+   "verdict": "supported",
+   "note": "预期寿命>1年为经导管二尖瓣修复常规标准"
+  },
+  {
+   "value": "6个月",
+   "verdict": "unverifiable",
+   "note": "窦性心律术后氯吡格雷6个月缺乏权威指南确证"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1213
+}

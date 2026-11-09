@@ -1,0 +1,83 @@
+{
+ "numeric_claims": [
+  {
+   "value": "30分钟",
+   "verdict": "supported",
+   "note": "符合教科书对苏醒期躁动(EA)的时间窗定义"
+  },
+  {
+   "value": "低于0.9",
+   "verdict": "wrong",
+   "note": "TOFR>0.9才排除肌松残余,低于0.9为残余"
+  },
+  {
+   "value": "高于2个最低肺泡有效浓度",
+   "verdict": "wrong",
+   "note": "躁动多见于吸入药快速洗脱至低MAC时"
+  },
+  {
+   "value": "0.04至0.07毫克每千克",
+   "verdict": "supported",
+   "note": "新斯的明拮抗剂量符合Miller等指南"
+  },
+  {
+   "value": "0.5至1微克每千克",
+   "verdict": "supported",
+   "note": "芬太尼静注镇痛剂量符合常规"
+  },
+  {
+   "value": "0.1至0.2微克每千克",
+   "verdict": "supported",
+   "note": "舒芬太尼静注镇痛剂量符合常规"
+  },
+  {
+   "value": "15毫克每千克",
+   "verdict": "supported",
+   "note": "儿童对乙酰氨基酚静注/口服剂量标准"
+  },
+  {
+   "value": "0.5毫克每千克",
+   "verdict": "supported",
+   "note": "儿童酮咯酸单次剂量符合药典规范"
+  },
+  {
+   "value": "0.5至1毫克每千克",
+   "verdict": "supported",
+   "note": "丙泊酚镇静小剂量符合临床常规"
+  },
+  {
+   "value": "0.3至0.5微克每千克",
+   "verdict": "supported",
+   "note": "右美托咪定单次负荷量符合指南"
+  },
+  {
+   "value": "0.04毫克",
+   "verdict": "supported",
+   "note": "纳洛酮递增静注起始剂量符合规范"
+  },
+  {
+   "value": "0.2毫克",
+   "verdict": "supported",
+   "note": "氟马西尼初始静注剂量符合规范"
+  },
+  {
+   "value": "0.5微克每千克",
+   "verdict": "supported",
+   "note": "右美托咪定预防给药剂量符合文献"
+  },
+  {
+   "value": "40至60",
+   "verdict": "supported",
+   "note": "BIS适宜麻醉深度范围符合指南"
+  }
+ ],
+ "hallucination_rate": 0.14,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "TOFR低于0.9为判断肌松残余依据表述错误，应为TOFR≥0.9才排除临床肌松残余",
+  "七氟烷浓度高于2MAC时发生躁动表述错误，躁动高发于苏醒期吸入药快速洗脱至低MAC（如0.1-0.3MAC）时"
+ ],
+ "status": "ok",
+ "answer_chars": 1050
+}

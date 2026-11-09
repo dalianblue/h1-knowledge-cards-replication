@@ -1,0 +1,122 @@
+{
+ "numeric_claims": [
+  {
+   "value": "失血超过1升时，产妇中纤维蛋白原低于2 g/L者仅占2.4%",
+   "verdict": "supported",
+   "note": "符合PPH早期纤原下降罕见的流行病学数据"
+  },
+  {
+   "value": "创伤人群中纤维蛋白原低于2 g/L者占19–21%",
+   "verdict": "supported",
+   "note": "符合创伤性凝血病纤原下降频率数据"
+  },
+  {
+   "value": "入院INR>1.2者占30–50%",
+   "verdict": "unverifiable",
+   "note": "创伤人群INR>1.2占比缺乏通用一致数据"
+  },
+  {
+   "value": "纤维蛋白原<2 g/L",
+   "verdict": "supported",
+   "note": "传统产科DIC与凝血病纤原阈值"
+  },
+  {
+   "value": "纤维蛋白原≤3 g/L",
+   "verdict": "supported",
+   "note": "部分产科DIC评分(如DIC-PPH)采用此阈值"
+  },
+  {
+   "value": "妊娠期纤维蛋白原基线为4–6 g/L",
+   "verdict": "supported",
+   "note": "符合足月妊娠生理性纤原水平"
+  },
+  {
+   "value": "创伤人群仅为2–4 g/L",
+   "verdict": "supported",
+   "note": "符合非孕成人纤原正常基线"
+  },
+  {
+   "value": "失血>3–4 L之前PT/aPTT可一直正常",
+   "verdict": "supported",
+   "note": "符合PPH中PT/aPTT迟钝的共识"
+  },
+  {
+   "value": "失血>1 L时>97%的患者PT/aPTT正常",
+   "verdict": "supported",
+   "note": "符合早期PPH常规凝血指标正常率"
+  },
+  {
+   "value": "PPH>2.5 L时仅3.4%的人aPTT/PT超过1.5倍",
+   "verdict": "unverifiable",
+   "note": "精确3.4%缺乏广泛原始文献对照"
+  },
+  {
+   "value": "INR>1.2定义凝血病、>1.5为严重",
+   "verdict": "supported",
+   "note": "符合创伤性凝血病常用INR定义"
+  },
+  {
+   "value": "eTIC在初始损伤后6小时内发生",
+   "verdict": "supported",
+   "note": "符合创伤早期凝血病发生时间窗"
+  },
+  {
+   "value": "eTIC带来3–4倍死亡风险",
+   "verdict": "unverifiable",
+   "note": "死亡风险倍数因研究队列差异大"
+  },
+  {
+   "value": "足月子宫血流量从约50 ml/min增至>700 ml/min",
+   "verdict": "wrong",
+   "note": "非孕基线约500ml/min,50ml/min严重低估"
+  },
+  {
+   "value": "纤维蛋白原目标为RANZCOG 1.5–2 g/L",
+   "verdict": "supported",
+   "note": "符合RANZCOG指南纤原目标"
+  },
+  {
+   "value": "ASCS/FIGO/WHO ≥2 g/L（FIGO为1.5–2 g/L）",
+   "verdict": "supported",
+   "note": "符合各主流指南纤原推荐阈值"
+  },
+  {
+   "value": "血小板<75×10⁹/L阈值",
+   "verdict": "supported",
+   "note": "符合PPH活动性出血血小板输注阈值"
+  },
+  {
+   "value": "失血4–5 L仍足以支持止血",
+   "verdict": "supported",
+   "note": "符合PPH血小板消耗动力学特征"
+  },
+  {
+   "value": "产科临床显著血小板减少（<75×10⁹/L）仅见于约5%的大PPH（>2.5 L）",
+   "verdict": "supported",
+   "note": "符合严重PPH血小板减少发生率"
+  },
+  {
+   "value": "VHA提示纤维蛋白原>3 g/L时不给FFP",
+   "verdict": "supported",
+   "note": "符合VHA指导限制性FFP输注策略"
+  },
+  {
+   "value": "PCC 1000–2500 IU（25 IU/kg）",
+   "verdict": "supported",
+   "note": "符合ASCS 2022允许的PCC剂量范围"
+  },
+  {
+   "value": "4单位RBC后无凝血结果即输4单位FFP并维持1:1",
+   "verdict": "supported",
+   "note": "符合ACOG 2017经验性比例输注建议"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [
+  "足月子宫血流量非孕基线描述为约50 ml/min严重错误，非孕状态子宫血流量约为500 ml/min，50 ml/min系常识性事实错误"
+ ],
+ "status": "ok",
+ "answer_chars": 1708
+}

@@ -1,0 +1,25 @@
+{
+ "numeric_claims": [
+  {
+   "value": "24至48小时",
+   "verdict": "supported",
+   "note": "硬膜外血肿症状出现时间符合教科书与指南描述"
+  },
+  {
+   "value": "96103例",
+   "verdict": "unverifiable",
+   "note": "单中心研究样本量，脱离原文无法查证"
+  },
+  {
+   "value": "2013年至2023年",
+   "verdict": "unverifiable",
+   "note": "研究时间跨度，脱离原文无法查证"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 2,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1137
+}

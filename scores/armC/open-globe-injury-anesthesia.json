@@ -1,0 +1,9 @@
+{
+ "numeric_claims": [],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 3,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2876
+}

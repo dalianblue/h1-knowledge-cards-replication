@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "14%",
+   "verdict": "supported",
+   "note": "1732/11969≈14.47%，原文14%属合理取整"
+  },
+  {
+   "value": "10%",
+   "verdict": "supported",
+   "note": "1249/11969≈10.43%，原文10%属合理取整"
+  },
+  {
+   "value": "57%",
+   "verdict": "supported",
+   "note": "712/1249≈57.0%，计算准确"
+  },
+  {
+   "value": "33%",
+   "verdict": "supported",
+   "note": "413/1249≈33.07%，计算准确"
+  },
+  {
+   "value": "7.4%",
+   "verdict": "supported",
+   "note": "93/1249≈7.45%，计算准确"
+  },
+  {
+   "value": "3.9%",
+   "verdict": "supported",
+   "note": "49/1249≈3.92%，计算准确"
+  },
+  {
+   "value": "4.8%",
+   "verdict": "supported",
+   "note": "579/11969≈4.84%，计算准确"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 3,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1316
+}

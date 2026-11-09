@@ -1,0 +1,50 @@
+{
+ "numeric_claims": [
+  {
+   "value": "预防性UFH椎管内穿刺前间隔4-6小时",
+   "verdict": "supported",
+   "note": "符合ASRA指南及Miller's引述"
+  },
+  {
+   "value": "预防剂量LMWH末次给药至椎管内操作≥12小时",
+   "verdict": "supported",
+   "note": "符合ASRA指南及Miller's引述"
+  },
+  {
+   "value": "治疗剂量LMWH(含桥接)末次给药至椎管内操作≥24小时",
+   "verdict": "supported",
+   "note": "符合ASRA指南及Miller's引述"
+  },
+  {
+   "value": "静脉UFH停用至脊麻/硬膜外≥6小时",
+   "verdict": "supported",
+   "note": "符合ASRA指南及Miller's引述"
+  },
+  {
+   "value": "华法林停药至神经阻滞≥5天且INR正常",
+   "verdict": "supported",
+   "note": "符合ASRA指南及Miller's引述"
+  },
+  {
+   "value": "磺达肝素预防量≥36h",
+   "verdict": "unverifiable",
+   "note": "答案指明卡片库无依据且未背书"
+  },
+  {
+   "value": "磺达肝素治疗量≥48-72h",
+   "verdict": "unverifiable",
+   "note": "答案指明卡片库无依据且未背书"
+  },
+  {
+   "value": "磺达肝素肾不全≥72h",
+   "verdict": "unverifiable",
+   "note": "答案指明卡片库无依据且未背书"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 3,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2155
+}

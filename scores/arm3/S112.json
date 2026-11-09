@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "低于30%",
+   "verdict": "supported",
+   "note": "TAVR麻醉管理文件中LVEF<30%为高危因素属实"
+  },
+  {
+   "value": "1376例",
+   "verdict": "unverifiable",
+   "note": "配对超声研究样本量未提供溯源文献"
+  },
+  {
+   "value": "24.7%（156/632）",
+   "verdict": "unverifiable",
+   "note": "SAVR右室功能恶化率及分母分子未提供溯源"
+  },
+  {
+   "value": "8.3%（62/744）",
+   "verdict": "unverifiable",
+   "note": "TAVR右室功能恶化率及分母分子未提供溯源"
+  },
+  {
+   "value": "P<0.0001",
+   "verdict": "unverifiable",
+   "note": "统计量P值缺乏原始文献支持"
+  },
+  {
+   "value": "比值比为4.05",
+   "verdict": "unverifiable",
+   "note": "右室功能恶化OR值缺乏原始文献支持"
+  },
+  {
+   "value": "95%置信区间2.55至6.44",
+   "verdict": "unverifiable",
+   "note": "OR的95%CI缺乏原始文献支持"
+  },
+  {
+   "value": "低于20%",
+   "verdict": "supported",
+   "note": "LVEF<20%为极高危属临床共识但非绝对禁忌"
+  },
+  {
+   "value": "20%至25%",
+   "verdict": "supported",
+   "note": "ECMO撤机LVEF阈值20-25%为常用临床参考"
+  },
+  {
+   "value": "大于2.0至2.2 L/min/m²",
+   "verdict": "supported",
+   "note": "ECMO撤机CI>2.0-2.2为常用血流动力学参考"
+  }
+ ],
+ "hallucination_rate": 0.35,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1164
+}

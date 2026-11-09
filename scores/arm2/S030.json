@@ -1,0 +1,97 @@
+{
+ "numeric_claims": [
+  {
+   "value": "12小时",
+   "verdict": "unverifiable",
+   "note": "清饮禁食中位数12h无公认来源"
+  },
+  {
+   "value": "2小时",
+   "verdict": "supported",
+   "note": "多学科共识成人清饮标准2h"
+  },
+  {
+   "value": "6倍",
+   "verdict": "wrong",
+   "note": "12h与2h相差6倍计算错误"
+  },
+  {
+   "value": "12国",
+   "verdict": "unverifiable",
+   "note": "未提供具体调查名称来源"
+  },
+  {
+   "value": "971名",
+   "verdict": "unverifiable",
+   "note": "未提供具体调查名称来源"
+  },
+  {
+   "value": "85%",
+   "verdict": "unverifiable",
+   "note": "未提供具体调查名称来源"
+  },
+  {
+   "value": "31个中心",
+   "verdict": "unverifiable",
+   "note": "未提供具体研究名称来源"
+  },
+  {
+   "value": "306900余例",
+   "verdict": "unverifiable",
+   "note": "未提供具体研究名称来源"
+  },
+  {
+   "value": "8项",
+   "verdict": "unverifiable",
+   "note": "未提供具体荟萃分析名称来源"
+  },
+  {
+   "value": "1234例",
+   "verdict": "unverifiable",
+   "note": "未提供具体荟萃分析名称来源"
+  },
+  {
+   "value": "6小时",
+   "verdict": "supported",
+   "note": "指南共识轻食禁食6h"
+  },
+  {
+   "value": "8小时",
+   "verdict": "supported",
+   "note": "指南共识固体/含脂禁食8h"
+  },
+  {
+   "value": "4家医院",
+   "verdict": "unverifiable",
+   "note": "未提供具体研究名称来源"
+  },
+  {
+   "value": "15837例",
+   "verdict": "unverifiable",
+   "note": "未提供具体研究名称来源"
+  },
+  {
+   "value": "2至4小时",
+   "verdict": "supported",
+   "note": "符合短禁饮定义区间"
+  },
+  {
+   "value": "5至24小时",
+   "verdict": "supported",
+   "note": "符合长禁饮定义区间"
+  },
+  {
+   "value": "1小时",
+   "verdict": "supported",
+   "note": "部分指南支持儿童1h清饮"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [
+  "12小时与2小时相差6倍计算错误，实际相差6倍应为12倍（12/2=6倍指比值，但文本表述为'相差约6倍'即差值10h是2h的5倍，无论何种理解'相差6倍'均属数学表述错误）"
+ ],
+ "status": "ok",
+ "answer_chars": 1413
+}

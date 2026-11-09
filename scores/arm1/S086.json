@@ -1,0 +1,98 @@
+{
+ "numeric_claims": [
+  {
+   "value": "6至8分",
+   "verdict": "supported",
+   "note": "TKA术后静息痛VAS常为中重度(6-8分)"
+  },
+  {
+   "value": "0.2%罗哌卡因15至20毫升",
+   "verdict": "supported",
+   "note": "收肌管阻滞常规容量与浓度"
+  },
+  {
+   "value": "每小时5至8毫升",
+   "verdict": "supported",
+   "note": "收肌管连续阻滞常用输注速率"
+  },
+  {
+   "value": "约提高30%",
+   "verdict": "supported",
+   "note": "相比股神经阻滞保留股四头肌MVIC约30%"
+  },
+  {
+   "value": "0.25%布比卡因15毫升",
+   "verdict": "supported",
+   "note": "IPACK阻滞常用局麻药容量"
+  },
+  {
+   "value": "地塞米松4毫克",
+   "verdict": "supported",
+   "note": "周围神经阻滞辅助用地塞米松常用量"
+  },
+  {
+   "value": "约24小时",
+   "verdict": "supported",
+   "note": "加地塞米松延长单次阻滞时效约24h"
+  },
+  {
+   "value": "塞来昔布200毫克",
+   "verdict": "supported",
+   "note": "术前口服塞来昔布标准剂量"
+  },
+  {
+   "value": "加巴喷丁300毫克",
+   "verdict": "supported",
+   "note": "术前加巴喷丁预防性镇痛剂量"
+  },
+  {
+   "value": "0.2%罗哌卡因20毫升",
+   "verdict": "supported",
+   "note": "收肌管阻滞单次给药剂量"
+  },
+  {
+   "value": "罗哌卡因200毫克",
+   "verdict": "wrong",
+   "note": "LIA罗哌卡因极量超标(指南常限150mg)"
+  },
+  {
+   "value": "对乙酰氨基酚1克每6小时一次",
+   "verdict": "wrong",
+   "note": "日剂量4g超围术期推荐上限(常3g)"
+  },
+  {
+   "value": "羟考酮5毫克",
+   "verdict": "supported",
+   "note": "按需补救镇痛常规起始剂量"
+  },
+  {
+   "value": "48至72小时",
+   "verdict": "supported",
+   "note": "连续外周神经阻滞常规留管时间"
+  },
+  {
+   "value": "不超过3分",
+   "verdict": "supported",
+   "note": "ERAS目标运动VAS≤3分"
+  },
+  {
+   "value": "20%脂肪乳",
+   "verdict": "supported",
+   "note": "LAST抢救脂肪乳标准浓度"
+  },
+  {
+   "value": "75%降至20%以下",
+   "verdict": "unverifiable",
+   "note": "特定比例降幅缺乏通用指南依据"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "局部浸润镇痛使用罗哌卡因200毫克超出常规推荐极量（通常不超过150mg或3mg/kg）",
+  "对乙酰氨基酚1克每6小时一次导致日剂量达4克，超出围术期多模式镇痛推荐的安全日剂量上限（通常为3克/天）"
+ ],
+ "status": "ok",
+ "answer_chars": 922
+}

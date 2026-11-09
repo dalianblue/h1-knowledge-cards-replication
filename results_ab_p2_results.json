@@ -1,0 +1,29 @@
+{
+ "A/B": "P2生成prompt v1 vs v2, 39题同题重生成, 同评分器同口径(GLM-4.6 thinking-off)",
+ "primary_per_answer": {
+  "v1_paired_baseline": "33/39 = 84.6% (剔除零断言稿后的同口径基线; 74.4%含拦截稿的旧口径)",
+  "v2_p2": "34/39 = 87.2%",
+  "paired_transfer": "v1错→v2对5, v1对→v2错4, 双对29, 双错1",
+  "wilcoxon": "非零差n=10, p=0.399 NS"
+ },
+ "supported_rate": {
+  "v1_arm2": "59.3% (406/685)",
+  "v2_p2": "82.7% (421/509)",
+  "delta": "+23.4pp 显著"
+ },
+ "wrong_rate": {
+  "v1": "1.6%",
+  "v2": "1.4%",
+  "verdict": "不升(预置回归条件满足)"
+ },
+ "unverifiable": {
+  "v1": "39%",
+  "v2": "15.9%"
+ },
+ "honest_verdict": [
+  "P2的核心收益在supported率+23pp(溯源标注生效), 非错误率",
+  "per-answer零错误率87.2% vs 84.6%不显著(n小+剩余wrong是审校层管的那种语境错, 生成端prompt压不住)",
+  "预置主判据(零错误≥90%)未达——如实记录NS",
+  "结合线上完整链路97.4%: 生成端prompt改进的边际收益被审校层覆盖, 但supported率收益独立存在"
+ ]
+}

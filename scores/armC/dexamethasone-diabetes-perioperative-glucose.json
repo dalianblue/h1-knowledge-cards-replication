@@ -1,0 +1,80 @@
+{
+ "numeric_claims": [
+  {
+   "value": "12.5 mM",
+   "verdict": "supported",
+   "note": "PADDI亚组8mg组24h最大血糖中位数"
+  },
+  {
+   "value": "10.3 mM",
+   "verdict": "supported",
+   "note": "PADDI亚组对照组24h最大血糖中位数"
+  },
+  {
+   "value": "9.0%",
+   "verdict": "supported",
+   "note": "PADDI糖尿病亚组HbA1c纳入上限"
+  },
+  {
+   "value": "1130例",
+   "verdict": "unverifiable",
+   "note": "原文未提供该亚组确切样本量"
+  },
+  {
+   "value": "4 mg",
+   "verdict": "supported",
+   "note": "RCT设定的地塞米松活性剂量组"
+  },
+  {
+   "value": "8 mg",
+   "verdict": "supported",
+   "note": "RCT及PADDI设定的地塞米松剂量"
+  },
+  {
+   "value": "5 mg",
+   "verdict": "unverifiable",
+   "note": "无直接RCT验证的中间外推剂量"
+  },
+  {
+   "value": "2.0个百分点",
+   "verdict": "supported",
+   "note": "PADDI主试验SSI非劣效界值"
+  },
+  {
+   "value": "8880例",
+   "verdict": "supported",
+   "note": "PADDI主试验总入组人数"
+  },
+  {
+   "value": "30天",
+   "verdict": "supported",
+   "note": "PADDI主试验SSI主要终点随访时间"
+  },
+  {
+   "value": "IQR 10.6–15.0",
+   "verdict": "unverifiable",
+   "note": "原文未提供该IQR具体数据"
+  },
+  {
+   "value": "n=570",
+   "verdict": "unverifiable",
+   "note": "原文未提供8mg组确切样本量"
+  },
+  {
+   "value": "302例",
+   "verdict": "unverifiable",
+   "note": "原文未提供该RCT确切样本量"
+  },
+  {
+   "value": "<72 h",
+   "verdict": "supported",
+   "note": "meta分析纳入的短疗程地塞米松定义"
+  }
+ ],
+ "hallucination_rate": 0.14,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 3266
+}

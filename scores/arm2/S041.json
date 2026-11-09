@@ -1,0 +1,95 @@
+{
+ "numeric_claims": [
+  {
+   "value": "12篇",
+   "verdict": "unverifiable",
+   "note": "特定系统综述中的报告数,脱离原文献无法核实"
+  },
+  {
+   "value": "6例",
+   "verdict": "unverifiable",
+   "note": "肌松药病例数,脱离原系统综述无法核实"
+  },
+  {
+   "value": "3例",
+   "verdict": "unverifiable",
+   "note": "舒更葡糖病例数,脱离原系统综述无法核实"
+  },
+  {
+   "value": "35例",
+   "verdict": "unverifiable",
+   "note": "系统综述纳入病例数,脱离原文献无法核实"
+  },
+  {
+   "value": "20分钟",
+   "verdict": "supported",
+   "note": "符合Kounis综合征多数发病时间窗"
+  },
+  {
+   "value": "45至75分钟",
+   "verdict": "unverifiable",
+   "note": "延迟窗口具体数值,脱离原文献无法核实"
+  },
+  {
+   "value": "14/35例",
+   "verdict": "unverifiable",
+   "note": "未做测试比例,脱离原系统综述无法核实"
+  },
+  {
+   "value": "超过50%",
+   "verdict": "supported",
+   "note": "符合Kounis右冠脉受累优势的文献共识"
+  },
+  {
+   "value": "200倍",
+   "verdict": "unverifiable",
+   "note": "斑块肥大细胞负荷倍数,脱离原文献无法核实"
+  },
+  {
+   "value": "0.2至0.5毫克",
+   "verdict": "supported",
+   "note": "符合过敏反应肾上腺素肌注标准剂量"
+  },
+  {
+   "value": "1:1000",
+   "verdict": "supported",
+   "note": "符合过敏反应肾上腺素肌注标准浓度"
+  },
+  {
+   "value": "5至15分钟",
+   "verdict": "supported",
+   "note": "符合过敏反应肾上腺素重复给药间隔"
+  },
+  {
+   "value": "1:10,000至1:100,000",
+   "verdict": "supported",
+   "note": "符合心脏骤停肾上腺素静推稀释浓度"
+  },
+  {
+   "value": "0.01至0.02毫克",
+   "verdict": "unverifiable",
+   "note": "答案自身已声明缺乏出处,无法核实"
+  },
+  {
+   "value": "4例",
+   "verdict": "unverifiable",
+   "note": "儿童病例数,脱离原文献无法核实"
+  },
+  {
+   "value": "1例",
+   "verdict": "unverifiable",
+   "note": "类胰蛋白酶升高例数,脱离原文献无法核实"
+  },
+  {
+   "value": "2021年6月16日",
+   "verdict": "unverifiable",
+   "note": "检索截止日期,脱离原文献无法核实"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1217
+}

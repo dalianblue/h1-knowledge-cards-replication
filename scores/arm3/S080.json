@@ -1,0 +1,83 @@
+{
+ "numeric_claims": [
+  {
+   "value": "180次/分",
+   "verdict": "supported",
+   "note": "TAVR术中快速起搏常规频率为180-220次/分"
+  },
+  {
+   "value": "平均动脉压不高于75、65及55毫米汞柱",
+   "verdict": "wrong",
+   "note": "低血压阈值应为低于(≤)而非不高于(≥)"
+  },
+  {
+   "value": "术中无平均动脉压不高于65毫米汞柱的情形",
+   "verdict": "wrong",
+   "note": "术中MAP≤65mmHg常见且与损伤相关,表述反义"
+  },
+  {
+   "value": "平均动脉压低于65毫米汞柱",
+   "verdict": "supported",
+   "note": "术后低血压定义及心肌损伤阈值源于权威研究"
+  },
+  {
+   "value": "1002例",
+   "verdict": "supported",
+   "note": "符合术后低血压前瞻性观察研究样本量"
+  },
+  {
+   "value": "基线平均动脉压不低于110毫米汞柱",
+   "verdict": "supported",
+   "note": "符合慢性高血压与正常血压分组的基线阈值"
+  },
+  {
+   "value": "368222例",
+   "verdict": "supported",
+   "note": "符合大型多中心回顾队列样本量"
+  },
+  {
+   "value": "74项试验",
+   "verdict": "supported",
+   "note": "符合降心率药物相关荟萃分析纳入量"
+  },
+  {
+   "value": "157764例",
+   "verdict": "supported",
+   "note": "符合降心率药物相关荟萃分析总样本量"
+  },
+  {
+   "value": "76.2次/分",
+   "verdict": "supported",
+   "note": "符合荟萃分析中降心率前平均心率"
+  },
+  {
+   "value": "65.6次/分",
+   "verdict": "supported",
+   "note": "符合荟萃分析中降心率后平均心率"
+  },
+  {
+   "value": "8.2次/分",
+   "verdict": "supported",
+   "note": "76.2与65.6的差值,计算正确"
+  },
+  {
+   "value": "2.7年",
+   "verdict": "supported",
+   "note": "符合该荟萃分析的随访时间"
+  },
+  {
+   "value": "30天",
+   "verdict": "supported",
+   "note": "术后非心脏手术时机标准为30天内"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [
+  "将低血压阈值描述为'平均动脉压不高于75、65及55毫米汞柱'，方向完全相反，低血压应为低于或等于该阈值",
+  "声称'术中无平均动脉压不高于65毫米汞柱的情形'与临床事实及后文所述心肌损伤风险相悖"
+ ],
+ "status": "ok",
+ "answer_chars": 1258
+}

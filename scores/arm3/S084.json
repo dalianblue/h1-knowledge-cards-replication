@@ -1,0 +1,55 @@
+{
+ "numeric_claims": [
+  {
+   "value": "4786例",
+   "verdict": "supported",
+   "note": "CIRT试验纳入4786例,符合文献"
+  },
+  {
+   "value": "每周15至20毫克",
+   "verdict": "supported",
+   "note": "CIRT试验目标剂量15-20mg/wk"
+  },
+  {
+   "value": "每日补充叶酸1毫克",
+   "verdict": "supported",
+   "note": "CIRT试验叶酸补充方案1mg/d"
+  },
+  {
+   "value": "年龄18岁及以上",
+   "verdict": "supported",
+   "note": "成人临床试验常规纳入标准"
+  },
+  {
+   "value": "血小板低于50×10⁹/L",
+   "verdict": "unverifiable",
+   "note": "答案自认缺乏溯源,无公认依据"
+  },
+  {
+   "value": "中性粒细胞低于1.0×10⁹/L",
+   "verdict": "unverifiable",
+   "note": "答案自认缺乏溯源,无公认依据"
+  },
+  {
+   "value": "估算肾小球滤过率低于60",
+   "verdict": "unverifiable",
+   "note": "答案自认缺乏溯源,无公认依据"
+  },
+  {
+   "value": "每周7.5至25毫克",
+   "verdict": "unverifiable",
+   "note": "答案自认缺乏溯源,无公认依据"
+  },
+  {
+   "value": "血小板大于70000/mm³",
+   "verdict": "supported",
+   "note": "产科椎管内麻醉共识阈值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1211
+}

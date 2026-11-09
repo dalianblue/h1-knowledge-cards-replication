@@ -1,0 +1,125 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.75秒",
+   "verdict": "supported",
+   "note": "Miller's等教科书载静息肺毛细血管转运时间均值0.75s"
+  },
+  {
+   "value": "0.25秒",
+   "verdict": "supported",
+   "note": "教科书载氧合平衡需约0.25s，均值储备约3倍"
+  },
+  {
+   "value": "0.1至0.2秒",
+   "verdict": "supported",
+   "note": "教科书载运动等时转运时间缩至0.1-0.2s致弥散限制"
+  },
+  {
+   "value": "32.7±14.5%",
+   "verdict": "unverifiable",
+   "note": "特定猪模型数据，无公认标准依据"
+  },
+  {
+   "value": "18.6±7.6%",
+   "verdict": "unverifiable",
+   "note": "特定猪模型数据，无公认标准依据"
+  },
+  {
+   "value": "23.9±6.5 ml/cmH₂O",
+   "verdict": "unverifiable",
+   "note": "特定猪模型数据，无公认标准依据"
+  },
+  {
+   "value": "21.9±5.0 ml/cmH₂O",
+   "verdict": "unverifiable",
+   "note": "特定猪模型数据，无公认标准依据"
+  },
+  {
+   "value": "10分钟",
+   "verdict": "unverifiable",
+   "note": "吸收性肺不张发生时间，文献报道不一"
+  },
+  {
+   "value": "15例",
+   "verdict": "unverifiable",
+   "note": "特定小样本生理学研究数据"
+  },
+  {
+   "value": "5与15 cmH₂O",
+   "verdict": "unverifiable",
+   "note": "特定研究的PEEP设定值"
+  },
+  {
+   "value": "10例",
+   "verdict": "unverifiable",
+   "note": "特定小样本生理学研究数据"
+  },
+  {
+   "value": "10 cmH₂O",
+   "verdict": "unverifiable",
+   "note": "特定研究的PEEP变化值"
+  },
+  {
+   "value": "0.79",
+   "verdict": "unverifiable",
+   "note": "特定小样本研究的复张与膨胀比中位数"
+  },
+  {
+   "value": "21例",
+   "verdict": "unverifiable",
+   "note": "特定小样本生理学研究数据"
+  },
+  {
+   "value": "12.5%±8.0%",
+   "verdict": "unverifiable",
+   "note": "特定小样本研究的背侧肺复张数据"
+  },
+  {
+   "value": "-6.9%±5.2%",
+   "verdict": "unverifiable",
+   "note": "特定小样本研究的腹侧去复张数据"
+  },
+  {
+   "value": "6.0%±6.7%",
+   "verdict": "unverifiable",
+   "note": "特定小样本研究的整体复张数据"
+  },
+  {
+   "value": "45±15与45±18 mL/cmH₂O",
+   "verdict": "unverifiable",
+   "note": "特定小样本研究的顺应性数据"
+  },
+  {
+   "value": "2096例",
+   "verdict": "unverifiable",
+   "note": "特定观察性研究的样本量"
+  },
+  {
+   "value": "5 cmH₂O",
+   "verdict": "unverifiable",
+   "note": "特定观察性研究的中位PEEP"
+  },
+  {
+   "value": "15 cmH₂O",
+   "verdict": "unverifiable",
+   "note": "特定观察性研究的驱动压"
+  },
+  {
+   "value": "100 mmHg",
+   "verdict": "unverifiable",
+   "note": "特定观察性研究的氧合指数增量"
+  },
+  {
+   "value": "0.495",
+   "verdict": "unverifiable",
+   "note": "特定观察性研究的校正比值比"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1436
+}

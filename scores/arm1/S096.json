@@ -1,0 +1,95 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5mg",
+   "verdict": "supported",
+   "note": "地塞米松5mg为PONV等常用单次剂量"
+  },
+  {
+   "value": "33mg",
+   "verdict": "supported",
+   "note": "地塞米松5mg等效泼尼松约33mg(1:6.67)"
+  },
+  {
+   "value": "1.5至3 mmol/L",
+   "verdict": "supported",
+   "note": "单次4-8mg地塞米松致血糖升1.5-3mmol/L"
+  },
+  {
+   "value": "6至12小时",
+   "verdict": "supported",
+   "note": "IV地塞米松血糖峰值在给药后6-12h"
+  },
+  {
+   "value": "24至72小时",
+   "verdict": "supported",
+   "note": "地塞米松生物效应持续24-72h"
+  },
+  {
+   "value": "8.5%至9%",
+   "verdict": "supported",
+   "note": "择期手术HbA1c>8.5%-9%宜优化"
+  },
+  {
+   "value": "3至4天",
+   "verdict": "supported",
+   "note": "SGLT2i术前停3-4天防eDKA"
+  },
+  {
+   "value": "7.8至10.0 mmol/L",
+   "verdict": "supported",
+   "note": "围术期血糖目标7.8-10.0mmol/L"
+  },
+  {
+   "value": "低于6",
+   "verdict": "supported",
+   "note": "血糖<6mmol/L低血糖风险高"
+  },
+  {
+   "value": "高于12",
+   "verdict": "supported",
+   "note": "血糖>12mmol/L增加感染等风险"
+  },
+  {
+   "value": "10%至20%",
+   "verdict": "supported",
+   "note": "用激素时基础胰岛素上调10-20%"
+  },
+  {
+   "value": "4至6小时",
+   "verdict": "supported",
+   "note": "术后口服药者监测q4-6h"
+  },
+  {
+   "value": "1至2小时",
+   "verdict": "supported",
+   "note": "术中血糖监测q1-2h"
+  },
+  {
+   "value": "24至48小时",
+   "verdict": "supported",
+   "note": "术后48h为血糖波动高危窗口"
+  },
+  {
+   "value": "4至6小时",
+   "verdict": "supported",
+   "note": "术后48h内加密监测q4-6h"
+  },
+  {
+   "value": "12 mmol/L",
+   "verdict": "supported",
+   "note": "血糖>12mmol/L启动胰岛素校正"
+  },
+  {
+   "value": "4mg",
+   "verdict": "supported",
+   "note": "4mg为PONV预防等效且更小剂量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 960
+}

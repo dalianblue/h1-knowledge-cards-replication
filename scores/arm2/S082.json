@@ -1,0 +1,203 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1.0–1.2 mg/kg",
+   "verdict": "supported",
+   "note": "罗库溴铵深度阻滞插管剂量符合指南"
+  },
+  {
+   "value": "16 mg/kg",
+   "verdict": "supported",
+   "note": "舒更葡糖逆转深度阻滞剂量符合说明书"
+  },
+  {
+   "value": "111.1、91.0、124.3、94.2分钟",
+   "verdict": "unverifiable",
+   "note": "安慰剂组恢复时间未查及确切文献来源"
+  },
+  {
+   "value": "1.6、0.9、1.3、1.9分钟",
+   "verdict": "unverifiable",
+   "note": "舒更葡糖组恢复时间未查及确切文献来源"
+  },
+  {
+   "value": "89,753例",
+   "verdict": "supported",
+   "note": "对应Brambrink2018或同类大样本回顾性队列"
+  },
+  {
+   "value": "3.4%",
+   "verdict": "supported",
+   "note": "舒更葡糖复合不良事件发生率符合该队列数据"
+  },
+  {
+   "value": "3.0%",
+   "verdict": "supported",
+   "note": "新斯的明复合不良事件发生率符合该队列数据"
+  },
+  {
+   "value": "OR 1.21，95%CI 1.09–1.34，P=0.57",
+   "verdict": "wrong",
+   "note": "CI不含1但P>0.05，统计学原理矛盾"
+  },
+  {
+   "value": "1:1包合",
+   "verdict": "supported",
+   "note": "舒更葡糖与罗库溴铵包合比符合药理学"
+  },
+  {
+   "value": "176例",
+   "verdict": "unverifiable",
+   "note": "深度阻滞研究样本量未查及确切来源"
+  },
+  {
+   "value": "≥75岁ASA 3级",
+   "verdict": "unverifiable",
+   "note": "高危老年亚组标准未查及确切RCT来源"
+  },
+  {
+   "value": "180例随机、168例分析",
+   "verdict": "unverifiable",
+   "note": "老年亚组样本量未查及确切RCT来源"
+  },
+  {
+   "value": "5.2%与12.2%",
+   "verdict": "unverifiable",
+   "note": "肺部结局恶化概率未查及确切文献来源"
+  },
+  {
+   "value": "2.4%与9.6%（P=0.046）",
+   "verdict": "unverifiable",
+   "note": "肺炎发生率未查及确切文献来源"
+  },
+  {
+   "value": "7.5天与9天",
+   "verdict": "unverifiable",
+   "note": "住院时间中位数未查及确切文献来源"
+  },
+  {
+   "value": "3.5±1.6分钟",
+   "verdict": "unverifiable",
+   "note": "肾损患者逆转时间未查及确切文献来源"
+  },
+  {
+   "value": "14.8±6.1分钟",
+   "verdict": "unverifiable",
+   "note": "新斯的明逆转顺阿曲库铵时间无文献依据"
+  },
+  {
+   "value": "11.3分钟（95%CI 9.0–13.5，P<0.0001）",
+   "verdict": "unverifiable",
+   "note": "平均差异统计量未查及确切文献来源"
+  },
+  {
+   "value": "49例",
+   "verdict": "unverifiable",
+   "note": "严重肾损随机试验样本量未查及来源"
+  },
+  {
+   "value": "4.4%升至95.2%",
+   "verdict": "unverifiable",
+   "note": "eGFR<60使用率变化未查及确切文献来源"
+  },
+  {
+   "value": "142±74秒对161±98秒",
+   "verdict": "unverifiable",
+   "note": "个体化给药恢复时间未查及确切来源"
+  },
+  {
+   "value": "89倍",
+   "verdict": "unverifiable",
+   "note": "Calabadion2亲和力倍数仅有动物实验依据"
+  },
+  {
+   "value": "5.62",
+   "verdict": "unverifiable",
+   "note": "儿科肌松药使用OR值未查及确切来源"
+  },
+  {
+   "value": "0.69",
+   "verdict": "unverifiable",
+   "note": "儿科插管下降OR值未查及确切来源"
+  },
+  {
+   "value": "20分钟",
+   "verdict": "supported",
+   "note": "过敏反应多发于暴露后20分钟内符合指南"
+  },
+  {
+   "value": "45–75分钟",
+   "verdict": "unverifiable",
+   "note": "延迟反应时间未查及确切文献来源"
+  },
+  {
+   "value": "4 mg/kg",
+   "verdict": "supported",
+   "note": "舒更葡糖中度阻滞逆转剂量符合说明书"
+  },
+  {
+   "value": "49升至63（p<0.01）",
+   "verdict": "unverifiable",
+   "note": "BIS变化中位数未查及确切文献来源"
+  },
+  {
+   "value": "22例",
+   "verdict": "unverifiable",
+   "note": "BIS升高≥20例数未查及确切文献来源"
+  },
+  {
+   "value": "14例（27%）",
+   "verdict": "unverifiable",
+   "note": "临床觉醒征象比例未查及确切文献来源"
+  },
+  {
+   "value": "0.5 mg/kg",
+   "verdict": "supported",
+   "note": "可致再箭毒化的小剂量符合药代动力学"
+  },
+  {
+   "value": "0.9 mg/kg",
+   "verdict": "supported",
+   "note": "标准罗库溴铵插管剂量符合指南"
+  },
+  {
+   "value": "42分钟",
+   "verdict": "unverifiable",
+   "note": "再箭毒化发生时间未查及确切文献来源"
+  },
+  {
+   "value": "12.8%（95%CI 4%–22%，P<0.001）",
+   "verdict": "unverifiable",
+   "note": "尿潴留发生率差异未查及确切文献来源"
+  },
+  {
+   "value": "2 mg/kg",
+   "verdict": "supported",
+   "note": "舒更葡糖中度阻滞常规剂量符合说明书"
+  },
+  {
+   "value": "50–70 µg/kg",
+   "verdict": "supported",
+   "note": "新斯的明拮抗剂量符合教科书及指南"
+  },
+  {
+   "value": "40.0%（95%CI 39.8–40.2）",
+   "verdict": "unverifiable",
+   "note": "美国多中心使用率未查及确切文献来源"
+  },
+  {
+   "value": "934,798例",
+   "verdict": "unverifiable",
+   "note": "多中心数据样本量未查及确切文献来源"
+  }
+ ],
+ "hallucination_rate": 0.65,
+ "traceability": 1,
+ "usability": 2,
+ "errors_found": [
+  "OR 1.21，95%CI 1.09–1.34，P=0.57：置信区间不包含1（1.09-1.34均>1），按统计学原理P值必然<0.05，此处P=0.57与CI存在根本性数学矛盾，属事实性错误",
+  "新斯的明逆转顺阿曲库铵14.8±6.1分钟：新斯的明作为乙酰胆碱酯酶抑制剂，对顺阿曲库铵的Hofmann消除无加速作用，此对照方案违背药理学常识"
+ ],
+ "status": "ok",
+ "answer_chars": 2188
+}

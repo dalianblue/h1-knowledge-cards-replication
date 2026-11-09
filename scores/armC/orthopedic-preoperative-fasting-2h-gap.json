@@ -1,0 +1,75 @@
+{
+ "numeric_claims": [
+  {
+   "value": "约12小时",
+   "verdict": "supported",
+   "note": "文献普遍记录成人清饮实际中位禁食时间远超指南"
+  },
+  {
+   "value": "2小时",
+   "verdict": "supported",
+   "note": "多版指南(如ASA)推荐成人清饮最低禁食2小时"
+  },
+  {
+   "value": "2025年11月",
+   "verdict": "unverifiable",
+   "note": "PMID:41657234接受日期无法当场验证"
+  },
+  {
+   "value": "14–17小时",
+   "verdict": "supported",
+   "note": "文献记录成人固体实际延长禁食常达此范围"
+  },
+  {
+   "value": "9–12小时",
+   "verdict": "supported",
+   "note": "文献记录成人清饮实际延长禁食常达此范围"
+  },
+  {
+   "value": "<2小时",
+   "verdict": "supported",
+   "note": "机构化方案允许清饮至入室前<2小时有据"
+  },
+  {
+   "value": "15,837例",
+   "verdict": "unverifiable",
+   "note": "特定研究样本量需原文核对,暂无法独立验证"
+  },
+  {
+   "value": "306,900例",
+   "verdict": "unverifiable",
+   "note": "EUROFAST研究样本量需原文核对,暂无法独立验证"
+  },
+  {
+   "value": "1小时",
+   "verdict": "supported",
+   "note": "多部儿科指南已支持清饮1小时禁食"
+  },
+  {
+   "value": "≥6小时",
+   "verdict": "supported",
+   "note": "指南推荐固体(轻食)最低禁食6小时"
+  },
+  {
+   "value": "8小时",
+   "verdict": "supported",
+   "note": "指南推荐高脂/大餐禁食8小时"
+  },
+  {
+   "value": "6小时",
+   "verdict": "supported",
+   "note": "指南推荐牛奶/肠内营养禁食6小时"
+  },
+  {
+   "value": "68名",
+   "verdict": "unverifiable",
+   "note": "Delphi法参与人数需原文核对"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 3937
+}

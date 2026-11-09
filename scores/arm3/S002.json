@@ -1,0 +1,90 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5 mg",
+   "verdict": "unverifiable",
+   "note": "无5mg直接RCT证据，答案已声明"
+  },
+  {
+   "value": "4 mg",
+   "verdict": "supported",
+   "note": "4/8mg地塞米松RCT为公认直接证据"
+  },
+  {
+   "value": "8 mg",
+   "verdict": "supported",
+   "note": "4/8mg地塞米松RCT为公认直接证据"
+  },
+  {
+   "value": "n=302",
+   "verdict": "supported",
+   "note": "对应4/8mg分层RCT样本量"
+  },
+  {
+   "value": "1 130例",
+   "verdict": "supported",
+   "note": "亚组分析样本量，符合文献"
+  },
+  {
+   "value": "HbA1c<9.0%",
+   "verdict": "supported",
+   "note": "亚组限定条件，符合文献"
+  },
+  {
+   "value": "10.3 mM",
+   "verdict": "supported",
+   "note": "对照组术后最大血糖中位数"
+  },
+  {
+   "value": "12.5 mM",
+   "verdict": "supported",
+   "note": "地塞米松组术后最大血糖中位数"
+  },
+  {
+   "value": "10.6–15.0",
+   "verdict": "supported",
+   "note": "地塞米松组四分位距"
+  },
+  {
+   "value": "n=8 880",
+   "verdict": "supported",
+   "note": "大型主试验样本量"
+  },
+  {
+   "value": "2.0个百分点",
+   "verdict": "supported",
+   "note": "非劣效界值，符合文献"
+  },
+  {
+   "value": "8 725例",
+   "verdict": "supported",
+   "note": "改良意向分析样本量"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "相关试验主要结局设定时间"
+  },
+  {
+   "value": "8–12小时",
+   "verdict": "unverifiable",
+   "note": "评论观点与机制推断，无直接验证"
+  },
+  {
+   "value": "24–48小时",
+   "verdict": "unverifiable",
+   "note": "答案明确指出无依据不应引用"
+  },
+  {
+   "value": "10%–20%",
+   "verdict": "unverifiable",
+   "note": "答案明确指出无依据不应引用"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1130
+}

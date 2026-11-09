@@ -1,0 +1,32 @@
+{
+ "date": "2026-11-08 23:20",
+ "quiz_v4": {
+  "n_total": 40,
+  "resident": {
+   "n": 15,
+   "mean": 0.524
+  },
+  "fellow": {
+   "n": 9,
+   "mean": 0.755
+  },
+  "senior": {
+   "n": 7,
+   "mean": 0.766
+  },
+  "verdict": "三层梯度单调恢复(52.4%<75.5%<76.6%), n=3时倒挂=抽样噪声, senior=7够方向性结论"
+ },
+ "human_eval_v2": {
+  "n_submissions": 37,
+  "n_unique_reviewers": 36,
+  "n_items": 15,
+  "total_ratings": 555,
+  "icc21": 0.363,
+  "icc_note": "评审人间中等信度",
+  "human_machine_pearson": -0.09,
+  "zero_wrong_mean": 4.21,
+  "wrong_mean": 4.17,
+  "manual_marks": 1,
+  "verdict": "人类通读无法感知机器抓到的专业级数值错误(推注速度/半衰期/CI-P矛盾), 6条wrong仅1条被标记且是唯一临床常识可感知那条——支持论文核心论点: 裸眼人评不可替代卡库锚定机评; 但需诚实记录: 打分偏高(3.8-4.5/5, 社交礼貌偏差), 人机一致≠机器正确性的证明, 是\"人评盲区\"的证据"
+ }
+}

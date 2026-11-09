@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "华法林停药≥5天",
+   "verdict": "supported",
+   "note": "ASRA及Miller's指南对华法林停药标准"
+  },
+  {
+   "value": "LMWH预防剂量≥12小时",
+   "verdict": "supported",
+   "note": "ASRA及Miller's指南对LMWH预防剂量"
+  },
+  {
+   "value": "LMWH治疗剂量≥24小时",
+   "verdict": "supported",
+   "note": "ASRA及Miller's指南对LMWH治疗剂量"
+  },
+  {
+   "value": "静脉普通肝素≥6小时",
+   "verdict": "supported",
+   "note": "ASRA及Miller's指南对静脉UFH标准"
+  },
+  {
+   "value": "凝血酶对UFH敏感性为Xa的10倍",
+   "verdict": "supported",
+   "note": "UFH抗凝血酶与抗Xa活性比约1:10"
+  },
+  {
+   "value": "磺达肝素预防剂量≥36小时",
+   "verdict": "unverifiable",
+   "note": "答案明确标注未溯源，无公认依据"
+  },
+  {
+   "value": "磺达肝素治疗剂量≥72小时",
+   "verdict": "unverifiable",
+   "note": "答案明确标注未溯源，无公认依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2783
+}

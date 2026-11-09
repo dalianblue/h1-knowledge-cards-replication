@@ -1,0 +1,25 @@
+{
+ "numeric_claims": [
+  {
+   "value": "ACT约250秒",
+   "verdict": "supported",
+   "note": "TEER术中肝素化目标ACT通常为250秒左右"
+  },
+  {
+   "value": "6个月",
+   "verdict": "supported",
+   "note": "TEER术后窦律患者氯吡格雷常规维持3-6个月"
+  },
+  {
+   "value": "C-EO级",
+   "verdict": "unverifiable",
+   "note": "2026年指南尚未发布，无法核实推荐等级"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2068
+}

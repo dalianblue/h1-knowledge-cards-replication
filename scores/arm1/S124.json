@@ -1,0 +1,47 @@
+{
+ "numeric_claims": [
+  {
+   "value": "40至60",
+   "verdict": "supported",
+   "note": "BIS常规麻醉深度标准范围"
+  },
+  {
+   "value": "3至8分钟",
+   "verdict": "unverifiable",
+   "note": "缩短拔管时间缺乏公认精确值"
+  },
+  {
+   "value": "65至75",
+   "verdict": "supported",
+   "note": "清醒开颅镇静深度目标范围"
+  },
+  {
+   "value": "1.5至3.0微克每毫升",
+   "verdict": "supported",
+   "note": "清醒开颅丙泊酚靶控输注浓度"
+  },
+  {
+   "value": "0.1%至0.2%",
+   "verdict": "wrong",
+   "note": "BIS<60知晓率约0.1%为误引"
+  },
+  {
+   "value": "10至15",
+   "verdict": "unverifiable",
+   "note": "BIS下降阈值无统一标准定值"
+  },
+  {
+   "value": "40",
+   "verdict": "supported",
+   "note": "BIS低于40提示深麻醉或缺血"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "BIS<60使知晓率降至0.1%至0.2%为事实错误：原文献(Mashour 2012)指出BIS<60的知晓率为0.1%，而未监测组为0.2%，答案将对照组数据误作区间下限，且BIS<60本身并非绝对知晓率保证"
+ ],
+ "status": "ok",
+ "answer_chars": 883
+}

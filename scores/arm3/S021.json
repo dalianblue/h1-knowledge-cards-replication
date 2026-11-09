@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "40747名",
+   "verdict": "unverifiable",
+   "note": "队列样本量，无引文无法核对原始文献"
+  },
+  {
+   "value": "65.6岁",
+   "verdict": "unverifiable",
+   "note": "平均年龄，无引文无法核对原始文献"
+  },
+  {
+   "value": "450 mmHg",
+   "verdict": "unverifiable",
+   "note": "输液加压范围，无引文无法核对原始文献"
+  },
+  {
+   "value": "1050 mmHg",
+   "verdict": "unverifiable",
+   "note": "输液加压范围，无引文无法核对原始文献"
+  },
+  {
+   "value": "24、22、20、18 G",
+   "verdict": "unverifiable",
+   "note": "导管规格，无引文无法核对原始文献"
+  },
+  {
+   "value": "10–20 mmHg",
+   "verdict": "unverifiable",
+   "note": "踝臂收缩压差值，答案自认缺乏来源"
+  },
+  {
+   "value": "1.0–1.4",
+   "verdict": "unverifiable",
+   "note": "踝臂指数正常范围，答案自认缺乏来源"
+  },
+  {
+   "value": "10 cm",
+   "verdict": "unverifiable",
+   "note": "袖带距穿刺点距离，答案自认缺乏来源"
+  },
+  {
+   "value": "144599次",
+   "verdict": "unverifiable",
+   "note": "纵向观测次数，无引文无法核对原始文献"
+  },
+  {
+   "value": "43年",
+   "verdict": "unverifiable",
+   "note": "随访年数，无引文无法核对原始文献"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 0,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1211
+}

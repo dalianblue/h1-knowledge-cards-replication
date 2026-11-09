@@ -1,0 +1,40 @@
+{
+ "four_arm_final": {
+  "arm1_裸DS": {
+   "wrong%": 7.3,
+   "per_answer_zero%": 60.0,
+   "CI95": "[44.4, 73.3]"
+  },
+  "arm3_chunk原文": {
+   "wrong%": 5.9,
+   "per_answer_zero%": 65.1,
+   "CI95": "[51.2, 79.1]"
+  },
+  "arm2_蒸馏卡": {
+   "wrong%": 1.6,
+   "per_answer_zero%": 74.4,
+   "CI95": "[59.0, 87.2]"
+  },
+  "armC_chunk+schema": {
+   "wrong%": 0.5,
+   "per_answer_zero%": 95.3,
+   "CI95": "[88.4, 100.0]"
+  }
+ },
+ "key_stats": {
+  "C_vs_arm2_per_answer": {
+   "fisher_p": 0.0107,
+   "verdict": "C显著优于臂2"
+  },
+  "C_vs_arm2_wrong_count": {
+   "fisher_p": 0.148,
+   "verdict": "NS(wrong绝对数少, 功效不足)"
+  },
+  "bootstrap_CI": "C臂95.3%[88.4,100.0]——CI下界88.4%>95%目标线差6.6pp"
+ },
+ "C_scorer_final": {
+  "status": "45/45 ok",
+  "per_answer_zero": "41/43 = 95.3%",
+  "assert_per_q": "mean 9.2 median 8"
+ }
+}

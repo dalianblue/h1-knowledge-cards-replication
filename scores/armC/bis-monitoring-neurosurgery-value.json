@@ -1,0 +1,55 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2463例",
+   "verdict": "supported",
+   "note": "B-Aware试验实际入组2463例"
+  },
+  {
+   "value": "0.65%降到0.14%",
+   "verdict": "supported",
+   "note": "B-Aware试验BIS组知晓率0.14%对常规0.65%"
+  },
+  {
+   "value": "150例",
+   "verdict": "supported",
+   "note": "PMID:42284616研究实际样本量为150例"
+  },
+  {
+   "value": "60（55–65）加深到40",
+   "verdict": "supported",
+   "note": "PMID:42284616设定的BIS目标区间"
+  },
+  {
+   "value": "0–100",
+   "verdict": "supported",
+   "note": "BIS算法标准输出范围"
+  },
+  {
+   "value": "280例",
+   "verdict": "supported",
+   "note": "PMID:22613640多中心研究样本量280例"
+  },
+  {
+   "value": "40–50",
+   "verdict": "supported",
+   "note": "PMID:34543246脊柱手术FVEP研究维持BIS区间"
+  },
+  {
+   "value": "60例随机",
+   "verdict": "supported",
+   "note": "PMID:34543246研究实际样本量为60例"
+  },
+  {
+   "value": "清醒开颅BIS 60–70、唤醒窗>80",
+   "verdict": "unverifiable",
+   "note": "答案明确指此为经验框架无对应证据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2308
+}

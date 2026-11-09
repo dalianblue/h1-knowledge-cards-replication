@@ -1,0 +1,182 @@
+{
+ "lvef-anesthesia-threshold-ecmo-weaning": {
+  "layer": "A_数值密集",
+  "question": "LVEF低于多少禁麻醉？等同ECMO撤机标准？"
+ },
+ "fusdagannulin-neuraxial-interval": {
+  "layer": "A_数值密集",
+  "question": "磺达肝素后多久可椎管内麻醉？"
+ },
+ "cvp-fluid-resuscitation-guidance": {
+  "layer": "A_数值密集",
+  "question": "CVP为何不再推荐指导液体复苏？"
+ },
+ "warfarin-neuraxial-anesthesia-inr-timing": {
+  "layer": "A_数值密集",
+  "question": "华法林停药多久可椎管内麻醉？"
+ },
+ "aspirin-clopidogrel-periop-cessation": {
+  "layer": "A_数值密集",
+  "question": "阿司匹林与氯吡格雷半衰期相近，围术期停药为何差很大？"
+ },
+ "hypokalemia-surgery-threshold": {
+  "layer": "A_数值密集",
+  "question": "围术期低钾：低于多少停手术？术中补钾速度与计算？"
+ },
+ "perioperative-hyperkalemia-management": {
+  "layer": "A_数值密集",
+  "question": "围术期高钾血症如何处理？"
+ },
+ "rivaroxaban-neuraxial-anesthesia-timing": {
+  "layer": "A_数值密集",
+  "question": "利伐沙班未停能椎管内麻醉吗"
+ },
+ "perioperative-hypernatremia-hyponatremia-management": {
+  "layer": "A_数值密集",
+  "question": "围术期高钠/低钠血症如何处理？"
+ },
+ "obstetric-hemorrhage-trauma-coagulopathy": {
+  "layer": "A_数值密集",
+  "question": "产科大出血凝血病与创伤性凝血病区别"
+ },
+ "preoperative-hypoglycemia-candy-aspiration-risk": {
+  "layer": "B_机制解释",
+  "question": "术前低血糖硬糖误吸风险？"
+ },
+ "fospropofol-induction-pruritus-management": {
+  "layer": "B_机制解释",
+  "question": "磷丙泊酚诱导期瘙痒，到底怎么处理？"
+ },
+ "postoperative-nausea-vomiting-antiemetics": {
+  "layer": "B_机制解释",
+  "question": "术后恶心呕吐防治药物有哪些"
+ },
+ "pacu-discharge-criteria-anesthesia": {
+  "layer": "B_机制解释",
+  "question": "PACU出室标准有哪些？"
+ },
+ "intraoperative-hypothermia-prevention-complications": {
+  "layer": "B_机制解释",
+  "question": "术中低体温危害与预防"
+ },
+ "emergence-agitation-anesthesia-causes-management": {
+  "layer": "B_机制解释",
+  "question": "全麻苏醒期躁动原因与处理？"
+ },
+ "succinylcholine-hyperkalemia-window": {
+  "layer": "B_机制解释",
+  "question": "琥珀胆碱：真正该怕的是哪个时间窗？"
+ },
+ "perioperative-kounis-syndrome-differential": {
+  "layer": "B_机制解释",
+  "question": "围术期过敏竟是心梗？Kounis综合征35例复盘"
+ },
+ "preoxygenation-pao2-desaturation-time": {
+  "layer": "C_临床决策",
+  "question": "预充氧后呼吸暂停，PaO2从300掉到70mmHg要多久？"
+ },
+ "pediatric-postoperative-analgesia": {
+  "layer": "C_临床决策",
+  "question": "小儿术后镇痛药怎么选？"
+ },
+ "tachycardia-exercise-vs-tavi-pacing": {
+  "layer": "C_临床决策",
+  "question": "跑步心率180生龙活虎，TAVI超速起搏180血压就没了——为什么？"
+ },
+ "open-globe-injury-anesthesia": {
+  "layer": "C_临床决策",
+  "question": "眼球破裂+脑挫裂伤摘眼麻醉注意啥？"
+ },
+ "norepinephrine-weight-vs-absolute-dosing": {
+  "layer": "C_临床决策",
+  "question": "全麻去甲肾上腺素按公斤体重给药吗？"
+ },
+ "preoperative-blood-glucose-threshold-surgery": {
+  "layer": "C_临床决策",
+  "question": "术前血糖宜控7.8以下？高于10推迟手术？"
+ },
+ "dexamethasone-diabetes-perioperative-glucose": {
+  "layer": "C_临床决策",
+  "question": "糖尿病围术期能用5mg地塞米松吗？血糖影响大吗？"
+ },
+ "ankle-brachial-pressure-difference-intraoperative": {
+  "layer": "C_临床决策",
+  "question": "足踝vs肱动脉血压差多少？同侧输液可行吗"
+ },
+ "peripheral-norepinephrine-concentration-rate": {
+  "layer": "C_临床决策",
+  "question": "外周去甲肾上腺素浓度速度要求？"
+ },
+ "alveolar-capillary-oxygenation-transit-time-factors": {
+  "layer": "C_临床决策",
+  "question": "肺泡毛细血管氧合时间与影响因素"
+ },
+ "peep-perioperative-general-anesthesia-review": {
+  "layer": "D_指南推荐",
+  "question": "PEEP围术期全麻应用综述"
+ },
+ "fondaparinux-neuraxial-anesthesia-interval": {
+  "layer": "D_指南推荐",
+  "question": "产妇用磺达肝素，椎管内麻醉停多久？"
+ },
+ "ice-cap-cpb-evidence-gap": {
+  "layer": "D_指南推荐",
+  "question": "体外循环戴冰帽：证据到底怎么说？"
+ },
+ "sugammadex-rocuronium-reversal-adverse-effects": {
+  "layer": "D_指南推荐",
+  "question": "舒更葡糖拮抗罗库溴铵残余肌松用法与不良反应？"
+ },
+ "orthopedic-preoperative-fasting-2h-gap": {
+  "layer": "D_指南推荐",
+  "question": "骨科术前禁食：2小时清饮为何落不了地？"
+ },
+ "mechanical-valve-leaflet-failure-missed-echo": {
+  "layer": "D_指南推荐",
+  "question": "机械瓣单叶卡住，超声为何报“无异常”？"
+ },
+ "methotrexate-anesthesia-rheumatoid-arthritis": {
+  "layer": "D_指南推荐",
+  "question": "甲氨蝶呤麻醉风险要点"
+ },
+ "dvt-size-threshold-no-treatment": {
+  "layer": "D_指南推荐",
+  "question": "下肢静脉血栓多大可观察？"
+ },
+ "das-2025-difficult-airway-first-attempt": {
+  "layer": "D_指南推荐",
+  "question": "DAS 2025困难气道指南：首次插管为何改推视频喉镜？"
+ },
+ "tubeless-vs-double-lumen-thoracic-surgery": {
+  "layer": "E_近期热点",
+  "question": "Tubeless胸科手术真比双腔插管更好吗？"
+ },
+ "teer-degenerative-p1-prolapse-lung-cancer": {
+  "layer": "E_近期热点",
+  "question": "肺癌合并P1脱垂重度反流，TEER做不做？"
+ },
+ "asymptomatic-triple-vessel-stenosis-preop": {
+  "layer": "E_近期热点",
+  "question": "三支重度狭窄暂不PCI，胸科术前访视怎么做？"
+ },
+ "tbi-coagulopathy-distinct-phenotype": {
+  "layer": "E_近期热点",
+  "question": "重型TBI凝血病，为什么不能照多发伤管？"
+ },
+ "cisatracurium-coronary-stenosis-induction-evidence": {
+  "layer": "E_近期热点",
+  "question": "冠脉狭窄诱导选顺阿曲库铵，证据够吗？"
+ },
+ "perioperative-anticoagulation-extreme-obesity-pe": {
+  "layer": "E_近期热点",
+  "question": "170kg骨盆骨折术后当晚肺栓塞：抗凝漏在哪？"
+ },
+ "bis-monitoring-neurosurgery-value": {
+  "layer": "E_近期热点",
+  "question": "神经外科手术BIS监测有价值吗"
+ },
+ "knee-surgery-multimodal-analgesia-gaps": {
+  "layer": "E_近期热点",
+  "question": "膝关节术后镇痛：75%患者镇痛不足，阻滞怎么选？"
+ }
+}

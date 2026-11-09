@@ -1,0 +1,75 @@
+{
+ "numeric_claims": [
+  {
+   "value": "7.8 mmol/L",
+   "verdict": "unverifiable",
+   "note": "答案明确指该阈值无指南依据"
+  },
+  {
+   "value": "10 mmol/L",
+   "verdict": "unverifiable",
+   "note": "答案明确指该阈值无指南依据"
+  },
+  {
+   "value": "140–180 mg/dL",
+   "verdict": "supported",
+   "note": "Miller's等权威指南ICU控糖目标"
+  },
+  {
+   "value": "41–70 mg/dL",
+   "verdict": "supported",
+   "note": "NICE-SUGAR等定义的中度低血糖"
+  },
+  {
+   "value": "<41 mg/dL",
+   "verdict": "supported",
+   "note": "重度低血糖标准"
+  },
+  {
+   "value": "4 mg",
+   "verdict": "supported",
+   "note": "PADDAG试验地塞米松剂量"
+  },
+  {
+   "value": "8 mg",
+   "verdict": "supported",
+   "note": "PADDAG试验地塞米松剂量"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "PADDAG试验主要终点时间"
+  },
+  {
+   "value": "24–48小时",
+   "verdict": "supported",
+   "note": "应激高血糖达峰时间"
+  },
+  {
+   "value": ">69 mmol/mol",
+   "verdict": "unverifiable",
+   "note": "多学科声明为unverified级"
+  },
+  {
+   "value": "4–10 mmol/L",
+   "verdict": "unverifiable",
+   "note": "多学科声明为unverified级"
+  },
+  {
+   "value": ">13 mmol/L",
+   "verdict": "unverifiable",
+   "note": "多学科声明为unverified级"
+  },
+  {
+   "value": ">200 mg/dL",
+   "verdict": "supported",
+   "note": "2009年Cochrane历史推荐阈值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2563
+}

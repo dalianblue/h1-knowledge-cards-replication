@@ -1,0 +1,55 @@
+{
+ "numeric_claims": [
+  {
+   "value": "18岁及以下",
+   "verdict": "supported",
+   "note": "儿科年龄上限常规定义为18岁"
+  },
+  {
+   "value": "2023年6月30日",
+   "verdict": "unverifiable",
+   "note": "具体检索截止日无通用指南依据"
+  },
+  {
+   "value": "3至17岁",
+   "verdict": "unverifiable",
+   "note": "特定试验入组年龄,无通用指南依据"
+  },
+  {
+   "value": "1至2天",
+   "verdict": "supported",
+   "note": "美沙酮消除半衰期约25-60小时"
+  },
+  {
+   "value": "19种方案",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析方案数,无指南依据"
+  },
+  {
+   "value": "188项研究",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析纳入量,无指南依据"
+  },
+  {
+   "value": "13769例受试者",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析样本量,无指南依据"
+  },
+  {
+   "value": "10种",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析结果,无指南依据"
+  },
+  {
+   "value": "-4.79",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析均差,无指南依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 950
+}

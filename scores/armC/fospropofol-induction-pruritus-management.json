@@ -1,0 +1,50 @@
+{
+ "numeric_claims": [
+  {
+   "value": "30%–100%",
+   "verdict": "supported",
+   "note": "鞘内阿片瘙痒发生率符合教科书级数据"
+  },
+  {
+   "value": "60%–100%",
+   "verdict": "supported",
+   "note": "产妇鞘内阿片瘙痒发生率符合权威文献"
+  },
+  {
+   "value": "30%–60%",
+   "verdict": "supported",
+   "note": "骨科患者鞘内阿片瘙痒发生率符合文献"
+  },
+  {
+   "value": "8 mg",
+   "verdict": "supported",
+   "note": "预防性静注昂丹司琼剂量符合meta分析"
+  },
+  {
+   "value": "15 mg",
+   "verdict": "unverifiable",
+   "note": "喷他佐辛剂量提及但卡片截断无完整依据"
+  },
+  {
+   "value": "<2 μg/(kg·h)",
+   "verdict": "supported",
+   "note": "纳洛酮低剂量输注治瘙痒保镇痛符合指南"
+  },
+  {
+   "value": "0.1 mg/kg",
+   "verdict": "supported",
+   "note": "昂丹司琼静注剂量符合鞘内阿片瘙痒治疗"
+  },
+  {
+   "value": "255",
+   "verdict": "supported",
+   "note": "HSK3486研究样本量符合PMID:38150544"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 3,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1869
+}

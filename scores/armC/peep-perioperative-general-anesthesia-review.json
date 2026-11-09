@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "RR 0.51（95%CI 0.35–0.76）",
+   "verdict": "supported",
+   "note": "PMID:31567322系统评价结论一致"
+  },
+  {
+   "value": "14项RCT",
+   "verdict": "supported",
+   "note": "PMID:31567322纳入RCT数量"
+  },
+  {
+   "value": "1238例",
+   "verdict": "supported",
+   "note": "PMID:31567322纳入患者总数"
+  },
+  {
+   "value": "6 vs 10 ml/kg预测体重",
+   "verdict": "supported",
+   "note": "PMID:35939350析因试验分组"
+  },
+  {
+   "value": "5 vs 8 cmH₂O",
+   "verdict": "supported",
+   "note": "PMID:35939350PEEP分组设定"
+  },
+  {
+   "value": "PEEP≤2 cmH₂O",
+   "verdict": "supported",
+   "note": "PMID:32682559对照组设定"
+  },
+  {
+   "value": "230,767例",
+   "verdict": "supported",
+   "note": "PMID:35475882回顾性研究样本量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2752
+}

@@ -1,0 +1,25 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3+1限次原则",
+   "verdict": "supported",
+   "note": "2025 DAS指南明确最多3次+1次高级操作者"
+  },
+  {
+   "value": "2025年",
+   "verdict": "supported",
+   "note": "2025版DAS成人常规气管插管指南已发布"
+  },
+  {
+   "value": "2015版",
+   "verdict": "supported",
+   "note": "2015版DAS指南为前一版标准"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1261
+}

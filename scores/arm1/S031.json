@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "住院时间平均缩短一至两天",
+   "verdict": "supported",
+   "note": "多项RCT支持Tubeless较DLT缩短1-2天"
+  },
+  {
+   "value": "脑电双频指数维持于六十至七十",
+   "verdict": "supported",
+   "note": "BIS 60-70为镇静合适范围"
+  },
+  {
+   "value": "二氧化碳分压常升至五十至六十毫米汞柱",
+   "verdict": "supported",
+   "note": "自主呼吸下允许性高碳酸血症常见范围"
+  },
+  {
+   "value": "pH可降至七点二五至七点三零",
+   "verdict": "supported",
+   "note": "对应PaCO2 50-60mmHg的pH合理区间"
+  },
+  {
+   "value": "紧急中转插管率约为百分之二至五",
+   "verdict": "supported",
+   "note": "文献报告非插管胸科中转率2%-5%"
+  },
+  {
+   "value": "体重指数低于三十",
+   "verdict": "supported",
+   "note": "BMI<30为该技术公认筛选标准"
+  },
+  {
+   "value": "手术时间短于三小时",
+   "verdict": "supported",
+   "note": "指南/共识推荐手术时长<3小时"
+  },
+  {
+   "value": "气道损伤发生率约百分之一至三",
+   "verdict": "supported",
+   "note": "DLT气道损伤发生率1%-3%有文献支持"
+  },
+  {
+   "value": "术后咽喉疼痛百分之三十至五十",
+   "verdict": "supported",
+   "note": "DLT致咽痛发生率30%-50%符合文献"
+  },
+  {
+   "value": "团队年完成此类操作超过五十例",
+   "verdict": "unverifiable",
+   "note": "无权威指南规定具体年手术量阈值"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1162
+}

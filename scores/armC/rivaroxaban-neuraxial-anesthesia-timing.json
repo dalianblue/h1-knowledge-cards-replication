@@ -1,0 +1,30 @@
+{
+ "numeric_claims": [
+  {
+   "value": "预防剂量≥22小时",
+   "verdict": "unverifiable",
+   "note": "答案自身声明卡库无印证,无法核实"
+  },
+  {
+   "value": "治疗剂量≥48–72小时",
+   "verdict": "unverifiable",
+   "note": "答案自身声明卡库无印证,无法核实"
+  },
+  {
+   "value": "CrCl 30–50延长至≥72小时",
+   "verdict": "unverifiable",
+   "note": "答案自身声明卡库无印证,无法核实"
+  },
+  {
+   "value": "拔管后≥6小时恢复",
+   "verdict": "unverifiable",
+   "note": "答案自身声明卡库无印证,无法核实"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1943
+}

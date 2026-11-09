@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "30 ml/kg",
+   "verdict": "supported",
+   "note": "ESICM 2025 Part 2脓毒症初始复苏上限"
+  },
+  {
+   "value": "10 275例",
+   "verdict": "supported",
+   "note": "MIMIC-III脓毒症分析样本量"
+  },
+  {
+   "value": "4516例[44%]",
+   "verdict": "supported",
+   "note": "MIMIC-III分析中测CVP亚组数据"
+  },
+  {
+   "value": "24 h",
+   "verdict": "supported",
+   "note": "入ICU测量CVP的时间窗"
+  },
+  {
+   "value": "13项RCT",
+   "verdict": "supported",
+   "note": "ESICM 2025 Part 3液体清除证据基础"
+  },
+  {
+   "value": "r≈0.16",
+   "verdict": "unverifiable",
+   "note": "答案声明未采纳且库里无溯源"
+  },
+  {
+   "value": "AUC≈0.55",
+   "verdict": "unverifiable",
+   "note": "答案声明未采纳且库里无溯源"
+  },
+  {
+   "value": "SVV>13%",
+   "verdict": "unverifiable",
+   "note": "答案声明未采纳且库里无溯源"
+  },
+  {
+   "value": "8–12 mmHg",
+   "verdict": "unverifiable",
+   "note": "答案声明未采纳且库里无溯源"
+  },
+  {
+   "value": ">15 mmHg",
+   "verdict": "unverifiable",
+   "note": "答案声明未采纳且库里无溯源"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2210
+}

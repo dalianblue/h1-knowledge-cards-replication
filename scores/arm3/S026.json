@@ -1,0 +1,82 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.04 μg/kg/min",
+   "verdict": "supported",
+   "note": "健康志愿者NE起始速率符合文献"
+  },
+  {
+   "value": "0.20 μg/kg/min",
+   "verdict": "supported",
+   "note": "递增至0.20符合剂量反应研究"
+  },
+  {
+   "value": "72例",
+   "verdict": "unverifiable",
+   "note": "未提供具体RCT来源,无法核实"
+  },
+  {
+   "value": "1至2分钟",
+   "verdict": "wrong",
+   "note": "NE半衰期约2-3分钟,非1-2分钟"
+  },
+  {
+   "value": "10 μg/mL",
+   "verdict": "supported",
+   "note": "外周低浓度输注常用浓度符合指南"
+  },
+  {
+   "value": "98%",
+   "verdict": "unverifiable",
+   "note": "Pilot试验完成率无法核实来源"
+  },
+  {
+   "value": "12项",
+   "verdict": "unverifiable",
+   "note": "Meta分析纳入量无法核实来源"
+  },
+  {
+   "value": "7281例",
+   "verdict": "unverifiable",
+   "note": "脓毒症样本量无法核实来源"
+  },
+  {
+   "value": "3626例",
+   "verdict": "unverifiable",
+   "note": "多中心试验样本量无法核实来源"
+  },
+  {
+   "value": "1809例",
+   "verdict": "unverifiable",
+   "note": "NE组样本量无法核实来源"
+  },
+  {
+   "value": "1817例",
+   "verdict": "unverifiable",
+   "note": "PE组样本量无法核实来源"
+  },
+  {
+   "value": "1120例",
+   "verdict": "unverifiable",
+   "note": "膀胱切除队列样本量无法核实"
+  },
+  {
+   "value": "411例",
+   "verdict": "unverifiable",
+   "note": "亚组样本量无法核实来源"
+  },
+  {
+   "value": "37%",
+   "verdict": "unverifiable",
+   "note": "百分比无法核实来源"
+  }
+ ],
+ "hallucination_rate": 0.35,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [
+  "去甲肾上腺素半衰期约为2-3分钟，答案中称约1至2分钟不准确"
+ ],
+ "status": "ok",
+ "answer_chars": 1199
+}

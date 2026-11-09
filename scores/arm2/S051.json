@@ -1,0 +1,15 @@
+{
+ "numeric_claims": [
+  {
+   "value": "180次/分",
+   "verdict": "supported",
+   "note": "TAVR快速起搏标准频率常为180-220次/分"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 879
+}

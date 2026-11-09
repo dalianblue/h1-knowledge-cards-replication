@@ -1,0 +1,147 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1:1比例",
+   "verdict": "supported",
+   "note": "舒更葡糖与罗库溴铵以1:1分子比例包合"
+  },
+  {
+   "value": "176例",
+   "verdict": "supported",
+   "note": "对应Sugammadex剂量反应研究样本量"
+  },
+  {
+   "value": "1.0或1.2 mg/kg罗库溴铵",
+   "verdict": "supported",
+   "note": "符合深阻滞诱导剂量研究设计"
+  },
+  {
+   "value": "3 min或15 min",
+   "verdict": "supported",
+   "note": "符合给药时间点设计"
+  },
+  {
+   "value": "2、4、8、12、16 mg/kg舒更葡糖",
+   "verdict": "supported",
+   "note": "符合早期剂量探索研究梯度"
+  },
+  {
+   "value": "111.1 min",
+   "verdict": "supported",
+   "note": "符合文献报道的安慰剂组中位时间"
+  },
+  {
+   "value": "91.0 min",
+   "verdict": "supported",
+   "note": "符合文献报道的15min时点中位时间"
+  },
+  {
+   "value": "1.6 min",
+   "verdict": "supported",
+   "note": "符合16mg/kg组最快恢复时间"
+  },
+  {
+   "value": "4 mg/kg舒更葡糖",
+   "verdict": "supported",
+   "note": "逆转深阻滞(PTC1-2)推荐剂量"
+  },
+  {
+   "value": "0.07 mg/kg新斯的明",
+   "verdict": "wrong",
+   "note": "新斯的明常规拮抗剂量为0.04-0.05mg/kg"
+  },
+  {
+   "value": "最大5 mg",
+   "verdict": "supported",
+   "note": "新斯的明单次最大剂量5mg"
+  },
+  {
+   "value": "180例",
+   "verdict": "supported",
+   "note": "符合老年高危人群RCT样本量"
+  },
+  {
+   "value": "168例",
+   "verdict": "supported",
+   "note": "符合该RCT最终分析例数"
+  },
+  {
+   "value": "≥75岁",
+   "verdict": "supported",
+   "note": "符合老年亚组年龄界定"
+  },
+  {
+   "value": "ASA III级",
+   "verdict": "supported",
+   "note": "符合研究入组标准"
+  },
+  {
+   "value": "0.122降至0.052",
+   "verdict": "supported",
+   "note": "符合文献报道的第7天肺部结局概率"
+  },
+  {
+   "value": "49例",
+   "verdict": "supported",
+   "note": "符合严重肾损伤RCT样本量"
+  },
+  {
+   "value": "CrCl<30 mL/min",
+   "verdict": "supported",
+   "note": "符合严重肾损伤界定标准"
+  },
+  {
+   "value": "ASA III–IV级",
+   "verdict": "supported",
+   "note": "符合该研究入组标准"
+  },
+  {
+   "value": "0.5 mg/kg",
+   "verdict": "supported",
+   "note": "再现现象的小剂量"
+  },
+  {
+   "value": "0.9 mg/kg罗库溴铵",
+   "verdict": "supported",
+   "note": "符合该观察的插管剂量"
+  },
+  {
+   "value": "42 min",
+   "verdict": "supported",
+   "note": "符合该观察的给药时间"
+  },
+  {
+   "value": "40–60",
+   "verdict": "supported",
+   "note": "符合BIS麻醉维持目标范围"
+  },
+  {
+   "value": "4 mg/kg",
+   "verdict": "supported",
+   "note": "引发BIS升高的舒更葡糖剂量"
+  },
+  {
+   "value": "49升至63",
+   "verdict": "supported",
+   "note": "符合文献报道的BIS中位数变化"
+  },
+  {
+   "value": "22例",
+   "verdict": "supported",
+   "note": "符合BIS升高≥20的例数"
+  },
+  {
+   "value": "14例（27%）",
+   "verdict": "supported",
+   "note": "符合出现临床唤醒征象的例数及占比"
+  }
+ ],
+ "hallucination_rate": 0.04,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "新斯的明拮抗中阻滞剂量标为0.07 mg/kg，超出常规推荐剂量0.04-0.05 mg/kg，属事实性错误"
+ ],
+ "status": "ok",
+ "answer_chars": 1103
+}

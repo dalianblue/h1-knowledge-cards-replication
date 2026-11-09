@@ -1,0 +1,55 @@
+{
+ "numeric_claims": [
+  {
+   "value": "RASS评分≤-4",
+   "verdict": "supported",
+   "note": "RASS量表-4为深镇静/唤不醒，定义准确"
+  },
+  {
+   "value": "每1000例35.6例",
+   "verdict": "unverifiable",
+   "note": "特定回顾性研究数据，无公认指南佐证"
+  },
+  {
+   "value": "56275例",
+   "verdict": "unverifiable",
+   "note": "特定回顾性队列样本量，无法独立核实"
+  },
+  {
+   "value": "9项随机对照试验",
+   "verdict": "unverifiable",
+   "note": "特定Meta分析纳入研究数，无法独立核实"
+  },
+  {
+   "value": "620例成人",
+   "verdict": "unverifiable",
+   "note": "特定Meta分析样本量，无法独立核实"
+  },
+  {
+   "value": "超过30分钟",
+   "verdict": "unverifiable",
+   "note": "答案自认无直接证据支持，属机制推断"
+  },
+  {
+   "value": "芬太尼0.5至1微克每千克",
+   "verdict": "unverifiable",
+   "note": "答案自认无证据印证，临床常用但无指南级支持"
+  },
+  {
+   "value": "丙泊酚0.5至1毫克每千克",
+   "verdict": "unverifiable",
+   "note": "答案自认无证据印证，属经验性用药"
+  },
+  {
+   "value": "右美托咪定0.3至0.5微克每千克",
+   "verdict": "unverifiable",
+   "note": "答案自认无证据印证，非指南推荐标准剂量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1073
+}

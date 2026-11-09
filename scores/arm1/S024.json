@@ -1,0 +1,15 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3次",
+   "verdict": "supported",
+   "note": "符合困难气道指南最多尝试次数"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 830
+}

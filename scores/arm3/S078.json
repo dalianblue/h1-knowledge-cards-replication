@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.75秒",
+   "verdict": "unverifiable",
+   "note": "答案自指该数值缺乏可溯源证据支持"
+  },
+  {
+   "value": "0.25秒",
+   "verdict": "unverifiable",
+   "note": "答案自指该数值缺乏可溯源证据支持"
+  },
+  {
+   "value": "1.0",
+   "verdict": "supported",
+   "note": "猪模型FiO2 1.0为实验设定值"
+  },
+  {
+   "value": "0.4",
+   "verdict": "supported",
+   "note": "猪模型FiO2 0.4为实验对照值"
+  },
+  {
+   "value": "0",
+   "verdict": "supported",
+   "note": "PEEP为0为实验设定值"
+  },
+  {
+   "value": "3小时",
+   "verdict": "supported",
+   "note": "俯卧位EIT观测时点为实验设定"
+  },
+  {
+   "value": "10至21例",
+   "verdict": "supported",
+   "note": "引用的生理学研究样本量范围"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 912
+}

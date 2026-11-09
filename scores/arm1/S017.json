@@ -1,0 +1,30 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.5至0.6",
+   "verdict": "supported",
+   "note": "符合Marik等经典综述及指南数据"
+  },
+  {
+   "value": "8至12毫米汞柱",
+   "verdict": "supported",
+   "note": "早期脓毒症指南目标，后已废除"
+  },
+  {
+   "value": "2012年",
+   "verdict": "supported",
+   "note": "SurvivingSepsis2012删除CVP目标"
+  },
+  {
+   "value": "2016年",
+   "verdict": "supported",
+   "note": "SurvivingSepsis2016明确不推荐"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 867
+}

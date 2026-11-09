@@ -1,0 +1,78 @@
+{
+ "numeric_claims": [
+  {
+   "value": "射血分数不低于50%",
+   "verdict": "supported",
+   "note": "LVEF≥50%为正常标准"
+  },
+  {
+   "value": "40%至49%为轻度降低",
+   "verdict": "supported",
+   "note": "ACC/AHA心衰轻度降低定义"
+  },
+  {
+   "value": "30%至39%为中度降低",
+   "verdict": "supported",
+   "note": "ACC/AHA心衰中度降低定义"
+  },
+  {
+   "value": "低于30%为重度降低",
+   "verdict": "supported",
+   "note": "ACC/AHA心衰重度降低定义"
+  },
+  {
+   "value": "低于20%为极重度",
+   "verdict": "unverifiable",
+   "note": "无指南定义极重度为<20%"
+  },
+  {
+   "value": "近期下降超过10%",
+   "verdict": "unverifiable",
+   "note": "无公认指南定义10%阈值"
+  },
+  {
+   "value": "射血分数不低于20%至25%",
+   "verdict": "supported",
+   "note": "VA-ECMO撤机常用EF阈值"
+  },
+  {
+   "value": "部分中心要求不低于30%",
+   "verdict": "supported",
+   "note": "部分中心ECMO撤机EF标准"
+  },
+  {
+   "value": "主动脉速度时间积分不低于10厘米每秒",
+   "verdict": "wrong",
+   "note": "VTI单位为cm,非cm/s"
+  },
+  {
+   "value": "左室流出道速度时间积分大于12厘米每秒",
+   "verdict": "wrong",
+   "note": "LVOT-VTI正常>18cm,12过低"
+  },
+  {
+   "value": "肾上腺素不超过0.1微克每千克每分钟",
+   "verdict": "unverifiable",
+   "note": "无公认指南限定此剂量"
+  },
+  {
+   "value": "混合静脉血氧饱和度大于60%至65%",
+   "verdict": "supported",
+   "note": "ECMO撤机SvO2常用阈值"
+  },
+  {
+   "value": "降至1至1.5升每分钟",
+   "verdict": "supported",
+   "note": "ECMO试脱机常用流量"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 3,
+ "errors_found": [
+  "主动脉速度时间积分(VTI)单位错误，应为厘米(cm)而非厘米每秒(cm/s)",
+  "左室流出道速度时间积分(LVOT-VTI)>12cm/s作为撤机标准错误，正常值应>18cm，12cm为严重低心排状态，非撤机标准"
+ ],
+ "status": "ok",
+ "answer_chars": 940
+}

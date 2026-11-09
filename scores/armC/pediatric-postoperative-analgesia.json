@@ -1,0 +1,80 @@
+{
+ "numeric_claims": [
+  {
+   "value": "超过50万例",
+   "verdict": "supported",
+   "note": "美国儿童扁桃体切除量约50-60万/年,符合流行病学数据"
+  },
+  {
+   "value": "1–2天",
+   "verdict": "supported",
+   "note": "美沙酮消除半衰期成人19h,小儿延长,1-2天合理"
+  },
+  {
+   "value": "3–17岁",
+   "verdict": "unverifiable",
+   "note": "PMID提供,但无全文核对具体入组年龄上下限"
+  },
+  {
+   "value": "0.1 mg/kg",
+   "verdict": "unverifiable",
+   "note": "PMID提供,但无全文核对具体剂量方案"
+  },
+  {
+   "value": "0.15 mg/kg",
+   "verdict": "unverifiable",
+   "note": "PMID提供,但无全文核对具体递增剂量方案"
+  },
+  {
+   "value": "11家",
+   "verdict": "unverifiable",
+   "note": "PMID提供,无全文核对具体中心数量"
+  },
+  {
+   "value": "898例",
+   "verdict": "unverifiable",
+   "note": "PMID提供,无全文核对具体样本量"
+  },
+  {
+   "value": "188项研究",
+   "verdict": "unverifiable",
+   "note": "PMID提供,无全文核对纳入研究数"
+  },
+  {
+   "value": "13769名受试者",
+   "verdict": "unverifiable",
+   "note": "PMID提供,无全文核对受试者总数"
+  },
+  {
+   "value": "19种方案",
+   "verdict": "unverifiable",
+   "note": "PMID提供,无全文核对干预方案数"
+  },
+  {
+   "value": "10种",
+   "verdict": "unverifiable",
+   "note": "PMID提供,无全文核对显著优效方案数"
+  },
+  {
+   "value": "−4.79",
+   "verdict": "unverifiable",
+   "note": "PMID提供,无全文核对具体效应量数值"
+  },
+  {
+   "value": "0–10分",
+   "verdict": "supported",
+   "note": "Brief Pain Inventory标准评分范围"
+  },
+  {
+   "value": "1.0",
+   "verdict": "supported",
+   "note": "BPI的MCID公认标准为1-2分,1.0合理"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2493
+}

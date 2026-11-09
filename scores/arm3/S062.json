@@ -1,0 +1,70 @@
+{
+ "numeric_claims": [
+  {
+   "value": "127例",
+   "verdict": "unverifiable",
+   "note": "提及回顾性研究但未具名,无法溯源"
+  },
+  {
+   "value": "62例",
+   "verdict": "unverifiable",
+   "note": "符合入选标准例数,无研究名称无法溯源"
+  },
+  {
+   "value": "38例（61%）",
+   "verdict": "unverifiable",
+   "note": "存活出院例数及比例,无具体来源"
+  },
+  {
+   "value": "34例（89%）",
+   "verdict": "unverifiable",
+   "note": "神经功能结局良好例数及比例,无法溯源"
+  },
+  {
+   "value": "70岁",
+   "verdict": "unverifiable",
+   "note": "排除标准年龄阈值,未提供研究出处"
+  },
+  {
+   "value": "32°C",
+   "verdict": "unverifiable",
+   "note": "意外低温定义阈值,未提供前瞻性研究名称"
+  },
+  {
+   "value": "18岁",
+   "verdict": "unverifiable",
+   "note": "成人年龄下限,未提供前瞻性研究名称"
+  },
+  {
+   "value": "28天",
+   "verdict": "unverifiable",
+   "note": "生存结局随访时间点,无具体研究来源"
+  },
+  {
+   "value": "6%至7%",
+   "verdict": "unverifiable",
+   "note": "降1°C脑代谢率降幅,答案明确指无依据"
+  },
+  {
+   "value": "0.5°C至1.5°C",
+   "verdict": "unverifiable",
+   "note": "头皮降温影响脑温幅度,答案明确指无依据"
+  },
+  {
+   "value": "32°C至34°C",
+   "verdict": "unverifiable",
+   "note": "鼻咽温阈值,答案明确指无依据"
+  },
+  {
+   "value": "30分钟",
+   "verdict": "unverifiable",
+   "note": "术前置冰帽时间,答案明确指无依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 0,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 887
+}

@@ -1,0 +1,90 @@
+{
+ "numeric_claims": [
+  {
+   "value": "8–10 mEq/L",
+   "verdict": "supported",
+   "note": "符合教科书及共识对有症状低钠24h限速标准"
+  },
+  {
+   "value": "10–12 mEq/L",
+   "verdict": "supported",
+   "note": "符合教科书及共识对高钠24h最大降幅标准"
+  },
+  {
+   "value": "2 mEq/L/h",
+   "verdict": "unverifiable",
+   "note": "源自小样本动物实验,无人类指南依据"
+  },
+  {
+   "value": "7.00±0.71",
+   "verdict": "unverifiable",
+   "note": "动物实验具体测压数值,无法外推人类"
+  },
+  {
+   "value": "13.20±2.95",
+   "verdict": "unverifiable",
+   "note": "动物实验具体测压数值,无法外推人类"
+  },
+  {
+   "value": "6.80±0.45",
+   "verdict": "unverifiable",
+   "note": "动物实验具体测压数值,无法外推人类"
+  },
+  {
+   "value": "11.40±0.89",
+   "verdict": "unverifiable",
+   "note": "动物实验具体测压数值,无法外推人类"
+  },
+  {
+   "value": "1 mEq/L/h",
+   "verdict": "unverifiable",
+   "note": "动物实验慢速组设定,无人类指南依据"
+  },
+  {
+   "value": "0.5 mEq/L/h",
+   "verdict": "unverifiable",
+   "note": "动物实验造模速度,无人类临床依据"
+  },
+  {
+   "value": "48小时",
+   "verdict": "unverifiable",
+   "note": "动物实验造模时间,无人类临床依据"
+  },
+  {
+   "value": "15 mEq/L",
+   "verdict": "unverifiable",
+   "note": "动物实验造模升幅,无人类临床依据"
+  },
+  {
+   "value": "5只兔",
+   "verdict": "unverifiable",
+   "note": "动物实验样本量,无法外推人类"
+  },
+  {
+   "value": "8.6%",
+   "verdict": "supported",
+   "note": "符合限制性输液致AKI风险增加的RCT数据"
+  },
+  {
+   "value": "5.0%",
+   "verdict": "supported",
+   "note": "符合限制性输液对照组AKI发生率数据"
+  },
+  {
+   "value": "125",
+   "verdict": "supported",
+   "note": "正确指出该择期手术界值缺乏循证依据"
+  },
+  {
+   "value": "150",
+   "verdict": "supported",
+   "note": "正确指出该择期手术界值缺乏循证依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 982
+}

@@ -1,0 +1,100 @@
+{
+ "numeric_claims": [
+  {
+   "value": "300 mmHg",
+   "verdict": "unverifiable",
+   "note": "题设初始PaO₂,无实测曲线验证"
+  },
+  {
+   "value": "70 mmHg",
+   "verdict": "unverifiable",
+   "note": "题设终点PaO₂,无实测曲线验证"
+  },
+  {
+   "value": "6–10 分钟",
+   "verdict": "unverifiable",
+   "note": "粗算值,无实测依据,答案已排除"
+  },
+  {
+   "value": "8 分钟",
+   "verdict": "unverifiable",
+   "note": "粗算典型值,无实测依据,答案已排除"
+  },
+  {
+   "value": "30 mL/kg",
+   "verdict": "supported",
+   "note": "FRC经典近似值,Miller等教科书公认"
+  },
+  {
+   "value": "250 mL/min",
+   "verdict": "supported",
+   "note": "VO₂经典近似值,Miller等教科书公认"
+  },
+  {
+   "value": "0.87",
+   "verdict": "supported",
+   "note": "HFNO预充氧FE'O₂,源自PMID:33549319"
+  },
+  {
+   "value": "27.6%",
+   "verdict": "supported",
+   "note": "常规护理低氧合并绝对风险,PMID:28647137"
+  },
+  {
+   "value": "45 L·min⁻¹",
+   "verdict": "supported",
+   "note": "HFNO流量设定值,源自PMID:41419379"
+  },
+  {
+   "value": "70 L·min⁻¹",
+   "verdict": "supported",
+   "note": "HFNO流量设定值,源自PMID:41419379"
+  },
+  {
+   "value": "95 L·min⁻¹",
+   "verdict": "supported",
+   "note": "HFNO流量设定值,源自PMID:41419379"
+  },
+  {
+   "value": "93%",
+   "verdict": "supported",
+   "note": "研究主要终点SpO₂阈值,PMID:41419379"
+  },
+  {
+   "value": "2928 例",
+   "verdict": "supported",
+   "note": "RCT样本量,源自PMID:33471452"
+  },
+  {
+   "value": "60 mmHg",
+   "verdict": "supported",
+   "note": "ICU低氧目标值,源自PMID:33471452"
+  },
+  {
+   "value": "90 mmHg",
+   "verdict": "supported",
+   "note": "ICU高氧目标值,源自PMID:33471452"
+  },
+  {
+   "value": "110",
+   "verdict": "supported",
+   "note": "SF阈值,源自PMID:36814287"
+  },
+  {
+   "value": "98",
+   "verdict": "supported",
+   "note": "SF阈值,源自PMID:36814287"
+  },
+  {
+   "value": "88",
+   "verdict": "supported",
+   "note": "SF阈值,源自PMID:36814287"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2406
+}

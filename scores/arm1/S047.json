@@ -1,0 +1,65 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.75秒",
+   "verdict": "supported",
+   "note": "符合Miller's等教科书静息肺毛细血管转运时间"
+  },
+  {
+   "value": "0.5至1.0秒",
+   "verdict": "supported",
+   "note": "符合教科书公认的转运时间正常范围"
+  },
+  {
+   "value": "0.25秒",
+   "verdict": "supported",
+   "note": "符合教科书氧弥散平衡所需时间约0.25s"
+  },
+  {
+   "value": "三分之一",
+   "verdict": "supported",
+   "note": "0.25s为0.75s的三分之一，计算正确"
+  },
+  {
+   "value": "三倍",
+   "verdict": "supported",
+   "note": "0.75/0.25=3，氧合安全储备倍数正确"
+  },
+  {
+   "value": "0.25至0.3秒",
+   "verdict": "supported",
+   "note": "符合教科书剧烈运动时转运时间极限值"
+  },
+  {
+   "value": "20至30毫升每分每毫米汞柱",
+   "verdict": "supported",
+   "note": "符合静息氧弥散容量(DLCO)正常参考值"
+  },
+  {
+   "value": "10⁷ M⁻¹s⁻¹",
+   "verdict": "unverifiable",
+   "note": "血红蛋白结合速率常数，麻醉教材未查"
+  },
+  {
+   "value": "95%",
+   "verdict": "supported",
+   "note": "正常人极量运动SpO2维持>95%为共识"
+  },
+  {
+   "value": "88%至90%",
+   "verdict": "supported",
+   "note": "运动诱发性低氧血症诊断阈值共识"
+  },
+  {
+   "value": "0.5微米",
+   "verdict": "supported",
+   "note": "正常呼吸膜厚度约0.5μm符合教科书"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 967
+}

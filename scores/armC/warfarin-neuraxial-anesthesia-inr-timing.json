@@ -1,0 +1,40 @@
+{
+ "numeric_claims": [
+  {
+   "value": "≥5天",
+   "verdict": "supported",
+   "note": "ASRA指南及Miller's推荐华法林停药下限"
+  },
+  {
+   "value": "≥12 h",
+   "verdict": "supported",
+   "note": "ASRA指南预防剂量LMWH停药时间"
+  },
+  {
+   "value": "≥24 h",
+   "verdict": "supported",
+   "note": "ASRA指南治疗剂量LMWH停药时间"
+  },
+  {
+   "value": "≥6 h",
+   "verdict": "supported",
+   "note": "ASRA指南静脉普通肝素停药时间"
+  },
+  {
+   "value": "INR ≤1.4",
+   "verdict": "unverifiable",
+   "note": "答案自认卡库查无出处，属未溯源数值"
+  },
+  {
+   "value": "INR ≤1.5",
+   "verdict": "unverifiable",
+   "note": "答案自认卡库查无出处，属未溯源数值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2267
+}

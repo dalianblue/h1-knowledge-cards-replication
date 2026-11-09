@@ -1,0 +1,117 @@
+{
+ "numeric_claims": [
+  {
+   "value": "4毫克",
+   "verdict": "supported",
+   "note": "昂丹司琼PONV预防标准剂量"
+  },
+  {
+   "value": "16毫克",
+   "verdict": "supported",
+   "note": "昂丹司琼单次极量指南推荐"
+  },
+  {
+   "value": "1毫克",
+   "verdict": "supported",
+   "note": "格拉司琼PONV标准静脉剂量"
+  },
+  {
+   "value": "2毫克",
+   "verdict": "wrong",
+   "note": "托烷司琼PONV剂量应为0.1mg/kg或2mg"
+  },
+  {
+   "value": "0.075毫克",
+   "verdict": "supported",
+   "note": "帕洛诺司琼PONV静脉剂量"
+  },
+  {
+   "value": "40小时",
+   "verdict": "supported",
+   "note": "帕洛诺司琼消除半衰期约40h"
+  },
+  {
+   "value": "1至3小时",
+   "verdict": "supported",
+   "note": "阿瑞匹坦术前口服给药时机"
+  },
+  {
+   "value": "40毫克",
+   "verdict": "supported",
+   "note": "阿瑞匹坦PONV口服剂量"
+  },
+  {
+   "value": "115毫克",
+   "verdict": "supported",
+   "note": "福沙匹坦静脉注射单次剂量"
+  },
+  {
+   "value": "4至8毫克",
+   "verdict": "supported",
+   "note": "地塞米松PONV预防剂量"
+  },
+  {
+   "value": "0.625至1.25毫克",
+   "verdict": "supported",
+   "note": "氟哌利多低剂量PONV推荐"
+  },
+  {
+   "value": "10毫克",
+   "verdict": "supported",
+   "note": "甲氧氯普胺PONV常用剂量"
+  },
+  {
+   "value": "25至50毫克",
+   "verdict": "supported",
+   "note": "苯海拉明PONV常用剂量"
+  },
+  {
+   "value": "12.5至25毫克",
+   "verdict": "supported",
+   "note": "异丙嗪PONV常用剂量"
+  },
+  {
+   "value": "4小时",
+   "verdict": "supported",
+   "note": "东莨菪碱贴剂术前贴用时间"
+  },
+  {
+   "value": "0至4分",
+   "verdict": "supported",
+   "note": "Apfel简化评分分值范围"
+  },
+  {
+   "value": "0至1个",
+   "verdict": "supported",
+   "note": "低危因素数量定义"
+  },
+  {
+   "value": "2个",
+   "verdict": "supported",
+   "note": "中危因素数量定义"
+  },
+  {
+   "value": "3个及以上",
+   "verdict": "supported",
+   "note": "高危因素数量定义"
+  },
+  {
+   "value": "6小时",
+   "verdict": "supported",
+   "note": "5-HT3RA补救治疗间隔"
+  },
+  {
+   "value": "0.625毫克",
+   "verdict": "supported",
+   "note": "高危联合氟哌利多推荐剂量"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "托烷司琼静脉注射剂量错误：答案称2毫克，但权威指南(如SAMBA)与教科书推荐PONV预防剂量为0.1mg/kg(约2mg仅为70kg成人极量，常规不直接标定2mg)，且其治疗剂量为5mg，直接写2mg易与5mg治疗量或0.1mg/kg标准混淆，属不精确/错误数值"
+ ],
+ "status": "ok",
+ "answer_chars": 799
+}

@@ -1,0 +1,170 @@
+{
+ "numeric_claims": [
+  {
+   "value": "82项",
+   "verdict": "unverifiable",
+   "note": "网络Meta分析文献具体纳入项数无法直接核实"
+  },
+  {
+   "value": "6110例",
+   "verdict": "unverifiable",
+   "note": "网络Meta分析具体样本量无法直接核实"
+  },
+  {
+   "value": "-2.76（95%置信区间-3.88至-1.64）",
+   "verdict": "unverifiable",
+   "note": "布比卡因浸润均数差及CI无法直接核实"
+  },
+  {
+   "value": "-2.49",
+   "verdict": "unverifiable",
+   "note": "罗哌卡因浸润均数差无法直接核实"
+  },
+  {
+   "value": "-1.86",
+   "verdict": "unverifiable",
+   "note": "利多卡因浸润均数差无法直接核实"
+  },
+  {
+   "value": "898例",
+   "verdict": "unverifiable",
+   "note": "观察性研究样本量无法直接核实"
+  },
+  {
+   "value": "11家",
+   "verdict": "unverifiable",
+   "note": "观察性研究中心数无法直接核实"
+  },
+  {
+   "value": "1.2次",
+   "verdict": "unverifiable",
+   "note": "有利组非阿片类剂量无法直接核实"
+  },
+  {
+   "value": "0.7次",
+   "verdict": "unverifiable",
+   "note": "不利组非阿片类剂量无法直接核实"
+  },
+  {
+   "value": "188项",
+   "verdict": "unverifiable",
+   "note": "超前镇痛网络Meta分析纳入项数无法核实"
+  },
+  {
+   "value": "13769例",
+   "verdict": "unverifiable",
+   "note": "超前镇痛网络Meta分析样本量无法核实"
+  },
+  {
+   "value": "19种",
+   "verdict": "unverifiable",
+   "note": "超前镇痛方案数无法核实"
+  },
+  {
+   "value": "10/19",
+   "verdict": "unverifiable",
+   "note": "降低疼痛强度的方案比例无法核实"
+  },
+  {
+   "value": "8/19",
+   "verdict": "unverifiable",
+   "note": "减少阿片消耗的方案比例无法核实"
+  },
+  {
+   "value": "5种",
+   "verdict": "unverifiable",
+   "note": "延迟补救镇痛的方案数无法核实"
+  },
+  {
+   "value": "1.75至7.35小时",
+   "verdict": "unverifiable",
+   "note": "延迟补救镇痛时间范围无法核实"
+  },
+  {
+   "value": "60例",
+   "verdict": "unverifiable",
+   "note": "美沙酮RCT样本量无法核实"
+  },
+  {
+   "value": "1.5",
+   "verdict": "unverifiable",
+   "note": "对照组7天总阿片用量无法核实"
+  },
+  {
+   "value": "0.1 mg/kg",
+   "verdict": "unverifiable",
+   "note": "美沙酮剂量无法核实"
+  },
+  {
+   "value": "0.9（P=0.045）",
+   "verdict": "unverifiable",
+   "note": "0.1mg/kg组7天阿片用量及P值无法核实"
+  },
+  {
+   "value": "0.15 mg/kg",
+   "verdict": "unverifiable",
+   "note": "美沙酮剂量无法核实"
+  },
+  {
+   "value": "0.5（P=0.023）",
+   "verdict": "unverifiable",
+   "note": "0.15mg/kg组7天阿片用量及P值无法核实"
+  },
+  {
+   "value": "0.15",
+   "verdict": "unverifiable",
+   "note": "对照组PACU阿片用量无法核实"
+  },
+  {
+   "value": "0.0（P=0.021）",
+   "verdict": "unverifiable",
+   "note": "0.15mg/kg组PACU阿片用量及P值无法核实"
+  },
+  {
+   "value": "123项",
+   "verdict": "unverifiable",
+   "note": "TAP阻滞Meta分析纳入项数无法核实"
+  },
+  {
+   "value": "38项",
+   "verdict": "unverifiable",
+   "note": "COX-2抑制剂RCT项数无法核实"
+  },
+  {
+   "value": "5424例",
+   "verdict": "unverifiable",
+   "note": "COX-2抑制剂RCT样本量无法核实"
+  },
+  {
+   "value": "-1.1（95%置信区间-1.4至-0.8）",
+   "verdict": "unverifiable",
+   "note": "BPI均数差及CI无法核实"
+  },
+  {
+   "value": "0.44",
+   "verdict": "unverifiable",
+   "note": "慢性疼痛发生率比值比无法核实"
+  },
+  {
+   "value": "2倍",
+   "verdict": "supported",
+   "note": "小儿PONV发生率约为成人2倍为公认事实"
+  },
+  {
+   "value": "2岁以下",
+   "verdict": "supported",
+   "note": "昂丹司琼是唯一获批2岁以下5-HT3拮抗药"
+  },
+  {
+   "value": "P=0.061",
+   "verdict": "unverifiable",
+   "note": "0.1mg/kg组PACU阿片用量P值无法核实"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1529
+}

@@ -1,0 +1,62 @@
+{
+ "numeric_claims": [
+  {
+   "value": "血红蛋白不低于80克每升",
+   "verdict": "supported",
+   "note": "择期手术贫血耐受阈值常为70-80g/L"
+  },
+  {
+   "value": "中性粒细胞绝对计数不低于1.5×10⁹每升",
+   "verdict": "supported",
+   "note": "化疗后择期手术中性粒细胞安全阈值"
+  },
+  {
+   "value": "血小板不低于80×10⁹每升",
+   "verdict": "supported",
+   "note": "椎管内麻醉血小板安全下限为80×10⁹/L"
+  },
+  {
+   "value": "转氨酶超过正常上限2倍",
+   "verdict": "supported",
+   "note": "肝毒性评估标准转氨酶>2-3倍ULN"
+  },
+  {
+   "value": "估算肾小球滤过率低于60毫升每分钟",
+   "verdict": "unverifiable",
+   "note": "教科书无MTX停药确切eGFR阈值"
+  },
+  {
+   "value": "血药浓度降至0.1微摩尔每升以下",
+   "verdict": "supported",
+   "note": "大剂量MTX后手术安全浓度<0.1μmol/L"
+  },
+  {
+   "value": "每周不超过25毫克",
+   "verdict": "supported",
+   "note": "低剂量MTX常规方案常≤25mg/wk"
+  },
+  {
+   "value": "末次给药后应停药至少1周",
+   "verdict": "unverifiable",
+   "note": "低剂量MTX术前停药时间指南未统一"
+  },
+  {
+   "value": "停用非甾体抗炎药至少5个半衰期",
+   "verdict": "supported",
+   "note": "药物消除需5个半衰期达稳态/清除"
+  },
+  {
+   "value": "尿量不低于0.5毫升每公斤每小时",
+   "verdict": "supported",
+   "note": "围术期最低安全尿量标准为0.5ml/kg/h"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "顺阿曲库铵在肾功能不全时作用延长：顺阿曲库铵经Hofmann消除不依赖肾功能，肾功能不全时作用并不延长，此为事实性错误"
+ ],
+ "status": "ok",
+ "answer_chars": 945
+}

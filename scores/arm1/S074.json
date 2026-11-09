@@ -1,0 +1,30 @@
+{
+ "numeric_claims": [
+  {
+   "value": "左主干狭窄达百分之五十及以上",
+   "verdict": "supported",
+   "note": "符合ACC/AHA指南左主干狭窄≥50%高危标准"
+  },
+  {
+   "value": "前降支近端狭窄达百分之七十及以上",
+   "verdict": "supported",
+   "note": "符合Lee等标准前降支近端≥70%高危定义"
+  },
+  {
+   "value": "平均动脉压不低于六十五至七十毫米汞柱",
+   "verdict": "supported",
+   "note": "符合维持冠脉灌注压常规目标MAP>65-70"
+  },
+  {
+   "value": "血红蛋白维持不低于八十至九十克每升",
+   "verdict": "supported",
+   "note": "符合冠心病患者输血阈值Hb 80-90g/L"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1133
+}

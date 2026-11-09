@@ -1,0 +1,15 @@
+{
+ "numeric_claims": [
+  {
+   "value": "体温每下降1摄氏度脑氧代谢率约降低6%至7%",
+   "verdict": "supported",
+   "note": "符合Miller等教科书Q10规律及低温脑代谢率下降经典数据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 858
+}

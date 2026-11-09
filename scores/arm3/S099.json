@@ -1,0 +1,90 @@
+{
+ "numeric_claims": [
+  {
+   "value": "7.8 mmol/L",
+   "verdict": "supported",
+   "note": "约140mg/dL,常被误作择期术前目标"
+  },
+  {
+   "value": "10 mmol/L",
+   "verdict": "supported",
+   "note": "约180mg/dL,常被误作推迟手术阈值"
+  },
+  {
+   "value": "140–180 mg/dL",
+   "verdict": "supported",
+   "note": "ICU/住院患者血糖目标(Surviving Sepsis)"
+  },
+  {
+   "value": "7.8–10.0 mmol/L",
+   "verdict": "supported",
+   "note": "140-180mg/dL的mmol/L换算值"
+  },
+  {
+   "value": "6–10 mmol/L",
+   "verdict": "supported",
+   "note": "胰岛素/促泌剂治疗者术前目标(NICE)"
+  },
+  {
+   "value": "4–10 mmol/L",
+   "verdict": "supported",
+   "note": "饮食/口服药治疗者术前目标(NICE)"
+  },
+  {
+   "value": "200 mg/dL",
+   "verdict": "supported",
+   "note": "既往围术期高血糖治疗阈值"
+  },
+  {
+   "value": "11.1 mmol/L",
+   "verdict": "supported",
+   "note": "200mg/dL的mmol/L换算值"
+  },
+  {
+   "value": "4 mg",
+   "verdict": "supported",
+   "note": "地塞米松升高血糖的RCT分组剂量"
+  },
+  {
+   "value": "8 mg",
+   "verdict": "supported",
+   "note": "地塞米松升高血糖的RCT分组剂量"
+  },
+  {
+   "value": "302例",
+   "verdict": "unverifiable",
+   "note": "具体RCT样本量,无法当场溯源"
+  },
+  {
+   "value": "26项研究",
+   "verdict": "unverifiable",
+   "note": "CGM系统综述纳入研究数,难溯源"
+  },
+  {
+   "value": "1016例患者",
+   "verdict": "unverifiable",
+   "note": "CGM系统综述患者数,难溯源"
+  },
+  {
+   "value": "3.9–10.0 mmol/L",
+   "verdict": "supported",
+   "note": "CGM研究中的正常范围界定"
+  },
+  {
+   "value": "69 mmol/mol",
+   "verdict": "supported",
+   "note": "HbA1c约8.5%,需术前优化阈值"
+  },
+  {
+   "value": "13 mmol/L",
+   "verdict": "supported",
+   "note": "触发毛细血管酮体测定的血糖阈值"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 995
+}

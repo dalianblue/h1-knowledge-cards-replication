@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "7.8 mmol/L",
+   "verdict": "supported",
+   "note": "符合指南择期手术血糖控制下限目标"
+  },
+  {
+   "value": "7.8至10.0 mmol/L",
+   "verdict": "supported",
+   "note": "符合多数指南推荐的围术期血糖目标"
+  },
+  {
+   "value": "8至10 mmol/L",
+   "verdict": "supported",
+   "note": "老年/高危患者放宽目标符合指南共识"
+  },
+  {
+   "value": "10 mmol/L",
+   "verdict": "supported",
+   "note": "择期手术暂缓评估阈值符合临床常规"
+  },
+  {
+   "value": "10至13 mmol/L",
+   "verdict": "supported",
+   "note": "无急性代谢紊乱可限期手术符合指南"
+  },
+  {
+   "value": "13至14 mmol/L",
+   "verdict": "supported",
+   "note": "推迟手术阈值符合指南推荐"
+  },
+  {
+   "value": "13 mmol/L",
+   "verdict": "supported",
+   "note": "查酮体阈值符合指南推荐"
+  },
+  {
+   "value": "10至12 mmol/L",
+   "verdict": "supported",
+   "note": "老年放宽上限符合指南推荐"
+  },
+  {
+   "value": "0.05至0.1 U/kg/h",
+   "verdict": "supported",
+   "note": "静脉胰岛素起始速率符合指南"
+  },
+  {
+   "value": "4.0 mmol/L",
+   "verdict": "supported",
+   "note": "低血糖处理阈值符合临床标准"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1086
+}

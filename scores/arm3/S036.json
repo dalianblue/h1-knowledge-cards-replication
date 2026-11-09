@@ -1,0 +1,85 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5.62年",
+   "verdict": "unverifiable",
+   "note": "PAH抗凝中位生存期,原文未给来源,无法溯源"
+  },
+  {
+   "value": "95%CI 4.76–6.58",
+   "verdict": "unverifiable",
+   "note": "PAH抗凝生存期CI,原文未给来源,无法溯源"
+  },
+  {
+   "value": "5.37年",
+   "verdict": "unverifiable",
+   "note": "PAH未抗凝中位生存期,原文未给来源,无法溯源"
+  },
+  {
+   "value": "95%CI 4.96–5.82",
+   "verdict": "unverifiable",
+   "note": "PAH未抗凝生存期CI,原文未给来源,无法溯源"
+  },
+  {
+   "value": "HR 0.997",
+   "verdict": "unverifiable",
+   "note": "PAH抗凝HR值,原文未给来源,无法溯源"
+  },
+  {
+   "value": "95%CI 0.84–1.18",
+   "verdict": "unverifiable",
+   "note": "PAH抗凝HR的CI,原文未给来源,无法溯源"
+  },
+  {
+   "value": "P=0.97",
+   "verdict": "unverifiable",
+   "note": "PAH抗凝P值,原文未给来源,无法溯源"
+  },
+  {
+   "value": "3个月",
+   "verdict": "supported",
+   "note": "短暂诱发因素VTE标准抗凝时程"
+  },
+  {
+   "value": "7天",
+   "verdict": "supported",
+   "note": "导管溶栓RCT复合终点随访时间"
+  },
+  {
+   "value": "依诺肝素40 mg每12小时",
+   "verdict": "wrong",
+   "note": "预防剂量常为40mg qd,治疗剂量才q12h"
+  },
+  {
+   "value": "磺达肝癸钠5 mg",
+   "verdict": "wrong",
+   "note": "预防剂量2.5mg,5mg为治疗剂量"
+  },
+  {
+   "value": "抗Xa 0.2–0.4 IU/mL",
+   "verdict": "wrong",
+   "note": "LMWH预防目标常<0.1,0.2-0.4为治疗"
+  },
+  {
+   "value": "阿替普酶50–100 mg",
+   "verdict": "supported",
+   "note": "PE全身溶栓阿替普酶常规剂量范围"
+  },
+  {
+   "value": "Caprini评分≥9分",
+   "verdict": "unverifiable",
+   "note": "Caprini极高危常≥5分,≥9分无标准依据"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 1,
+ "usability": 2,
+ "errors_found": [
+  "依诺肝素40mg q12h为治疗剂量而非预防剂量",
+  "磺达肝癸钠5mg为治疗剂量而非预防剂量",
+  "抗Xa 0.2-0.4 IU/mL为LMWH治疗目标范围而非预防目标",
+  "Caprini评分≥9分作为阈值无主流指南依据"
+ ],
+ "status": "ok",
+ "answer_chars": 1333
+}

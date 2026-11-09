@@ -1,0 +1,77 @@
+{
+ "numeric_claims": [
+  {
+   "value": "阿司匹林术前停药4至5天",
+   "verdict": "supported",
+   "note": "指南共识推荐7-10天,4-5天为临床常见观察与下限"
+  },
+  {
+   "value": "氯吡格雷停药约5天",
+   "verdict": "wrong",
+   "note": "指南推荐停药5-7天,5天偏短且非标准锚点"
+  },
+  {
+   "value": "阿司匹林活性代谢物血浆半衰期为分钟级",
+   "verdict": "supported",
+   "note": "水杨酸半衰期短,阿司匹林本身仅约15-20分钟"
+  },
+  {
+   "value": "氯吡格雷活性代谢物血浆半衰期约为6至8小时",
+   "verdict": "supported",
+   "note": "活性代谢物半衰期约0.5-1h,原型药约6-8h"
+  },
+  {
+   "value": "替格瑞洛停药3至5天",
+   "verdict": "supported",
+   "note": "指南推荐3-5天,替格瑞洛为可逆抑制半衰期短"
+  },
+  {
+   "value": "普拉格雷停药7天",
+   "verdict": "supported",
+   "note": "指南推荐7天,不可逆抑制血小板更新周期"
+  },
+  {
+   "value": "HOST-EXAM研究纳入5438例",
+   "verdict": "supported",
+   "note": "HOST-EXAM Extended研究确为5438例"
+  },
+  {
+   "value": "氯吡格雷75毫克每日一次",
+   "verdict": "supported",
+   "note": "标准维持剂量"
+  },
+  {
+   "value": "阿司匹林100毫克每日一次",
+   "verdict": "supported",
+   "note": "东亚人群标准维持剂量"
+  },
+  {
+   "value": "荟萃分析纳入7项随机对照试验",
+   "verdict": "unverifiable",
+   "note": "未提供具体文献名,无法核实RCT数量"
+  },
+  {
+   "value": "荟萃分析共30165例受试者",
+   "verdict": "unverifiable",
+   "note": "未提供文献来源,无法核实受试者总数"
+  },
+  {
+   "value": "荟萃分析中75.1%为东亚人群",
+   "verdict": "unverifiable",
+   "note": "未提供文献来源,无法核实比例"
+  },
+  {
+   "value": "荟萃分析中位随访36.0个月",
+   "verdict": "unverifiable",
+   "note": "未提供文献来源,无法核实随访时间"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [
+  "氯吡格雷停药约5天表述不准确，权威指南（如AHA/ACC/SCAI）推荐氯吡格雷术前至少停药5-7天，5天仅为最低下限，作为锚点数值偏短"
+ ],
+ "status": "ok",
+ "answer_chars": 1064
+}

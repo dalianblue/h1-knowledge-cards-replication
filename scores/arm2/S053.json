@@ -1,0 +1,125 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1714例",
+   "verdict": "supported",
+   "note": "符合OPCABG术后低体温远期预后队列研究数据"
+  },
+  {
+   "value": "47个月",
+   "verdict": "supported",
+   "note": "符合该队列研究的中位随访时间"
+  },
+  {
+   "value": "低于35.5°C",
+   "verdict": "supported",
+   "note": "符合该研究设定的重度低体温阈值"
+  },
+  {
+   "value": "2.030",
+   "verdict": "supported",
+   "note": "符合该研究全因死亡校正风险比"
+  },
+  {
+   "value": "1.407至2.930",
+   "verdict": "supported",
+   "note": "符合该风险比的95%置信区间"
+  },
+  {
+   "value": "35.5至36.5°C",
+   "verdict": "supported",
+   "note": "符合该研究设定的轻度低体温区间"
+  },
+  {
+   "value": "1.445",
+   "verdict": "supported",
+   "note": "符合轻度低体温全因死亡校正风险比"
+  },
+  {
+   "value": "1.113至1.874",
+   "verdict": "supported",
+   "note": "符合该风险比的95%置信区间"
+  },
+  {
+   "value": "37°C",
+   "verdict": "supported",
+   "note": "符合POISE-2等RCT的积极保温目标温度"
+  },
+  {
+   "value": "35.5°C",
+   "verdict": "supported",
+   "note": "符合POISE-2等RCT的常规管理目标温度"
+  },
+  {
+   "value": "不低于45岁",
+   "verdict": "supported",
+   "note": "符合POISE-2及中国12中心RCT的年龄纳入标准"
+  },
+  {
+   "value": "2至6小时",
+   "verdict": "supported",
+   "note": "符合该RCT的手术预期时长纳入标准"
+  },
+  {
+   "value": "1587条",
+   "verdict": "unverifiable",
+   "note": "系统评价筛选记录数，无法核实具体数值"
+  },
+  {
+   "value": "25项",
+   "verdict": "unverifiable",
+   "note": "椎管内麻醉加温荟萃分析纳入RCT数，无法核实"
+  },
+  {
+   "value": "22项",
+   "verdict": "unverifiable",
+   "note": "系统评价纳入RCT总数，无法核实"
+  },
+  {
+   "value": "16项",
+   "verdict": "unverifiable",
+   "note": "提供分析数据的RCT数，无法核实"
+  },
+  {
+   "value": "5项",
+   "verdict": "unverifiable",
+   "note": "最大比较试验数，无法核实"
+  },
+  {
+   "value": "353例",
+   "verdict": "unverifiable",
+   "note": "最大比较的样本量，无法核实"
+  },
+  {
+   "value": "33°C",
+   "verdict": "supported",
+   "note": "符合TTM2试验等的目标温度管理设定"
+  },
+  {
+   "value": "32至34°C",
+   "verdict": "supported",
+   "note": "符合传统亚低温治疗目标温度区间"
+  },
+  {
+   "value": "35至36°C",
+   "verdict": "supported",
+   "note": "符合常温目标温度管理区间"
+  },
+  {
+   "value": "1217例",
+   "verdict": "unverifiable",
+   "note": "ACS合并OHCA低温试验样本量，无法核实"
+  },
+  {
+   "value": "36.6%",
+   "verdict": "unverifiable",
+   "note": "常温组与低温组神经预后比例，无法核实"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1321
+}

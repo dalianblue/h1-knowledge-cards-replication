@@ -1,0 +1,77 @@
+{
+ "numeric_claims": [
+  {
+   "value": "14项",
+   "verdict": "supported",
+   "note": "符合PEEP相关荟萃分析研究事实"
+  },
+  {
+   "value": "1238例",
+   "verdict": "supported",
+   "note": "符合该荟萃分析样本量事实"
+  },
+  {
+   "value": "5 cmH₂O",
+   "verdict": "supported",
+   "note": "常见研究设定值，非指南阈值"
+  },
+  {
+   "value": "8 cmH₂O",
+   "verdict": "supported",
+   "note": "常见研究设定值，非指南阈值"
+  },
+  {
+   "value": "230767例",
+   "verdict": "supported",
+   "note": "符合机械能回顾性研究样本量"
+  },
+  {
+   "value": "2 cmH₂O",
+   "verdict": "supported",
+   "note": "符合pilot RCT对照组设定"
+  },
+  {
+   "value": "6 ml/kg预测体重",
+   "verdict": "supported",
+   "note": "符合低潮气量保护性通气策略"
+  },
+  {
+   "value": "10 ml/kg预测体重",
+   "verdict": "supported",
+   "note": "符合研究中传统/对照潮气量设定"
+  },
+  {
+   "value": "5 cmH₂O常规推荐",
+   "verdict": "wrong",
+   "note": "无指南支持PEEP 5为常规推荐"
+  },
+  {
+   "value": "腹腔镜8至10 cmH₂O",
+   "verdict": "wrong",
+   "note": "无指南支持此特异性阈值"
+  },
+  {
+   "value": "肥胖10至15 cmH₂O",
+   "verdict": "wrong",
+   "note": "无指南支持此特异性阈值"
+  },
+  {
+   "value": "驱动压不超过15",
+   "verdict": "wrong",
+   "note": "驱动压限制通常≤15，但无PPCs终点证据"
+  },
+  {
+   "value": "平台压不超过30",
+   "verdict": "wrong",
+   "note": "平台压≤30为ARDS标准，非术中常规指南"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "将驱动压≤15与平台压≤30作为术中PEEP相关二手结论判定为缺乏对应证据支持是准确的，但标注其为'wrong'是因为这些阈值在ARDS/术后PPCs语境下常被误用为术中指南标准，答案本身正确指出了其缺乏术中指南依据"
+ ],
+ "status": "ok",
+ "answer_chars": 1111
+}

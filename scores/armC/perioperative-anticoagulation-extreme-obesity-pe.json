@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3个月",
+   "verdict": "supported",
+   "note": "短暂诱发因素VTE抗凝3月可停为指南共识"
+  },
+  {
+   "value": "1,597例；380例接受抗凝",
+   "verdict": "unverifiable",
+   "note": "PAH特定研究数据，脱离通用教科书语境"
+  },
+  {
+   "value": "5.62年vs5.37年；HR 0.997",
+   "verdict": "unverifiable",
+   "note": "PAH特定研究数据，脱离通用教科书语境"
+  },
+  {
+   "value": "IMPROVE VTE评分≥4，或2–3且D-二聚体>500 ng/mL",
+   "verdict": "unverifiable",
+   "note": "COVID-19特定RCT入组标准，不可外推"
+  },
+  {
+   "value": "利伐沙班10 mg/日×35天",
+   "verdict": "unverifiable",
+   "note": "COVID-19出院后预防剂量，非创伤骨科"
+  },
+  {
+   "value": "依诺肝素4000 IU qd",
+   "verdict": "unverifiable",
+   "note": "COVID-19 ICU预防剂量，非肥胖创伤人群"
+  },
+  {
+   "value": "5,436例",
+   "verdict": "unverifiable",
+   "note": "特定数据库溶栓利用分析，非通用阈值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 2,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 3464
+}

@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2003例",
+   "verdict": "unverifiable",
+   "note": "原队列样本量无法核实"
+  },
+  {
+   "value": "1246例(62%)",
+   "verdict": "unverifiable",
+   "note": "择期病例数及占比无法核实"
+  },
+  {
+   "value": "1046/1246(84%)",
+   "verdict": "unverifiable",
+   "note": "择期低风险胃占比无法核实"
+  },
+  {
+   "value": "178/1246(14%)",
+   "verdict": "unverifiable",
+   "note": "择期高风险胃占比无法核实"
+  },
+  {
+   "value": "757例(38%)",
+   "verdict": "unverifiable",
+   "note": "急诊病例数及占比无法核实"
+  },
+  {
+   "value": "587/757(78%)",
+   "verdict": "unverifiable",
+   "note": "急诊低风险胃占比无法核实"
+  },
+  {
+   "value": "158/757(21%)",
+   "verdict": "unverifiable",
+   "note": "急诊高风险胃占比无法核实"
+  },
+  {
+   "value": "<60 mg/dL(3.3 mmol/L)",
+   "verdict": "supported",
+   "note": "符合儿童低血糖常用诊断阈值"
+  },
+  {
+   "value": "90天",
+   "verdict": "unverifiable",
+   "note": "GLP-1 RA暴露时间无法核实"
+  },
+  {
+   "value": "30天",
+   "verdict": "unverifiable",
+   "note": "术后并发症随访时间无法核实"
+  }
+ ],
+ "hallucination_rate": 0.5,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2005
+}

@@ -1,0 +1,110 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2.5 mEq/L",
+   "verdict": "supported",
+   "note": "Miller等权威教科书支持<2.5取消择期手术"
+  },
+  {
+   "value": "2.5至3.0 mEq/L",
+   "verdict": "supported",
+   "note": "伴ECG异常延迟手术为教科书共识"
+  },
+  {
+   "value": "3.1至3.5 mEq/L",
+   "verdict": "supported",
+   "note": "该区间风险较小符合临床分层共识"
+  },
+  {
+   "value": "3.0 mmol/L",
+   "verdict": "supported",
+   "note": "3.0为多数机构推迟手术常规阈值"
+  },
+  {
+   "value": "3.5 mmol/L",
+   "verdict": "supported",
+   "note": "心脏手术<3.5增加心律失常风险有据"
+  },
+  {
+   "value": "3.6 mEq/L",
+   "verdict": "supported",
+   "note": "CABG术后宽松阈值3.6不劣于4.5有RCT"
+  },
+  {
+   "value": "4.5 mEq/L",
+   "verdict": "supported",
+   "note": "传统严格补钾阈值,已被新证伪结局获益"
+  },
+  {
+   "value": "2.65",
+   "verdict": "supported",
+   "note": "院内骤停病例对照研究OR值数据吻合"
+  },
+  {
+   "value": "1.61至4.38",
+   "verdict": "supported",
+   "note": "对应低钾OR的95%CI,文献数据一致"
+  },
+  {
+   "value": "6.5",
+   "verdict": "supported",
+   "note": "高钾端OR2.03及CI1.28-3.23数据吻合"
+  },
+  {
+   "value": "2.03",
+   "verdict": "supported",
+   "note": "高钾端OR值,同出骤停病例对照研究"
+  },
+  {
+   "value": "1.28至3.23",
+   "verdict": "supported",
+   "note": "高钾端OR的95%CI,文献数据一致"
+  },
+  {
+   "value": "4.0至4.5 mmol/L",
+   "verdict": "supported",
+   "note": "HFrEF人群最佳血钾区间有RCT证据"
+  },
+  {
+   "value": "3.5 mmol/L",
+   "verdict": "supported",
+   "note": "心衰低钾全因死亡HR1.49的截断值"
+  },
+  {
+   "value": "1.49",
+   "verdict": "supported",
+   "note": "心衰低钾全因死亡风险比,文献吻合"
+  },
+  {
+   "value": "1.27至1.76",
+   "verdict": "supported",
+   "note": "对应HR的95%CI,文献数据一致"
+  },
+  {
+   "value": "10至20 mmol/h",
+   "verdict": "supported",
+   "note": "外周静脉补钾速度上限为指南共识"
+  },
+  {
+   "value": "2%",
+   "verdict": "supported",
+   "note": "血钾占体钾总量约2%为生理学共识"
+  },
+  {
+   "value": "70/3500 mmol",
+   "verdict": "supported",
+   "note": "70/3500计算正确,符合2%比例"
+  },
+  {
+   "value": "0.27 mEq/L",
+   "verdict": "supported",
+   "note": "总钾减100mEq血钾降0.27符合生理经验"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1439
+}

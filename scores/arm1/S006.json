@@ -1,0 +1,75 @@
+{
+ "numeric_claims": [
+  {
+   "value": "15%~20%",
+   "verdict": "supported",
+   "note": "全麻致FRC下降15-20%为经典教科书事实"
+  },
+  {
+   "value": "90%",
+   "verdict": "supported",
+   "note": "全麻诱导后依赖区肺不张发生率见经典影像学"
+  },
+  {
+   "value": "5~10 cmH₂O",
+   "verdict": "supported",
+   "note": "常规PEEP范围符合指南与教科书推荐"
+  },
+  {
+   "value": "20%~30%",
+   "verdict": "unverifiable",
+   "note": "氧合指数提升幅度受多因素影响无固定值"
+  },
+  {
+   "value": "6~8 mL/kg",
+   "verdict": "supported",
+   "note": "小潮气量范围符合ARDS及肺保护性通气指南"
+  },
+  {
+   "value": "低于15 cmH₂O",
+   "verdict": "supported",
+   "note": "限制驱动压<15cmH2O符合围术期肺保护共识"
+  },
+  {
+   "value": "5 cmH₂O",
+   "verdict": "supported",
+   "note": "低危患者固定低水平PEEP符合常规临床实践"
+  },
+  {
+   "value": "10~12 cmH₂O",
+   "verdict": "supported",
+   "note": "肥胖/腹腔镜等较高PEEP范围符合指南推荐"
+  },
+  {
+   "value": "2~5 cmH₂O",
+   "verdict": "unverifiable",
+   "note": "食道压导向PEEP加2-5cmH2O缺乏明确指南共识"
+  },
+  {
+   "value": "10~15 cmH₂O",
+   "verdict": "supported",
+   "note": "肥胖患者PEEP推荐范围符合临床指南共识"
+  },
+  {
+   "value": "8~12 cmH₂O",
+   "verdict": "supported",
+   "note": "腹腔镜手术PEEP推荐范围符合指南共识"
+  },
+  {
+   "value": "5~10 cmH₂O",
+   "verdict": "supported",
+   "note": "单肺通气依赖肺PEEP范围符合指南推荐"
+  },
+  {
+   "value": "1~2 cmH₂O",
+   "verdict": "supported",
+   "note": "非依赖肺CPAP 1-2cmH2O符合单肺通气指南"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 867
+}

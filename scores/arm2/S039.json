@@ -1,0 +1,95 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1:10000",
+   "verdict": "supported",
+   "note": "符合椎管内血肿发生率数量级估计"
+  },
+  {
+   "value": "0.1-3.5:10000",
+   "verdict": "supported",
+   "note": "符合95%CI区间文献报道"
+  },
+  {
+   "value": "96103例",
+   "verdict": "unverifiable",
+   "note": "特定队列样本量,未提供溯源文献"
+  },
+  {
+   "value": "5天",
+   "verdict": "supported",
+   "note": "ASRA/指南华法林停药标准天数"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "指南要求术前24h内测INR"
+  },
+  {
+   "value": "≤1.4或≤1.5",
+   "verdict": "supported",
+   "note": "ASRA2ed为1.4,3ed/4ed为1.5"
+  },
+  {
+   "value": "3.0",
+   "verdict": "supported",
+   "note": "INR>3需延长停药并干预为指南共识"
+  },
+  {
+   "value": "1-5mg",
+   "verdict": "supported",
+   "note": "维生素K逆转口服剂量范围符合指南"
+  },
+  {
+   "value": "6-10小时",
+   "verdict": "supported",
+   "note": "维生素K起效时间符合药理学"
+  },
+  {
+   "value": "24-48小时",
+   "verdict": "supported",
+   "note": "维生素K达峰时间符合药理学"
+  },
+  {
+   "value": "12小时",
+   "verdict": "supported",
+   "note": "LMWH预防量椎管前停药时间"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "LMWH治疗量椎管前停药时间"
+  },
+  {
+   "value": "6小时",
+   "verdict": "supported",
+   "note": "静脉普通肝素停药时间"
+  },
+  {
+   "value": "5000U",
+   "verdict": "supported",
+   "note": "皮下肝素标准预防剂量"
+  },
+  {
+   "value": "4-6小时",
+   "verdict": "supported",
+   "note": "皮下肝素后等待时间符合指南"
+  },
+  {
+   "value": "36%",
+   "verdict": "unverifiable",
+   "note": "特发VTE停药后10年复发率缺直接溯源"
+  },
+  {
+   "value": "3-5%",
+   "verdict": "unverifiable",
+   "note": "年复发率数据缺直接指南溯源"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 917
+}

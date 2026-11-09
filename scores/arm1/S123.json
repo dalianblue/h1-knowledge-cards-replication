@@ -1,0 +1,65 @@
+{
+ "numeric_claims": [
+  {
+   "value": "颅内压超过20 mmHg",
+   "verdict": "supported",
+   "note": "Miller's及指南定义颅内高压阈值为20mmHg"
+  },
+  {
+   "value": "脑灌注压维持在60 mmHg以上",
+   "verdict": "supported",
+   "note": "严重脑创伤指南推荐CPP>60mmHg"
+  },
+  {
+   "value": "罗库溴铵1.2 mg/kg",
+   "verdict": "supported",
+   "note": "快速序贯诱导加量剂量符合药理学"
+  },
+  {
+   "value": "丙泊酚1.5–2.5 mg/kg",
+   "verdict": "supported",
+   "note": "成人静脉诱导标准剂量范围"
+  },
+  {
+   "value": "二氧化碳分压在35–40 mmHg",
+   "verdict": "supported",
+   "note": "神经麻醉常频通气目标范围"
+  },
+  {
+   "value": "二氧化碳分压30–35 mmHg",
+   "verdict": "supported",
+   "note": "降颅压短时过度通气指南允许"
+  },
+  {
+   "value": "头略抬高15–30°",
+   "verdict": "supported",
+   "note": "促进脑静脉回流经典体位角度"
+  },
+  {
+   "value": "血糖维持在4.4–10 mmol/L",
+   "verdict": "supported",
+   "note": "围术期血糖管理指南共识范围"
+  },
+  {
+   "value": "阿托品0.5 mg",
+   "verdict": "supported",
+   "note": "成人心动过缓标准急救剂量"
+  },
+  {
+   "value": "昂丹司琼4 mg",
+   "verdict": "supported",
+   "note": "成人防吐标准单次静脉剂量"
+  },
+  {
+   "value": "平均动脉压维持在基线±20%范围内",
+   "verdict": "supported",
+   "note": "脑损伤血压波动控制目标"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 936
+}

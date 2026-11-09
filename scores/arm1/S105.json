@@ -1,0 +1,125 @@
+{
+ "numeric_claims": [
+  {
+   "value": "30 mL/kg",
+   "verdict": "supported",
+   "note": "正常成人FRC约30mL/kg为经典生理学数据"
+  },
+  {
+   "value": "300 mmHg",
+   "verdict": "supported",
+   "note": "充分去氮后PaO2接近300mmHg符合肺泡气方程"
+  },
+  {
+   "value": "6至8分钟",
+   "verdict": "supported",
+   "note": "PaO2降至70mmHg需6-8min符合经典教材描述"
+  },
+  {
+   "value": "7分钟",
+   "verdict": "supported",
+   "note": "正常成人去氮后呼吸暂停约7min为公认估计值"
+  },
+  {
+   "value": "5至10分钟",
+   "verdict": "supported",
+   "note": "5-10min范围符合文献报告的正常人变异范围"
+  },
+  {
+   "value": "60 mmHg",
+   "verdict": "supported",
+   "note": "氧解离曲线陡降起始点约60mmHg为生理学共识"
+  },
+  {
+   "value": "8至10分钟",
+   "verdict": "supported",
+   "note": "SpO2降至90%需8-10min符合Miller等权威教材"
+  },
+  {
+   "value": "2100 mL",
+   "verdict": "supported",
+   "note": "30mL/kg乘70kg计算正确"
+  },
+  {
+   "value": "600 mmHg",
+   "verdict": "supported",
+   "note": "去氮后PAO2约660mmHg,600以上表述合理"
+  },
+  {
+   "value": "1900 mL",
+   "verdict": "wrong",
+   "note": "FRC2100ml含氧量按0.85计应为1785ml"
+  },
+  {
+   "value": "850 mL",
+   "verdict": "supported",
+   "note": "正常成人血液氧储量约850ml符合教科书"
+  },
+  {
+   "value": "45 mL",
+   "verdict": "supported",
+   "note": "溶解氧约45ml符合常压下物理溶解量"
+  },
+  {
+   "value": "2700至3000 mL",
+   "verdict": "wrong",
+   "note": "FRC氧量算错致总储备偏高,实际约2600ml"
+  },
+  {
+   "value": "250 mL/min",
+   "verdict": "supported",
+   "note": "成人基础氧耗量约250ml/min为生理学标准值"
+  },
+  {
+   "value": "11至12分钟",
+   "verdict": "wrong",
+   "note": "基于错误总氧储量推算,理论耗尽应约10min"
+  },
+  {
+   "value": "55%至65%",
+   "verdict": "unverifiable",
+   "note": "该百分比消耗量无经典模型或文献直接支持"
+  },
+  {
+   "value": "3至5分钟",
+   "verdict": "supported",
+   "note": "肥胖/FRC减小者去氧饱和时间3-5min符合指南"
+  },
+  {
+   "value": "3至5分钟",
+   "verdict": "supported",
+   "note": "预充氧3-5min为标准临床操作要求"
+  },
+  {
+   "value": "4次深呼吸",
+   "verdict": "supported",
+   "note": "8次深呼吸法为标准,4次仅部分去氮,非充分"
+  },
+  {
+   "value": "90%",
+   "verdict": "supported",
+   "note": "呼气末氧浓度>90%为预充氧充分标准"
+  },
+  {
+   "value": "4至6分钟",
+   "verdict": "supported",
+   "note": "肥胖孕妇安全时限4-6min符合临床指南共识"
+  },
+  {
+   "value": "93%至95%",
+   "verdict": "supported",
+   "note": "PaO270mmHg对应SpO2约93-95%符合氧解离曲线"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "FRC内氧储量计算错误：2100 mL的FRC在充分去氮后（含氧浓度约85%），氧量应为约1785 mL，而非1900 mL",
+  "总氧储备量计算错误：因FRC氧量高估，导致总氧储备（2700-3000 mL）高于实际值（约2600 mL）",
+  "理论耗尽时间计算错误：基于虚高的总氧储量推算出11-12分钟，实际理论耗尽时间约为10分钟",
+  "预充氧方案不严谨：将“4次深呼吸”与“3-5分钟”并列作为充分预充氧标准，但4次深呼吸无法达到充分去氮（标准为8次深呼吸法）"
+ ],
+ "status": "ok",
+ "answer_chars": 1085
+}

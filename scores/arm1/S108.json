@@ -1,0 +1,119 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3月龄以下慎用阿片类",
+   "verdict": "supported",
+   "note": "新生儿及小婴儿阿片代谢清除慢，易呼吸抑制"
+  },
+  {
+   "value": "6月龄以下慎用非甾体抗炎药",
+   "verdict": "supported",
+   "note": "6月以下肾功能未成熟，NSAID致肾损风险高"
+  },
+  {
+   "value": "对乙酰氨基酚口服或直肠10至15 mg/kg",
+   "verdict": "supported",
+   "note": "符合儿科常规单次剂量标准"
+  },
+  {
+   "value": "对乙酰氨基酚每日最大75 mg/kg",
+   "verdict": "wrong",
+   "note": "儿童口服/直肠最大量应为60-75mg/kg,静脉限60"
+  },
+  {
+   "value": "对乙酰氨基酚不超过4 g/d",
+   "verdict": "wrong",
+   "note": "儿童极量应按体重算，成人极量4g/d不可套用"
+  },
+  {
+   "value": "对乙酰氨基酚静脉15 mg/kg每6小时一次",
+   "verdict": "wrong",
+   "note": "静注单次应为15mg/kg,但间隔需为4h非6h"
+  },
+  {
+   "value": "布洛芬5至10 mg/kg每6至8小时一次",
+   "verdict": "supported",
+   "note": "符合儿科布洛芬镇痛常规剂量与间隔"
+  },
+  {
+   "value": "布洛芬每日最大40 mg/kg",
+   "verdict": "supported",
+   "note": "符合儿童布洛芬日剂量上限标准"
+  },
+  {
+   "value": "酮咯酸0.5 mg/kg每6至8小时一次",
+   "verdict": "supported",
+   "note": "符合儿童酮咯酸单次剂量及间隔"
+  },
+  {
+   "value": "酮咯酸单次不超过15至30 mg",
+   "verdict": "supported",
+   "note": "符合儿童单次剂量上限标准"
+  },
+  {
+   "value": "酮咯酸使用不超过5天",
+   "verdict": "supported",
+   "note": "非甾体抗炎药限短期使用以防副作用"
+  },
+  {
+   "value": "酮咯酸限6月龄以上",
+   "verdict": "supported",
+   "note": "6月以下肾功能不成熟，避免使用"
+  },
+  {
+   "value": "曲马多1至2 mg/kg每6小时一次",
+   "verdict": "supported",
+   "note": "符合儿童曲马多口服剂量标准"
+  },
+  {
+   "value": "曲马多限12岁以上",
+   "verdict": "supported",
+   "note": "FDA黑框警告限12岁以下禁用"
+  },
+  {
+   "value": "吗啡静脉0.05至0.1 mg/kg每2至4小时一次",
+   "verdict": "supported",
+   "note": "符合儿童吗啡静注间歇剂量标准"
+  },
+  {
+   "value": "吗啡口服0.2至0.5 mg/kg每4小时一次",
+   "verdict": "supported",
+   "note": "符合儿童吗啡口服剂量标准"
+  },
+  {
+   "value": "氢吗啡酮静脉0.01至0.02 mg/kg每2至4小时一次",
+   "verdict": "supported",
+   "note": "符合儿童氢吗啡酮静注剂量标准"
+  },
+  {
+   "value": "氢吗啡酮效力约为吗啡的5至7倍",
+   "verdict": "supported",
+   "note": "氢吗啡酮效价约为吗啡5倍，符合药理"
+  },
+  {
+   "value": "芬太尼静脉0.5至1 μg/kg",
+   "verdict": "supported",
+   "note": "符合儿童芬太尼单次静注镇痛剂量"
+  },
+  {
+   "value": "右美托咪定0.2至0.5 μg/kg/h静滴",
+   "verdict": "supported",
+   "note": "符合儿童右美托咪定常用维持输注速率"
+  },
+  {
+   "value": "纳洛酮0.1 mg/kg（最大2 mg）",
+   "verdict": "supported",
+   "note": "符合儿童阿片拮抗剂量标准"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "对乙酰氨基酚静脉给药间隔错误，应为每4小时一次而非每6小时一次",
+  "对乙酰氨基酚每日最大75 mg/kg表述不严谨，静脉给药日极量应为60 mg/kg",
+  "对乙酰氨基酚剂量上限'不超过4 g/d'为成人标准，不应直接套用于儿童"
+ ],
+ "status": "ok",
+ "answer_chars": 1128
+}

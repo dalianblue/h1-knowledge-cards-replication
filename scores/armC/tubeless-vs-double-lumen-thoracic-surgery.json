@@ -1,0 +1,79 @@
+{
+ "numeric_claims": [
+  {
+   "value": "388/458（84.7%）",
+   "verdict": "unverifiable",
+   "note": "PMID 42034560不存在,无法核实该RCT数据"
+  },
+  {
+   "value": "916例",
+   "verdict": "unverifiable",
+   "note": "同上,文献PMID伪造无法核实样本量"
+  },
+  {
+   "value": "约15%",
+   "verdict": "unverifiable",
+   "note": "基于不可溯源的84.7%推算,无法核实"
+  },
+  {
+   "value": "123例",
+   "verdict": "unverifiable",
+   "note": "PMID 32332265不存在,无法核实样本量"
+  },
+  {
+   "value": "常规组62例、纤支镜引导组61例",
+   "verdict": "unverifiable",
+   "note": "同上,文献PMID伪造无法核实分组"
+  },
+  {
+   "value": "ASA Ⅰ–Ⅲ级",
+   "verdict": "unverifiable",
+   "note": "2025版共识及刊期均不存在,无法核实"
+  },
+  {
+   "value": "年龄18–70岁",
+   "verdict": "unverifiable",
+   "note": "共识文献伪造,无法核实年龄限制"
+  },
+  {
+   "value": "手术时间4 h内",
+   "verdict": "unverifiable",
+   "note": "共识文献伪造,无法核实时间限制"
+  },
+  {
+   "value": "BMI≤28 kg/m²",
+   "verdict": "unverifiable",
+   "note": "共识文献伪造,无法核实BMI阈值"
+  },
+  {
+   "value": "低于21 kg/m²更佳",
+   "verdict": "unverifiable",
+   "note": "共识文献伪造,无法核实BMI最佳值"
+  },
+  {
+   "value": "SpO₂<90%",
+   "verdict": "unverifiable",
+   "note": "共识文献伪造,无法核实中转阈值"
+  },
+  {
+   "value": "PaCO₂>70 mmHg",
+   "verdict": "unverifiable",
+   "note": "共识文献伪造,无法核实中转阈值"
+  },
+  {
+   "value": "超过30 s",
+   "verdict": "unverifiable",
+   "note": "共识文献伪造,无法核实时间阈值"
+  }
+ ],
+ "hallucination_rate": 1.0,
+ "traceability": 0,
+ "usability": 1,
+ "errors_found": [
+  "PMID:42034560系伪造，PubMed无此文献，DOLVI试验及84.7%成功率属凭空捏造",
+  "PMID:32332265系伪造，PubMed无此文献，123例RCT数据属凭空捏造",
+  "《Tubeless胸科手术麻醉管理专家共识（2025版）》及中华麻醉学杂志2026年4月刊期均不存在，相关适应证/禁忌证/阈值均属虚构"
+ ],
+ "status": "ok",
+ "answer_chars": 2470
+}

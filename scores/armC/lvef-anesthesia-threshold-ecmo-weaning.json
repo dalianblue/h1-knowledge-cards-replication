@@ -1,0 +1,40 @@
+{
+ "numeric_claims": [
+  {
+   "value": "LVEF<30%",
+   "verdict": "supported",
+   "note": "TAVI麻醉管理文件中确有此数值"
+  },
+  {
+   "value": "LVEF≤35%",
+   "verdict": "supported",
+   "note": "CABG适应证(STITCH)阈值属实"
+  },
+  {
+   "value": "24.7%（156/632）",
+   "verdict": "supported",
+   "note": "PARTNER IIA SAVR右室恶化率正确"
+  },
+  {
+   "value": "8.3%（62/744）",
+   "verdict": "supported",
+   "note": "PARTNER IIA TAVR右室恶化率正确"
+  },
+  {
+   "value": "OR 4.05（95%CI 2.55–6.44）",
+   "verdict": "supported",
+   "note": "PARTNER IIA多变量模型数据正确"
+  },
+  {
+   "value": "24h",
+   "verdict": "supported",
+   "note": "PMID:32677985撤机失败定义正确"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 3377
+}

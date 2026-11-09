@@ -1,0 +1,57 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.04→0.20 μg/kg/min",
+   "verdict": "supported",
+   "note": "研究PMID:41481868的健康志愿者NE剂量反应区间"
+  },
+  {
+   "value": "15 min",
+   "verdict": "supported",
+   "note": "PMID:40318949研究设定的诱导后观察期"
+  },
+  {
+   "value": "72例",
+   "verdict": "supported",
+   "note": "PMID:40744797高危患者RCT的样本量"
+  },
+  {
+   "value": "10 μg/mL",
+   "verdict": "supported",
+   "note": "PMID:34872102外周低浓度输注方案的浓度"
+  },
+  {
+   "value": "10%",
+   "verdict": "supported",
+   "note": "PMID:34872102收缩压目标偏离基线范围"
+  },
+  {
+   "value": "100–120 mmHg",
+   "verdict": "supported",
+   "note": "PMID:34872102滴定收缩压目标范围"
+  },
+  {
+   "value": "300余个ICU",
+   "verdict": "supported",
+   "note": "PMID:42090639脓毒症回顾分析涵盖的ICU数"
+  },
+  {
+   "value": "1120例",
+   "verdict": "supported",
+   "note": "PMID:31977630膀胱癌队列总样本量"
+  },
+  {
+   "value": "411例（37%）",
+   "verdict": "wrong",
+   "note": "411/1120=36.7%，四舍五入应为36.7%而非37%"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [
+  "411/1120计算为36.7%，文中误标为37%"
+ ],
+ "status": "ok",
+ "answer_chars": 2724
+}

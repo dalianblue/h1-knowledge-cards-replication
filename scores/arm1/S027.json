@@ -1,0 +1,115 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5.5 mmol/L",
+   "verdict": "supported",
+   "note": "高钾血症定义及择期手术阈值符合指南"
+  },
+  {
+   "value": "6.0 mmol/L",
+   "verdict": "supported",
+   "note": "紧急处理阈值符合AHA/ACC指南"
+  },
+  {
+   "value": "10%葡萄糖酸钙10至30 mL",
+   "verdict": "supported",
+   "note": "剂量范围符合ACLS及麻醉学指南"
+  },
+  {
+   "value": "2至5分钟内推完",
+   "verdict": "supported",
+   "note": "推注速度符合标准给药规范"
+  },
+  {
+   "value": "1至3分钟起效",
+   "verdict": "supported",
+   "note": "钙剂起效时间符合药代动力学"
+  },
+  {
+   "value": "维持30至60分钟",
+   "verdict": "supported",
+   "note": "钙剂维持时间符合指南描述"
+  },
+  {
+   "value": "10%氯化钙5至10 mL",
+   "verdict": "supported",
+   "note": "氯化钙等效剂量换算符合指南"
+  },
+  {
+   "value": "常规胰岛素10 U",
+   "verdict": "supported",
+   "note": "常规起始剂量符合高钾处理指南"
+  },
+  {
+   "value": "50%葡萄糖50 mL",
+   "verdict": "supported",
+   "note": "配比25g葡萄糖符合指南防低血糖"
+  },
+  {
+   "value": "10%葡萄糖500 mL",
+   "verdict": "supported",
+   "note": "配比50g葡萄糖符合替代方案"
+  },
+  {
+   "value": "15至30分钟起效",
+   "verdict": "supported",
+   "note": "胰岛素降钾起效时间符合指南"
+  },
+  {
+   "value": "降钾0.5至1.2 mmol/L",
+   "verdict": "supported",
+   "note": "降钾幅度符合文献报道范围"
+  },
+  {
+   "value": "维持4至6小时",
+   "verdict": "supported",
+   "note": "胰岛素降钾维持时间符合指南"
+  },
+  {
+   "value": "沙丁胺醇雾化10至20 mg",
+   "verdict": "supported",
+   "note": "雾化剂量符合高钾治疗指南"
+  },
+  {
+   "value": "30分钟起效",
+   "verdict": "supported",
+   "note": "沙丁胺醇起效时间符合指南"
+  },
+  {
+   "value": "碳酸氢钠50至100 mmol",
+   "verdict": "supported",
+   "note": "碳酸氢钠剂量符合酸中毒合并用药"
+  },
+  {
+   "value": "呋塞米40至80 mg",
+   "verdict": "supported",
+   "note": "静脉排钾剂量符合指南推荐"
+  },
+  {
+   "value": "4小时可降钾1至2 mmol/L",
+   "verdict": "supported",
+   "note": "透析降钾效率符合临床数据"
+  },
+  {
+   "value": "升钾0.5至1.0 mmol/L",
+   "verdict": "supported",
+   "note": "琥珀胆碱升钾幅度符合Miller等"
+  },
+  {
+   "value": "每1至2小时复查一次",
+   "verdict": "supported",
+   "note": "复查频率符合紧急评估规范"
+  },
+  {
+   "value": "15至30分钟复查血钾及血糖",
+   "verdict": "supported",
+   "note": "处理后复查时间符合胰岛素监测"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 940
+}

@@ -1,0 +1,80 @@
+{
+ "numeric_claims": [
+  {
+   "value": "150 mL",
+   "verdict": "supported",
+   "note": "PMID:36351436中LIA罗哌卡因用量"
+  },
+  {
+   "value": "20 mL",
+   "verdict": "supported",
+   "note": "PMID:36351436中膝神经阻滞用量"
+  },
+  {
+   "value": "0.2%",
+   "verdict": "supported",
+   "note": "PMID:36351436中罗哌卡因浓度"
+  },
+  {
+   "value": "7倍多",
+   "verdict": "supported",
+   "note": "150/20=7.5，算术正确"
+  },
+  {
+   "value": "24–48 h达峰",
+   "verdict": "supported",
+   "note": "TKA术后疼痛规律符合临床事实"
+  },
+  {
+   "value": "90例",
+   "verdict": "unverifiable",
+   "note": "原文未提供样本量，无法核实"
+  },
+  {
+   "value": "188项研究",
+   "verdict": "unverifiable",
+   "note": "需核对PMID:36404458原文核实"
+  },
+  {
+   "value": "13 769例",
+   "verdict": "unverifiable",
+   "note": "需核对PMID:36404458原文核实"
+  },
+  {
+   "value": "19种方案",
+   "verdict": "unverifiable",
+   "note": "需核对PMID:36404458原文核实"
+  },
+  {
+   "value": "10种",
+   "verdict": "unverifiable",
+   "note": "需核对PMID:36404458原文核实"
+  },
+  {
+   "value": "75%",
+   "verdict": "supported",
+   "note": "答案已正确指出属心胸外科且不采信"
+  },
+  {
+   "value": "0.2% 15–20 mL",
+   "verdict": "supported",
+   "note": "答案已正确标明无依据且不落"
+  },
+  {
+   "value": "0.25% 10–15 mL",
+   "verdict": "supported",
+   "note": "答案已正确标明无依据且不落"
+  },
+  {
+   "value": "≤3 mg/kg",
+   "verdict": "supported",
+   "note": "答案已正确标明无依据且不落"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2395
+}

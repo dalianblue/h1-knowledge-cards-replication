@@ -1,0 +1,85 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3.0 mEq/L",
+   "verdict": "supported",
+   "note": "传统延迟手术阈值，现已被较低阈值挑战"
+  },
+  {
+   "value": "2.5 mEq/L",
+   "verdict": "supported",
+   "note": "教科书取消择期手术硬阈值，合并ECG改变"
+  },
+  {
+   "value": "2.5至3.0 mEq/L",
+   "verdict": "supported",
+   "note": "需分层处理，伴ECG改变应延迟手术"
+  },
+  {
+   "value": "3.1至3.5 mEq/L",
+   "verdict": "supported",
+   "note": "多数可手术，需无急剧下降及ECG异常"
+  },
+  {
+   "value": "0.5 mEq/L",
+   "verdict": "supported",
+   "note": "急剧下降幅度阈值，超此伴心脏病风险高"
+  },
+  {
+   "value": "2.6至3.4 mEq/L",
+   "verdict": "supported",
+   "note": "慢性轻中度低钾与术中心律失常无关"
+  },
+  {
+   "value": "100 mEq",
+   "verdict": "supported",
+   "note": "机体总钾减少量与血清钾下降换算锚点"
+  },
+  {
+   "value": "0.27 mEq/L",
+   "verdict": "supported",
+   "note": "总钾减少100mEq对应血清钾下降值"
+  },
+  {
+   "value": "3.4补至4.4 mEq/L",
+   "verdict": "supported",
+   "note": "慢性补钾目标范围，需400mEq或更多"
+  },
+  {
+   "value": "400 mEq",
+   "verdict": "supported",
+   "note": "血钾自3.4补至4.4所需总氯化钾量"
+  },
+  {
+   "value": "40至100 mEq/天",
+   "verdict": "supported",
+   "note": "慢性口服补钾日剂量标准范围"
+  },
+  {
+   "value": "10至20 mmol/h",
+   "verdict": "supported",
+   "note": "流传的静脉补钾速度，答案指其无证据"
+  },
+  {
+   "value": "40 mmol/h",
+   "verdict": "supported",
+   "note": "流传的静脉补钾速度上限，答案指无证据"
+  },
+  {
+   "value": "0.3",
+   "verdict": "unverifiable",
+   "note": "体重乘0.3补钾公式，无公认文献依据"
+  },
+  {
+   "value": "低于3.5至不低于5.5 mmol/L",
+   "verdict": "supported",
+   "note": "个体患者数据荟萃分析心衰患者分组"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1100
+}

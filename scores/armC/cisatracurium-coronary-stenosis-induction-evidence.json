@@ -1,0 +1,30 @@
+{
+ "numeric_claims": [
+  {
+   "value": "80例连续患者",
+   "verdict": "supported",
+   "note": "PMID:29228159原文为80例连续患者"
+  },
+  {
+   "value": "13项研究符合标准",
+   "verdict": "supported",
+   "note": "PMID:30165445系统综述纳入13项研究"
+  },
+  {
+   "value": "9项每组50例、共2818例",
+   "verdict": "unverifiable",
+   "note": "当前未核对PMID原文具体亚组例数"
+  },
+  {
+   "value": "4项>300例",
+   "verdict": "unverifiable",
+   "note": "当前未核对PMID原文具体亚组例数"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2707
+}

@@ -1,0 +1,30 @@
+{
+ "numeric_claims": [
+  {
+   "value": "10~50 μg",
+   "verdict": "unverifiable",
+   "note": "答案自申未溯源,无公认依据"
+  },
+  {
+   "value": "500~1000 mL",
+   "verdict": "unverifiable",
+   "note": "答案自申未溯源,无公认依据"
+  },
+  {
+   "value": "MAP≥65 mmHg",
+   "verdict": "unverifiable",
+   "note": "答案自申未溯源,无公认依据"
+  },
+  {
+   "value": "<30天",
+   "verdict": "supported",
+   "note": "符合PMI术后监测窗常规定义"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2809
+}

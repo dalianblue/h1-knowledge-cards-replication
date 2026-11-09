@@ -1,0 +1,27 @@
+{
+ "mcnemar_2v3": {
+  "n": 38,
+  "b": 9,
+  "c": 5,
+  "p_exact_two_sided": 0.424,
+  "note": "integrity\u53e3\u5f84\u81c22vs\u81c23\u4e0d\u663e\u8457\u2014\u2014H1b\u7684\u663e\u8457\u8bc1\u636e\u5728wrong\u8ba1\u6570(Wilcoxon p=0.0056), \u4e24\u53e3\u5f84\u5e76\u5b58\u5982\u5b9e\u62a5\u544a"
+ },
+ "mcnemar_Cv2": {
+  "n": 37,
+  "b": 10,
+  "c": 2,
+  "p_exact_two_sided": 0.0386,
+  "note": "C\u663e\u8457\u4f18\u4e8e\u81c22(\u914d\u5bf9\u786e\u8ba4)"
+ },
+ "abs_diff_wrong": {
+  "diff_pp": -4.343817334513689,
+  "lo": -7.062508735749305,
+  "hi": -2.1067981641783495
+ },
+ "paired_bootstrap_wrongdiff": {
+  "point_pp": 4.2,
+  "lo": 1.4,
+  "hi": 7.7,
+  "note": "\u9898\u76ee\u7ea7\u914d\u5bf9bootstrap 5000\u6b21; \u66ff\u6362Newcombe(\u72ec\u7acbCI\u8bef\u7528\u4e8e\u914d\u5bf9\u8bbe\u8ba1)"
+ }
+}

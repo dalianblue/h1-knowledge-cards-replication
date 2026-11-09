@@ -1,0 +1,45 @@
+{
+ "numeric_claims": [
+  {
+   "value": "11,969例",
+   "verdict": "unverifiable",
+   "note": "原文无数据,依PMID无法核实"
+  },
+  {
+   "value": "1,732例（14%）",
+   "verdict": "unverifiable",
+   "note": "原文无数据,依PMID无法核实"
+  },
+  {
+   "value": "1,249例（10%）",
+   "verdict": "unverifiable",
+   "note": "原文无数据,依PMID无法核实"
+  },
+  {
+   "value": "712例（57%）",
+   "verdict": "unverifiable",
+   "note": "原文无数据,依PMID无法核实"
+  },
+  {
+   "value": "413例（33%）",
+   "verdict": "unverifiable",
+   "note": "原文无数据,依PMID无法核实"
+  },
+  {
+   "value": "93例（7.4%）",
+   "verdict": "unverifiable",
+   "note": "原文无数据,依PMID无法核实"
+  },
+  {
+   "value": "49例（3.9%）",
+   "verdict": "unverifiable",
+   "note": "原文无数据,依PMID无法核实"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 1,
+ "usability": 2,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2393
+}

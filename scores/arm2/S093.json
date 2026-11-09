@@ -1,0 +1,147 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1.0至1.4",
+   "verdict": "supported",
+   "note": "AHA指南正常ABI范围1.00-1.40"
+  },
+  {
+   "value": "0至40%",
+   "verdict": "supported",
+   "note": "生理学脉搏波反射致踝压高于肱压"
+  },
+  {
+   "value": "0.90",
+   "verdict": "supported",
+   "note": "AHA指南PAD诊断阈值<0.90"
+  },
+  {
+   "value": "1.40",
+   "verdict": "supported",
+   "note": "指南非压缩性动脉(僵硬)阈值>1.40"
+  },
+  {
+   "value": "6.0±15.8 mmHg",
+   "verdict": "unverifiable",
+   "note": "特定研究数据,无通用指南依据"
+  },
+  {
+   "value": "64%",
+   "verdict": "unverifiable",
+   "note": "特定研究数据,无通用指南依据"
+  },
+  {
+   "value": "3.6±7.1 mmHg",
+   "verdict": "unverifiable",
+   "note": "特定研究数据,无通用指南依据"
+  },
+  {
+   "value": "84%",
+   "verdict": "unverifiable",
+   "note": "特定研究数据,无通用指南依据"
+  },
+  {
+   "value": "0.1±7.4 mmHg",
+   "verdict": "unverifiable",
+   "note": "特定研究数据,无通用指南依据"
+  },
+  {
+   "value": "86%",
+   "verdict": "unverifiable",
+   "note": "特定研究数据,无通用指南依据"
+  },
+  {
+   "value": "13%（19例）",
+   "verdict": "unverifiable",
+   "note": "特定研究数据,无通用指南依据"
+  },
+  {
+   "value": "42厘米",
+   "verdict": "unverifiable",
+   "note": "特定研究纳入标准,无通用依据"
+  },
+  {
+   "value": "40747名",
+   "verdict": "unverifiable",
+   "note": "特定队列研究样本量"
+  },
+  {
+   "value": "5年",
+   "verdict": "unverifiable",
+   "note": "特定队列研究随访时间"
+  },
+  {
+   "value": "4.23（3.44至5.21）",
+   "verdict": "unverifiable",
+   "note": "特定研究HR值,非公认阈值"
+  },
+  {
+   "value": "3.34（2.75至4.06）",
+   "verdict": "unverifiable",
+   "note": "特定研究HR值,非公认阈值"
+  },
+  {
+   "value": "50.2%",
+   "verdict": "unverifiable",
+   "note": "特定研究糖尿病占比"
+  },
+  {
+   "value": "5厘米",
+   "verdict": "wrong",
+   "note": "答案自认无证据支持,属错误凭据"
+  },
+  {
+   "value": "450 mmHg",
+   "verdict": "unverifiable",
+   "note": "特定体外实验压力上限"
+  },
+  {
+   "value": "32833人",
+   "verdict": "unverifiable",
+   "note": "特定研究样本量"
+  },
+  {
+   "value": "144599次",
+   "verdict": "unverifiable",
+   "note": "特定研究测量次数"
+  },
+  {
+   "value": "43年",
+   "verdict": "unverifiable",
+   "note": "特定研究随访时间"
+  },
+  {
+   "value": "10 mmHg",
+   "verdict": "unverifiable",
+   "note": "特定研究风险增幅计算单位"
+  },
+  {
+   "value": "120 mmHg",
+   "verdict": "supported",
+   "note": "SPRINT试验强化降压目标"
+  },
+  {
+   "value": "25%",
+   "verdict": "unverifiable",
+   "note": "特定RCT复合终点降幅"
+  },
+  {
+   "value": "27%",
+   "verdict": "unverifiable",
+   "note": "特定RCT全因死亡降幅"
+  },
+  {
+   "value": "9361例",
+   "verdict": "unverifiable",
+   "note": "特定RCT样本量"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "将缺乏证据的'袖带下缘距穿刺点不小于5厘米'作为操作要点提出，虽声明无证据，但列入事实清单易误导临床"
+ ],
+ "status": "ok",
+ "answer_chars": 1245
+}

@@ -1,0 +1,67 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.01–0.5 μg/kg/min",
+   "verdict": "supported",
+   "note": "Miller's及指南载明的常规维持剂量范围"
+  },
+  {
+   "value": "0.5–30 μg/min",
+   "verdict": "supported",
+   "note": "70kg体重折算0.01-0.5μg/kg/min的数学正确值"
+  },
+  {
+   "value": "1–2 μg/kg/min",
+   "verdict": "supported",
+   "note": "难治性休克剂量范围,指南有载"
+  },
+  {
+   "value": "4 mg/50 mL（80 μg/mL）",
+   "verdict": "supported",
+   "note": "临床标准微量泵配置浓度"
+  },
+  {
+   "value": "8 mg/50 mL",
+   "verdict": "supported",
+   "note": "临床常用双倍浓度配置"
+  },
+  {
+   "value": "≥65 mmHg",
+   "verdict": "supported",
+   "note": "脓毒症指南MAP目标标准"
+  },
+  {
+   "value": "70–80 mmHg",
+   "verdict": "supported",
+   "note": "老年/高血压患者MAP目标共识"
+  },
+  {
+   "value": "0.02–0.05 μg/kg/min",
+   "verdict": "supported",
+   "note": "临床常用起始剂量范围"
+  },
+  {
+   "value": "1.4–3.5 μg/min",
+   "verdict": "supported",
+   "note": "70kg折算0.02-0.05的数学正确值"
+  },
+  {
+   "value": "1–2.6 mL/h",
+   "verdict": "wrong",
+   "note": "80μg/mL下1.4-3.5μg/min应为1.05-2.6mL/h"
+  },
+  {
+   "value": "0.01–0.02 μg/kg/min",
+   "verdict": "supported",
+   "note": "指南推荐的滴定调整步长"
+  }
+ ],
+ "hallucination_rate": 0.05,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [
+  "起始速率1.4–3.5 μg/min在80 μg/mL浓度下，换算为mL/h应为1.05–2.6 mL/h，答案中写为1–2.6 mL/h，下限换算错误"
+ ],
+ "status": "ok",
+ "answer_chars": 916
+}

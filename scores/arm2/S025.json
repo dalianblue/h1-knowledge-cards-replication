@@ -1,0 +1,20 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.5 mg",
+   "verdict": "unverifiable",
+   "note": "阿托品备用剂量缺乏开放眼球损伤指南依据"
+  },
+  {
+   "value": "16 mm",
+   "verdict": "unverifiable",
+   "note": "儿童球后阻滞针长属背景信息且无标准出处"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 931
+}

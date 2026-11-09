@@ -1,0 +1,82 @@
+{
+ "numeric_claims": [
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "热损伤后24h起禁用琥珀胆碱为教科书共识"
+  },
+  {
+   "value": "1～2年",
+   "verdict": "supported",
+   "note": "高危期持续1-2年为保守外推界限"
+  },
+  {
+   "value": "3年",
+   "verdict": "supported",
+   "note": "伤后3年反应恢复正常符合经典描述"
+  },
+  {
+   "value": "4～8分钟",
+   "verdict": "supported",
+   "note": "血浆胆碱酯酶正常者TOF重现时间"
+  },
+  {
+   "value": "1 mg/kg",
+   "verdict": "supported",
+   "note": "琥珀胆碱成人常规静注剂量"
+  },
+  {
+   "value": "15～20秒",
+   "verdict": "supported",
+   "note": "静注后肌束震颤起效时间"
+  },
+  {
+   "value": "1分钟",
+   "verdict": "supported",
+   "note": "静注后肌松达峰时间"
+  },
+  {
+   "value": "4～5分钟",
+   "verdict": "supported",
+   "note": "静注后呼吸暂停时程"
+  },
+  {
+   "value": "10～12分钟",
+   "verdict": "supported",
+   "note": "静注后肌张力完全恢复时间"
+  },
+  {
+   "value": "4～8小时",
+   "verdict": "supported",
+   "note": "假性胆碱酯酶缺乏儿童恢复时间"
+  },
+  {
+   "value": "2～3 mg/kg",
+   "verdict": "wrong",
+   "note": "婴儿静注剂量应为1-2mg/kg"
+  },
+  {
+   "value": "2 mg/kg",
+   "verdict": "supported",
+   "note": "儿童静注剂量标准"
+  },
+  {
+   "value": "4 mg/kg",
+   "verdict": "supported",
+   "note": "儿童肌注剂量标准"
+  },
+  {
+   "value": "0.5～1.5 mg/kg",
+   "verdict": "supported",
+   "note": "I相阻滞识别的琥珀胆碱剂量范围"
+  }
+ ],
+ "hallucination_rate": 0.07,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "婴儿静脉琥珀胆碱插管剂量错误记为2～3 mg/kg，Miller's Anesthesia等权威教科书标准为1～2 mg/kg"
+ ],
+ "status": "ok",
+ "answer_chars": 1279
+}

@@ -1,0 +1,35 @@
+{
+ "numeric_claims": [
+  {
+   "value": "506例",
+   "verdict": "unverifiable",
+   "note": "特定研究样本量,缺乏通用指南依据"
+  },
+  {
+   "value": "51例",
+   "verdict": "unverifiable",
+   "note": "特定研究亚组样本量,无通用依据"
+  },
+  {
+   "value": "115例",
+   "verdict": "unverifiable",
+   "note": "特定研究亚组样本量,无通用依据"
+  },
+  {
+   "value": "340例",
+   "verdict": "unverifiable",
+   "note": "特定研究亚组样本量,无通用依据"
+  },
+  {
+   "value": "超过65%",
+   "verdict": "unverifiable",
+   "note": "特定统计结果,非公认医学阈值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1064
+}

@@ -1,0 +1,125 @@
+{
+ "numeric_claims": [
+  {
+   "value": "20至30分钟",
+   "verdict": "supported",
+   "note": "符合内分泌高血压检验采血前静卧标准"
+  },
+  {
+   "value": "1分钟以内",
+   "verdict": "supported",
+   "note": "采血止血带使用时间标准要求"
+  },
+  {
+   "value": "2至3毫升",
+   "verdict": "supported",
+   "note": "弃去死腔血量防血液稀释标准"
+  },
+  {
+   "value": "0.1至0.5纳克/毫升",
+   "verdict": "supported",
+   "note": "卧位血浆NE参考区间符合教科书"
+  },
+  {
+   "value": "0.6至3.0纳摩尔/升",
+   "verdict": "supported",
+   "note": "单位换算正确且符合参考范围"
+  },
+  {
+   "value": "2至3倍",
+   "verdict": "supported",
+   "note": "立位血浆NE较卧位升高倍数正确"
+  },
+  {
+   "value": "4毫克/50毫升",
+   "verdict": "supported",
+   "note": "临床常用NE标准配置浓度"
+  },
+  {
+   "value": "80微克/毫升",
+   "verdict": "supported",
+   "note": "4mg/50ml换算正确且为常规浓度"
+  },
+  {
+   "value": "8至16毫克/50毫升",
+   "verdict": "supported",
+   "note": "临床存在的高浓度配置方案"
+  },
+  {
+   "value": "160至320微克/毫升",
+   "verdict": "supported",
+   "note": "8-16mg/50ml换算正确"
+  },
+  {
+   "value": "0.05至0.1微克/公斤/分钟",
+   "verdict": "supported",
+   "note": "NE起始输注速度符合指南"
+  },
+  {
+   "value": "4至8微克/分钟",
+   "verdict": "supported",
+   "note": "按60kg成人换算起始速度正确"
+  },
+  {
+   "value": "5至15分钟",
+   "verdict": "supported",
+   "note": "血管活性药滴定调整间隔合理"
+  },
+  {
+   "value": "0.1至1.0微克/公斤/分钟",
+   "verdict": "supported",
+   "note": "NE常用维持剂量范围符合指南"
+  },
+  {
+   "value": "1至2微克/公斤/分钟",
+   "verdict": "supported",
+   "note": "需联合用药或评估容量的阈值"
+  },
+  {
+   "value": "45毫升/小时",
+   "verdict": "supported",
+   "note": "1ug/kg/min按80ug/ml及60kg换算正确"
+  },
+  {
+   "value": "4.5毫升/小时",
+   "verdict": "supported",
+   "note": "0.1ug/kg/min换算正确"
+  },
+  {
+   "value": "20G",
+   "verdict": "supported",
+   "note": "外周静脉输注NE推荐留置针口径"
+  },
+  {
+   "value": "2至4小时",
+   "verdict": "supported",
+   "note": "外周改中心静脉的时限参考合理"
+  },
+  {
+   "value": "0.3微克/公斤/分钟",
+   "verdict": "supported",
+   "note": "外周改中心静脉的速度阈值合理"
+  },
+  {
+   "value": "5至10毫克",
+   "verdict": "supported",
+   "note": "酚妥拉明拮抗外渗的推荐剂量"
+  },
+  {
+   "value": "10毫升",
+   "verdict": "supported",
+   "note": "酚妥拉明浸润注射稀释容积"
+  },
+  {
+   "value": "12小时内有效",
+   "verdict": "supported",
+   "note": "酚妥拉明浸润注射的有效时间窗"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1028
+}

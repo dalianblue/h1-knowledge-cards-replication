@@ -1,0 +1,125 @@
+{
+ "numeric_claims": [
+  {
+   "value": "30%",
+   "verdict": "supported",
+   "note": "高危患者PONV发生率约30-80%，多模式预防后残余率亦约30%"
+  },
+  {
+   "value": "27.7%",
+   "verdict": "supported",
+   "note": "符合全球PONV合并患病率流行病学数据"
+  },
+  {
+   "value": "31.4%",
+   "verdict": "supported",
+   "note": "符合单纯恶心发生率流行病学数据"
+  },
+  {
+   "value": "23项研究、22,683名受试者、11个国家",
+   "verdict": "unverifiable",
+   "note": "具体文献检索特征无法在标准教科书中核实"
+  },
+  {
+   "value": "80%",
+   "verdict": "supported",
+   "note": "未预防高危患者PONV发生率最高可达80%"
+  },
+  {
+   "value": "585项随机对照试验、97,516例受试者、44种单药与51种联合方案",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析纳入数据，无法核实"
+  },
+  {
+   "value": "降低至少20%",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析效应量表述，无公认标准依据"
+  },
+  {
+   "value": "33项随机对照试验、4,238例产妇",
+   "verdict": "unverifiable",
+   "note": "特定剖宫产Meta分析纳入数据，无法核实"
+  },
+  {
+   "value": "41%（38/92）",
+   "verdict": "unverifiable",
+   "note": "特定小样本RCT数据，无法核实"
+  },
+  {
+   "value": "23%（25/108）",
+   "verdict": "unverifiable",
+   "note": "特定小样本RCT数据，无法核实"
+  },
+  {
+   "value": "14项随机对照试验、1,417例",
+   "verdict": "unverifiable",
+   "note": "特定生姜Meta分析纳入数据，无法核实"
+  },
+  {
+   "value": "0.2克",
+   "verdict": "unverifiable",
+   "note": "维生素B6特定剂量，无指南推荐依据"
+  },
+  {
+   "value": "41项随机对照试验",
+   "verdict": "unverifiable",
+   "note": "特定液体治疗Meta分析纳入数据，无法核实"
+  },
+  {
+   "value": "RR 0.62，95%CI 0.51–0.75",
+   "verdict": "unverifiable",
+   "note": "特定液体治疗Meta分析效应量，无法核实"
+  },
+  {
+   "value": "RR 0.50，95%CI 0.40–0.63",
+   "verdict": "unverifiable",
+   "note": "特定液体治疗Meta分析效应量，无法核实"
+  },
+  {
+   "value": "I²最高达57%",
+   "verdict": "unverifiable",
+   "note": "特定Meta分析异质性数值，无法核实"
+  },
+  {
+   "value": "27%",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析偏倚风险比例，无法核实"
+  },
+  {
+   "value": "83%",
+   "verdict": "unverifiable",
+   "note": "特定网状Meta分析女性比例，无法核实"
+  },
+  {
+   "value": "23,333例",
+   "verdict": "unverifiable",
+   "note": "特定回顾性队列样本量，无法核实"
+  },
+  {
+   "value": "45%（10,407例）",
+   "verdict": "unverifiable",
+   "note": "特定回顾性队列比例，无法核实"
+  },
+  {
+   "value": "OR 0.76，95%CI 0.63–0.92",
+   "verdict": "unverifiable",
+   "note": "特定回顾性队列效应量，无法核实"
+  },
+  {
+   "value": "OR 0.82，95%CI 0.70–0.96",
+   "verdict": "unverifiable",
+   "note": "特定回顾性队列效应量，无法核实"
+  },
+  {
+   "value": "11%（2,522例）",
+   "verdict": "unverifiable",
+   "note": "特定回顾性队列发生率，无法核实"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1441
+}

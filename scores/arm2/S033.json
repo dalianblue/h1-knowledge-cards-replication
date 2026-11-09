@@ -1,0 +1,115 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.5%",
+   "verdict": "unverifiable",
+   "note": "教科书无此精确发生率，多报告0.3%-2%不等"
+  },
+  {
+   "value": "160 mmHg",
+   "verdict": "supported",
+   "note": "符合神经外科术后血压管理常见阈值"
+  },
+  {
+   "value": "110 mmHg",
+   "verdict": "supported",
+   "note": "符合MAP控制上限以减少出血风险"
+  },
+  {
+   "value": "0.65%",
+   "verdict": "supported",
+   "note": "源自B-Aware试验无BIS组知晓率"
+  },
+  {
+   "value": "0.14%",
+   "verdict": "supported",
+   "note": "源自B-Aware试验BIS组知晓率"
+  },
+  {
+   "value": "40",
+   "verdict": "supported",
+   "note": "BIS深麻醉界值，源自B-Unaware等研究"
+  },
+  {
+   "value": "5分钟",
+   "verdict": "supported",
+   "note": "累积深麻醉时间阈值，源自B-Unaware研究"
+  },
+  {
+   "value": "1.41",
+   "verdict": "supported",
+   "note": "B-Unaware试验事后分析深麻醉死亡风险比"
+  },
+  {
+   "value": "1.02",
+   "verdict": "supported",
+   "note": "95%CI下限，源自B-Unaware事后分析"
+  },
+  {
+   "value": "1.95",
+   "verdict": "supported",
+   "note": "95%CI上限，源自B-Unaware事后分析"
+  },
+  {
+   "value": "0.039",
+   "verdict": "supported",
+   "note": "P值，源自B-Unaware事后分析"
+  },
+  {
+   "value": "0.86",
+   "verdict": "supported",
+   "note": "BIS组长期死亡风险比，源自B-Unaware"
+  },
+  {
+   "value": "0.72",
+   "verdict": "supported",
+   "note": "95%CI下限，源自B-Unaware试验"
+  },
+  {
+   "value": "1.01",
+   "verdict": "supported",
+   "note": "95%CI上限，源自B-Unaware试验"
+  },
+  {
+   "value": "0.07",
+   "verdict": "supported",
+   "note": "P值，源自B-Unaware试验"
+  },
+  {
+   "value": "0至100",
+   "verdict": "supported",
+   "note": "BIS算法固有数值范围"
+  },
+  {
+   "value": "40至60",
+   "verdict": "supported",
+   "note": "通用适宜麻醉深度范围，非神经外科专属"
+  },
+  {
+   "value": "280例",
+   "verdict": "unverifiable",
+   "note": "无法溯源至特定7中心熵指数RCT文献"
+  },
+  {
+   "value": "7个中心",
+   "verdict": "unverifiable",
+   "note": "无法溯源至特定280例熵指数RCT文献"
+  },
+  {
+   "value": "18至60岁",
+   "verdict": "unverifiable",
+   "note": "无法溯源至特定熵指数RCT的年龄限制"
+  },
+  {
+   "value": "70至80",
+   "verdict": "unverifiable",
+   "note": "清醒开颅唤醒期BIS目标缺乏高质量证据"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1305
+}

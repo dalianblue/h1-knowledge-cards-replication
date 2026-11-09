@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "呼吸频率10至20次/分",
+   "verdict": "supported",
+   "note": "符合PACU出室呼吸恢复常规标准"
+  },
+  {
+   "value": "吸空气SpO2不低于92%",
+   "verdict": "supported",
+   "note": "符合Aldrete评分及常规脱氧标准"
+  },
+  {
+   "value": "血压与心率波动控制在术前基础值正负20%以内",
+   "verdict": "supported",
+   "note": "符合PACU循环稳定常规标准"
+  },
+  {
+   "value": "核心体温36℃以上",
+   "verdict": "supported",
+   "note": "符合轻度低体温界定及PACU出室标准"
+  },
+  {
+   "value": "35.5℃作为阈值",
+   "verdict": "supported",
+   "note": "部分指南允许35.5℃作为出室下限"
+  },
+  {
+   "value": "改良Aldrete评分每项0至2分",
+   "verdict": "supported",
+   "note": "符合Aldrete评分系统设定"
+  },
+  {
+   "value": "改良Aldrete总分不低于9分",
+   "verdict": "supported",
+   "note": "标准Aldrete出室满分10分,≥9分出室"
+  },
+  {
+   "value": "Steward评分每项0至2分",
+   "verdict": "supported",
+   "note": "符合Steward评分系统设定"
+  },
+  {
+   "value": "Steward评分达到4分及以上可离室",
+   "verdict": "supported",
+   "note": "符合Steward评分出室标准(满分6分)"
+  },
+  {
+   "value": "疼痛数字评分不高于3至4分",
+   "verdict": "supported",
+   "note": "符合NRS轻度疼痛及可接受标准"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 637
+}

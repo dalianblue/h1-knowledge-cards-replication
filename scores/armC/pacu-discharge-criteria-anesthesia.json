@@ -1,0 +1,90 @@
+{
+ "numeric_claims": [
+  {
+   "value": "696例",
+   "verdict": "supported",
+   "note": "PMID:36108163研究样本量相符"
+  },
+  {
+   "value": "±20%",
+   "verdict": "supported",
+   "note": "Miller's及现代麻醉学血压心率波动标准"
+  },
+  {
+   "value": "30分钟以上",
+   "verdict": "supported",
+   "note": "指南共识要求的循环稳定观察时间"
+  },
+  {
+   "value": "≥9分",
+   "verdict": "supported",
+   "note": "Aldrete评分出室标准阈值"
+  },
+  {
+   "value": ">4分",
+   "verdict": "supported",
+   "note": "Steward评分出室标准阈值"
+  },
+  {
+   "value": "≥95%",
+   "verdict": "supported",
+   "note": "教科书吸空气SpO2出室标准"
+  },
+  {
+   "value": "≥92%",
+   "verdict": "supported",
+   "note": "Aldrete评分表SpO2获2分阈值"
+  },
+  {
+   "value": ">9分",
+   "verdict": "supported",
+   "note": "PADS日间手术离院评分阈值"
+  },
+  {
+   "value": "<35℃",
+   "verdict": "supported",
+   "note": "低体温判定标准阈值"
+  },
+  {
+   "value": ">65 mmHg",
+   "verdict": "supported",
+   "note": "拔管前吸空气PaO2标准"
+  },
+  {
+   "value": ">300 ml",
+   "verdict": "supported",
+   "note": "拔管前潮气量标准"
+  },
+  {
+   "value": "<30次/min",
+   "verdict": "supported",
+   "note": "T形管试验呼吸频率上限"
+  },
+  {
+   "value": "10分钟",
+   "verdict": "supported",
+   "note": "T形管试验观察时间"
+  },
+  {
+   "value": "12–30次/min",
+   "verdict": "supported",
+   "note": "呼吸频率正常范围标准"
+  },
+  {
+   "value": "10秒以上",
+   "verdict": "supported",
+   "note": "无支撑抬头(头举试验)时间标准"
+  },
+  {
+   "value": "30分钟以上",
+   "verdict": "supported",
+   "note": "镇痛镇静药后观察时间"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2661
+}

@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "20%–70%",
+   "verdict": "unverifiable",
+   "note": "答案明确指出该数值无对应条目可溯源"
+  },
+  {
+   "value": "≤0.5 mL/s",
+   "verdict": "unverifiable",
+   "note": "答案明确指出该数值无对应条目可溯源"
+  },
+  {
+   "value": "0.5–1 mg/kg",
+   "verdict": "unverifiable",
+   "note": "答案明确指出该数值无对应条目可溯源"
+  },
+  {
+   "value": "4 mg",
+   "verdict": "unverifiable",
+   "note": "答案明确指出该数值无对应条目可溯源"
+  },
+  {
+   "value": "8 mg",
+   "verdict": "supported",
+   "note": "符合阿片类瘙痒研究中昂丹司琼预防剂量文献"
+  },
+  {
+   "value": "15 mg",
+   "verdict": "supported",
+   "note": "符合喷他佐辛拮抗阿片瘙痒的常用剂量"
+  },
+  {
+   "value": "<2 μg/(kg·h)",
+   "verdict": "supported",
+   "note": "符合Miller等教材低剂量纳洛酮输注防瘙痒剂量"
+  },
+  {
+   "value": "0.1 mg/kg",
+   "verdict": "supported",
+   "note": "符合教材所列昂丹司琼处理阿片瘙痒剂量"
+  },
+  {
+   "value": "60%~100%",
+   "verdict": "supported",
+   "note": "符合鞘内阿片类致产妇瘙痒发生率的文献数据"
+  },
+  {
+   "value": "30%~60%",
+   "verdict": "supported",
+   "note": "符合鞘内阿片类致骨科患者瘙痒发生率数据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1025
+}

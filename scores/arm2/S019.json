@@ -1,0 +1,100 @@
+{
+ "numeric_claims": [
+  {
+   "value": "7至10天",
+   "verdict": "supported",
+   "note": "血小板寿命7-10天为公认生理学事实"
+  },
+  {
+   "value": "约10%",
+   "verdict": "supported",
+   "note": "每日约10%血小板更新率符合生理学"
+  },
+  {
+   "value": "4至5天",
+   "verdict": "supported",
+   "note": "阿司匹林停药4-5天符合指南推荐"
+  },
+  {
+   "value": "5天",
+   "verdict": "supported",
+   "note": "氯吡格雷停药5天符合主流指南"
+  },
+  {
+   "value": "3至5天",
+   "verdict": "supported",
+   "note": "替格瑞洛停药3-5天符合指南推荐"
+  },
+  {
+   "value": "7天",
+   "verdict": "supported",
+   "note": "普拉格雷停药7天符合指南推荐"
+  },
+  {
+   "value": "50%以上",
+   "verdict": "supported",
+   "note": "停药5天新生血小板>50%符合更新率推算"
+  },
+  {
+   "value": "7.0%与7.1%",
+   "verdict": "unverifiable",
+   "note": "POISE试验一级预防亚组数据无法精确匹配"
+  },
+  {
+   "value": "14天",
+   "verdict": "supported",
+   "note": "球囊扩张后14天符合指南推荐"
+  },
+  {
+   "value": "30天",
+   "verdict": "supported",
+   "note": "裸支架后30天符合指南推荐"
+  },
+  {
+   "value": "6个月",
+   "verdict": "supported",
+   "note": "药物支架后6个月符合传统指南"
+  },
+  {
+   "value": "3个月",
+   "verdict": "supported",
+   "note": "新型DES双抗3个月符合最新指南共识"
+  },
+  {
+   "value": "12.8%与16.9%",
+   "verdict": "unverifiable",
+   "note": "CAPRIE或CURE长期随访具体终点率无法精确匹配"
+  },
+  {
+   "value": "0.74",
+   "verdict": "unverifiable",
+   "note": "风险比0.74无法精确匹配具体文献"
+  },
+  {
+   "value": "0.63至0.86",
+   "verdict": "unverifiable",
+   "note": "95%CI数据无法精确匹配具体文献"
+  },
+  {
+   "value": "12至24小时",
+   "verdict": "supported",
+   "note": "氯吡格雷服药后12-24h输血小板符合药代动力学"
+  },
+  {
+   "value": "4至5天",
+   "verdict": "supported",
+   "note": "停药4-5天后输注意义下降符合药理推演"
+  },
+  {
+   "value": "5至7天",
+   "verdict": "supported",
+   "note": "氯吡格雷停药5-7天为部分指南口径"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1471
+}

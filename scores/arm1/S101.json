@@ -1,0 +1,101 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3.5 mmol/L",
+   "verdict": "supported",
+   "note": "正常血钾下限及择期手术阈值"
+  },
+  {
+   "value": "3.0至3.4 mmol/L",
+   "verdict": "supported",
+   "note": "轻度低钾范围及处理策略"
+  },
+  {
+   "value": "2.5至2.9 mmol/L",
+   "verdict": "supported",
+   "note": "中度低钾范围及择期手术暂停"
+  },
+  {
+   "value": "低于2.5 mmol/L",
+   "verdict": "supported",
+   "note": "重度低钾择期停做急诊高危"
+  },
+  {
+   "value": "4.0 mmol/L",
+   "verdict": "supported",
+   "note": "心脏病/洋地黄者择期手术阈值"
+  },
+  {
+   "value": "200至400 mmol",
+   "verdict": "supported",
+   "note": "血钾降1mmol/L总体钾缺失量"
+  },
+  {
+   "value": "0.3",
+   "verdict": "supported",
+   "note": "补钾经验公式系数(细胞外液占比)"
+  },
+  {
+   "value": "10 mmol/h",
+   "verdict": "supported",
+   "note": "外周静脉补钾常规速度上限"
+  },
+  {
+   "value": "7.5 mL/h",
+   "verdict": "wrong",
+   "note": "10%KCl 10mmol应为7.45mL/h"
+  },
+  {
+   "value": "10至20 mmol/h",
+   "verdict": "supported",
+   "note": "严重低钾伴心律失常时补钾速度"
+  },
+  {
+   "value": "40 mmol/L",
+   "verdict": "supported",
+   "note": "外周静脉补钾浓度上限"
+  },
+  {
+   "value": "30 mL/1000 mL",
+   "verdict": "wrong",
+   "note": "40mmol/L需10%KCl30mL,非30mL/1000mL"
+  },
+  {
+   "value": "1 mmol",
+   "verdict": "wrong",
+   "note": "10%KCl 1mL含钾1.34mmol"
+  },
+  {
+   "value": "2 mmol",
+   "verdict": "wrong",
+   "note": "15%KCl 1mL含钾2.01mmol"
+  },
+  {
+   "value": "10 mL/h",
+   "verdict": "wrong",
+   "note": "10mmol/h需10%KCl约7.5mL/h"
+  },
+  {
+   "value": "30 mL/h",
+   "verdict": "supported",
+   "note": "见尿补钾尿量标准"
+  },
+  {
+   "value": "1至2小时",
+   "verdict": "supported",
+   "note": "复查血钾间隔时间"
+  }
+ ],
+ "hallucination_rate": 0.25,
+ "traceability": 2,
+ "usability": 2,
+ "errors_found": [
+  "10%氯化钾1 mL相当于1 mmol钾离子错误，实为1.34 mmol",
+  "15%氯化钾1 mL相当于2 mmol钾离子错误，实为2.01 mmol",
+  "外周浓度40 mmol/L对应10%氯化钾30 mL/1000 mL表述错误，30 mL 10%氯化钾含钾40.2 mmol，需约994 mL液体",
+  "补10 mmol/h即10%氯化钾10 mL/h错误，10 mL 10%氯化钾含钾13.4 mmol",
+  "10 mmol/h相当于10%氯化钾约7.5 mL/h错误，精确应为7.45 mL/h"
+ ],
+ "status": "ok",
+ "answer_chars": 915
+}

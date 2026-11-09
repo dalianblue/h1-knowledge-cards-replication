@@ -1,0 +1,147 @@
+{
+ "numeric_claims": [
+  {
+   "value": "75%",
+   "verdict": "unverifiable",
+   "note": "原文已指出为心胸外科数据,TKA真实比例无公认值"
+  },
+  {
+   "value": "27项随机对照试验、2317例患者",
+   "verdict": "supported",
+   "note": "符合特定网络Meta分析文献的原始数据"
+  },
+  {
+   "value": "25项随机对照试验、1688例患者",
+   "verdict": "supported",
+   "note": "符合特定Cochrane系统评价的原始数据"
+  },
+  {
+   "value": "18项为全膝关节置换",
+   "verdict": "supported",
+   "note": "符合该Cochrane评价中TKA亚组数据"
+  },
+  {
+   "value": "90例",
+   "verdict": "supported",
+   "note": "符合近远端阻滞对比RCT的样本量"
+  },
+  {
+   "value": "30mg",
+   "verdict": "supported",
+   "note": "符合该RCT远端组24h口服吗啡当量"
+  },
+  {
+   "value": "15mg",
+   "verdict": "supported",
+   "note": "符合该RCT近端组24h口服吗啡当量"
+  },
+  {
+   "value": "P<0.001",
+   "verdict": "supported",
+   "note": "符合该RCT24h吗啡当量差异统计学结果"
+  },
+  {
+   "value": "33mg",
+   "verdict": "supported",
+   "note": "符合该RCT远端组48h累积吗啡当量"
+  },
+  {
+   "value": "30mg",
+   "verdict": "supported",
+   "note": "符合该RCT近端组48h累积吗啡当量"
+  },
+  {
+   "value": "P=0.29",
+   "verdict": "supported",
+   "note": "符合该RCT48h吗啡当量差异统计学结果"
+  },
+  {
+   "value": "59例",
+   "verdict": "supported",
+   "note": "符合膝神经阻滞非劣效RCT样本量"
+  },
+  {
+   "value": "-1.0",
+   "verdict": "supported",
+   "note": "符合该RCT静息痛NRS中位差值"
+  },
+  {
+   "value": "95%置信区间为-2.0至1.0",
+   "verdict": "supported",
+   "note": "符合该RCT效应量置信区间"
+  },
+  {
+   "value": "Δ=1",
+   "verdict": "unverifiable",
+   "note": "非劣效界值选择属作者设定,无公认标准"
+  },
+  {
+   "value": "150ml",
+   "verdict": "supported",
+   "note": "符合该RCT局部浸润镇痛局麻药容量"
+  },
+  {
+   "value": "20ml的0.2%罗哌卡因",
+   "verdict": "supported",
+   "note": "符合该RCT膝神经阻滞局麻药方案"
+  },
+  {
+   "value": "57项随机试验、4069例",
+   "verdict": "supported",
+   "note": "符合特定网络Meta分析的纳入数据"
+  },
+  {
+   "value": "78%",
+   "verdict": "supported",
+   "note": "符合该NMA股神经联合坐骨神经阻滞降阿片概率"
+  },
+  {
+   "value": "90%",
+   "verdict": "supported",
+   "note": "符合该NMA降低24h疼痛AUC概率"
+  },
+  {
+   "value": "87%",
+   "verdict": "supported",
+   "note": "符合该NMA连续股神经阻滞降不良反应概率"
+  },
+  {
+   "value": "188项研究、13769例患者、19种方案",
+   "verdict": "supported",
+   "note": "符合特定超前镇痛网络Meta分析数据"
+  },
+  {
+   "value": "10/19",
+   "verdict": "supported",
+   "note": "符合该NMA降低疼痛强度的方案比例"
+  },
+  {
+   "value": "8/19",
+   "verdict": "supported",
+   "note": "符合该NMA减少阿片消耗的方案比例"
+  },
+  {
+   "value": "5种方案",
+   "verdict": "supported",
+   "note": "符合该NMA延迟补救镇痛的方案数"
+  },
+  {
+   "value": "1.75至7.35小时",
+   "verdict": "supported",
+   "note": "符合该NMA延迟补救镇痛的时间范围"
+  },
+  {
+   "value": "8至10mg",
+   "verdict": "wrong",
+   "note": "原文自认属肩关节证据,用于TKA讨论属错位"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "将静脉地塞米松8至10mg的肩关节置换证据混入全膝关节置换术后镇痛讨论中，存在人群与手术类型错配"
+ ],
+ "status": "ok",
+ "answer_chars": 1617
+}

@@ -1,0 +1,90 @@
+{
+ "numeric_claims": [
+  {
+   "value": "80%",
+   "verdict": "supported",
+   "note": "高危患者PONV发生率可达80%"
+  },
+  {
+   "value": "30%",
+   "verdict": "supported",
+   "note": "预防后仍有约30%发生PONV"
+  },
+  {
+   "value": "33项",
+   "verdict": "unverifiable",
+   "note": "网状荟萃分析RCT数无法核实"
+  },
+  {
+   "value": "4238例",
+   "verdict": "unverifiable",
+   "note": "网状荟萃分析产妇数无法核实"
+  },
+  {
+   "value": "200例",
+   "verdict": "unverifiable",
+   "note": "P6穴位按压RCT样本量无法核实"
+  },
+  {
+   "value": "0.2克",
+   "verdict": "unverifiable",
+   "note": "吡哆醇剂量无法核实"
+  },
+  {
+   "value": "14项",
+   "verdict": "unverifiable",
+   "note": "姜制剂荟萃分析RCT数无法核实"
+  },
+  {
+   "value": "1417例",
+   "verdict": "unverifiable",
+   "note": "姜制剂荟萃分析样本量无法核实"
+  },
+  {
+   "value": "-0.71",
+   "verdict": "unverifiable",
+   "note": "姜制剂恶心严重度均数差无法核实"
+  },
+  {
+   "value": "-1.37至-0.06",
+   "verdict": "unverifiable",
+   "note": "均数差95%CI无法核实"
+  },
+  {
+   "value": "0.03",
+   "verdict": "unverifiable",
+   "note": "均数差p值无法核实"
+  },
+  {
+   "value": "0.71",
+   "verdict": "unverifiable",
+   "note": "补救药相对危险度无法核实"
+  },
+  {
+   "value": "0.62至0.82",
+   "verdict": "unverifiable",
+   "note": "相对危险度95%CI无法核实"
+  },
+  {
+   "value": "<0.001",
+   "verdict": "unverifiable",
+   "note": "相对危险度p值无法核实"
+  },
+  {
+   "value": "23333例",
+   "verdict": "unverifiable",
+   "note": "回顾性队列样本量无法核实"
+  },
+  {
+   "value": "2017至2022年",
+   "verdict": "unverifiable",
+   "note": "回顾性队列年份无法核实"
+  }
+ ],
+ "hallucination_rate": 0.35,
+ "traceability": 1,
+ "usability": 3,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1139
+}

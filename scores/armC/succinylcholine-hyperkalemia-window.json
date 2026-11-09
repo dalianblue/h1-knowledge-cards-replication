@@ -1,0 +1,65 @@
+{
+ "numeric_claims": [
+  {
+   "value": "24 小时起",
+   "verdict": "supported",
+   "note": "Miller's指明烧伤>24h后高钾风险显著增加"
+  },
+  {
+   "value": "1～2 年",
+   "verdict": "supported",
+   "note": "Miller's建议烧伤后高钾危险期至少持续1-2年"
+  },
+  {
+   "value": "0.5～1.0 mEq/L",
+   "verdict": "supported",
+   "note": "正常人群琥珀胆碱致血钾升高约0.5-1.0"
+  },
+  {
+   "value": "5 mEq/L",
+   "verdict": "supported",
+   "note": "烧伤/去神经患者可升高达5-7 mEq/L"
+  },
+  {
+   "value": "3 年",
+   "verdict": "supported",
+   "note": "文献确有伤后3年反应正常的个案报道"
+  },
+  {
+   "value": "0.5～1.5 mg/kg",
+   "verdict": "supported",
+   "note": "琥珀胆碱插管标准剂量1mg/kg,0.5-1.5合理"
+  },
+  {
+   "value": "4～8 分钟内",
+   "verdict": "supported",
+   "note": "正常酶活性者TOF反应4-8分钟重现"
+  },
+  {
+   "value": "105 项试验",
+   "verdict": "unverifiable",
+   "note": "PMID未公开,无法核实纳入试验数"
+  },
+  {
+   "value": "8008 例",
+   "verdict": "unverifiable",
+   "note": "PMID未公开,无法核实患儿例数"
+  },
+  {
+   "value": "0～12 岁",
+   "verdict": "unverifiable",
+   "note": "PMID未公开,无法核实年龄范围"
+  },
+  {
+   "value": "<1 分钟",
+   "verdict": "supported",
+   "note": "琥珀胆碱起效时间约30-60秒"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2416
+}

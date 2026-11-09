@@ -1,0 +1,93 @@
+{
+ "numeric_claims": [
+  {
+   "value": "100%",
+   "verdict": "supported",
+   "note": "磺达肝素皮下注射生物利用度约100%"
+  },
+  {
+   "value": "17至21小时",
+   "verdict": "supported",
+   "note": "肾功能正常者半衰期约17-21h"
+  },
+  {
+   "value": "每日1次2.5 mg",
+   "verdict": "supported",
+   "note": "预防剂量为2.5mg qd"
+  },
+  {
+   "value": "36小时",
+   "verdict": "supported",
+   "note": "ASRA指南预防剂量间隔至少36h"
+  },
+  {
+   "value": "4个半衰期",
+   "verdict": "supported",
+   "note": "36h约等于4个半衰期"
+  },
+  {
+   "value": "72小时",
+   "verdict": "supported",
+   "note": "部分指南保守延长至72h"
+  },
+  {
+   "value": "每日1次5 mg及以上",
+   "verdict": "supported",
+   "note": "治疗剂量≥5mg qd"
+  },
+  {
+   "value": "体重低于50 kg者用5 mg",
+   "verdict": "wrong",
+   "note": "低体重预防量减至1.5mg而非5mg"
+  },
+  {
+   "value": "体重超过100 kg者用10 mg",
+   "verdict": "wrong",
+   "note": "高体重治疗量7.5mg而非10mg"
+  },
+  {
+   "value": "72小时",
+   "verdict": "supported",
+   "note": "治疗剂量等待至少72h"
+  },
+  {
+   "value": "4小时",
+   "verdict": "supported",
+   "note": "拔管后下次给药间隔至少4h"
+  },
+  {
+   "value": "30 mL/min",
+   "verdict": "supported",
+   "note": "CrCl<30mL/min蓄积明显"
+  },
+  {
+   "value": "30至50小时",
+   "verdict": "supported",
+   "note": "肾衰半衰期延长至30-50h"
+  },
+  {
+   "value": "72至96小时",
+   "verdict": "unverifiable",
+   "note": "严重肾损间隔无公认标准数值"
+  },
+  {
+   "value": "0.1至0.2 IU/mL",
+   "verdict": "unverifiable",
+   "note": "抗Xa安全阈值缺乏指南定论"
+  },
+  {
+   "value": "24小时",
+   "verdict": "supported",
+   "note": "拔管后24h内密切监测血肿"
+  }
+ ],
+ "hallucination_rate": 0.13,
+ "traceability": 3,
+ "usability": 3,
+ "errors_found": [
+  "体重低于50 kg者用5 mg：磺达肝素低体重（<50kg）预防剂量应为1.5 mg，5 mg为治疗剂量",
+  "体重超过100 kg者用10 mg：磺达肝素高体重（>100kg）治疗剂量应为7.5 mg，无10 mg标准剂量"
+ ],
+ "status": "ok",
+ "answer_chars": 747
+}

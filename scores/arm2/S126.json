@@ -1,0 +1,65 @@
+{
+ "numeric_claims": [
+  {
+   "value": "0.55",
+   "verdict": "supported",
+   "note": "CVP预测液体反应性AUROC约0.5-0.6，0.55符合文献"
+  },
+  {
+   "value": "10毫米汞柱",
+   "verdict": "supported",
+   "note": "高危肺栓塞右心淤血CVP>10mmHg为避免补液标志"
+  },
+  {
+   "value": "47%",
+   "verdict": "unverifiable",
+   "note": "心包填塞液体反应者47%未查到确切来源"
+  },
+  {
+   "value": "31%",
+   "verdict": "unverifiable",
+   "note": "心包填塞补液后CI下降31%未查到确切来源"
+  },
+  {
+   "value": "0.60",
+   "verdict": "supported",
+   "note": "脓毒症24h测CVP与28天死亡率OR约0.6符合回顾性数据"
+  },
+  {
+   "value": "0.51至0.70",
+   "verdict": "unverifiable",
+   "note": "95%CI具体区间无法追溯至特定10275例研究"
+  },
+  {
+   "value": "10275例",
+   "verdict": "unverifiable",
+   "note": "样本量10275无法追溯至特定已发表研究"
+  },
+  {
+   "value": "1项研究",
+   "verdict": "unverifiable",
+   "note": "肺栓塞领域仅1项研究无法核实具体文献量"
+  },
+  {
+   "value": "13例休克患者",
+   "verdict": "unverifiable",
+   "note": "肺栓塞休克13例样本量无法核实"
+  },
+  {
+   "value": "4项研究",
+   "verdict": "unverifiable",
+   "note": "心包填塞支持证据4项研究无法核实"
+  },
+  {
+   "value": "3项人体研究共88例",
+   "verdict": "unverifiable",
+   "note": "3项人体研究88例无法核实"
+  }
+ ],
+ "hallucination_rate": 0.35,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1130
+}

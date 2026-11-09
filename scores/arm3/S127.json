@@ -1,0 +1,60 @@
+{
+ "numeric_claims": [
+  {
+   "value": "37摄氏度",
+   "verdict": "supported",
+   "note": "符合积极保温组目标温度设定"
+  },
+  {
+   "value": "35.5摄氏度",
+   "verdict": "supported",
+   "note": "符合常规热管理组目标温度设定"
+  },
+  {
+   "value": "45岁",
+   "verdict": "supported",
+   "note": "符合该RCT纳入患者年龄下限"
+  },
+  {
+   "value": "1714例",
+   "verdict": "supported",
+   "note": "符合回顾性队列样本量"
+  },
+  {
+   "value": "47个月",
+   "verdict": "supported",
+   "note": "符合回顾性队列中位随访时间"
+  },
+  {
+   "value": "低于35.5摄氏度",
+   "verdict": "supported",
+   "note": "符合中重度低体温分组界值"
+  },
+  {
+   "value": "35.5至36.5摄氏度",
+   "verdict": "supported",
+   "note": "符合轻度低体温分组区间"
+  },
+  {
+   "value": "36.5至37.5摄氏度",
+   "verdict": "supported",
+   "note": "符合正常体温分组区间"
+  },
+  {
+   "value": "不低于37.5摄氏度",
+   "verdict": "supported",
+   "note": "符合高热分组界值"
+  },
+  {
+   "value": "2014年2月",
+   "verdict": "unverifiable",
+   "note": "特定系统综述检索截止时间,无法独立核实"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1068
+}

@@ -1,0 +1,40 @@
+{
+ "numeric_claims": [
+  {
+   "value": "61%",
+   "verdict": "supported",
+   "note": "符合ELSO标准62例中38例存活，38/62≈61%"
+  },
+  {
+   "value": "89%",
+   "verdict": "supported",
+   "note": "存活38例中34例神经功能良好，34/38≈89%"
+  },
+  {
+   "value": "≤32°C",
+   "verdict": "supported",
+   "note": "意外低温ECMO研究纳入标准(重度低温阈值)"
+  },
+  {
+   "value": "6–7%",
+   "verdict": "unverifiable",
+   "note": "经典教科书数据，但答案声明未溯源且本库无卡片"
+  },
+  {
+   "value": "≤0.25–0.5°C/min",
+   "verdict": "unverifiable",
+   "note": "模型给出但答案明确声明未溯源，需核对原文献"
+  },
+  {
+   "value": "50–80 mmHg",
+   "verdict": "unverifiable",
+   "note": "模型给出但答案明确声明未溯源，需核对原文献"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1442
+}

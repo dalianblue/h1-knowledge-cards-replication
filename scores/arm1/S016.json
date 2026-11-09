@@ -1,0 +1,65 @@
+{
+ "numeric_claims": [
+  {
+   "value": "3.9 mmol/L",
+   "verdict": "supported",
+   "note": "低血糖诊断标准(ADA/指南)"
+  },
+  {
+   "value": "10%",
+   "verdict": "supported",
+   "note": "口服葡萄糖标准浓度"
+  },
+  {
+   "value": "150至200 mL",
+   "verdict": "supported",
+   "note": "清亮液体口服处理量"
+  },
+  {
+   "value": "两小时",
+   "verdict": "supported",
+   "note": "清亮液体禁食时间(ASA指南)"
+  },
+  {
+   "value": "六至八小时",
+   "verdict": "supported",
+   "note": "固体禁食时间(ASA指南)"
+  },
+  {
+   "value": "50%",
+   "verdict": "supported",
+   "note": "静脉推注葡萄糖标准浓度"
+  },
+  {
+   "value": "20至40 mL",
+   "verdict": "supported",
+   "note": "50%葡萄糖静推标准剂量"
+  },
+  {
+   "value": "15分钟",
+   "verdict": "supported",
+   "note": "低血糖复测间隔(指南共识)"
+  },
+  {
+   "value": "6至10 mmol/L",
+   "verdict": "supported",
+   "note": "术中血糖维持目标(指南)"
+  },
+  {
+   "value": "5.0至10.0 mmol/L",
+   "verdict": "supported",
+   "note": "术前血糖控制目标(指南)"
+  },
+  {
+   "value": "2.8 mmol/L",
+   "verdict": "supported",
+   "note": "严重低血糖推迟手术阈值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 627
+}

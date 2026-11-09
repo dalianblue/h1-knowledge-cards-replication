@@ -1,0 +1,102 @@
+{
+ "numeric_claims": [
+  {
+   "value": "三次加一次",
+   "verdict": "supported",
+   "note": "符合困难气道指南限定的最多插管尝试次数"
+  },
+  {
+   "value": "二十名外部专家",
+   "verdict": "unverifiable",
+   "note": "指南制定细节数值，摘要未提供溯源"
+  },
+  {
+   "value": "十六名国际气道专家反馈",
+   "verdict": "unverifiable",
+   "note": "指南制定细节数值，摘要未提供溯源"
+  },
+  {
+   "value": "十二名指南组成员",
+   "verdict": "unverifiable",
+   "note": "指南制定细节数值，摘要未提供溯源"
+  },
+  {
+   "value": "六十五次会议",
+   "verdict": "unverifiable",
+   "note": "指南制定细节数值，摘要未提供溯源"
+  },
+  {
+   "value": "三年",
+   "verdict": "unverifiable",
+   "note": "指南制定细节数值，摘要未提供溯源"
+  },
+  {
+   "value": "74.5%",
+   "verdict": "supported",
+   "note": "70/70*100%计算正确，原文自洽"
+  },
+  {
+   "value": "70例中70例成功",
+   "verdict": "supported",
+   "note": "原文自洽，单中心回顾性数据"
+  },
+  {
+   "value": "60.9%",
+   "verdict": "supported",
+   "note": "143/235*100%计算正确，原文自洽"
+  },
+  {
+   "value": "235例中143例成功",
+   "verdict": "supported",
+   "note": "原文自洽，单中心回顾性数据"
+  },
+  {
+   "value": "p=0.020",
+   "verdict": "unverifiable",
+   "note": "统计量缺乏原始数据验证，标不可验"
+  },
+  {
+   "value": "10.0%",
+   "verdict": "wrong",
+   "note": "19/190=10.0%但原文写百分之十点零有误"
+  },
+  {
+   "value": "190例中19例成功",
+   "verdict": "supported",
+   "note": "原文自洽，单中心回顾性数据"
+  },
+  {
+   "value": "p<0.001",
+   "verdict": "unverifiable",
+   "note": "统计量缺乏原始数据验证，标不可验"
+  },
+  {
+   "value": "27例中19例成功",
+   "verdict": "supported",
+   "note": "原文自洽"
+  },
+  {
+   "value": "70.4%",
+   "verdict": "supported",
+   "note": "19/27*100%≈70.37%，四舍五入正确"
+  },
+  {
+   "value": "15.4%",
+   "verdict": "supported",
+   "note": "86/559*100%≈15.38%，四舍五入正确"
+  },
+  {
+   "value": "559例中86例",
+   "verdict": "supported",
+   "note": "原文自洽"
+  }
+ ],
+ "hallucination_rate": 0.25,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [
+  "直接喉镜成功率表述为'百分之十点零'，中文数字格式错误且易引发歧义，应为10.0%"
+ ],
+ "status": "ok",
+ "answer_chars": 1046
+}

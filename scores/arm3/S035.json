@@ -1,0 +1,35 @@
+{
+ "numeric_claims": [
+  {
+   "value": "2小时",
+   "verdict": "supported",
+   "note": "ASA等指南推荐清饮禁食2小时"
+  },
+  {
+   "value": "12小时",
+   "verdict": "supported",
+   "note": "符合临床实际清饮禁食中位数观察"
+  },
+  {
+   "value": "306900例",
+   "verdict": "unverifiable",
+   "note": "未提供文献来源，无法核实具体样本量"
+  },
+  {
+   "value": "15837例",
+   "verdict": "unverifiable",
+   "note": "未提供文献来源，无法核实具体样本量"
+  },
+  {
+   "value": "2至3小时",
+   "verdict": "unverifiable",
+   "note": "缺乏具体文献支持该中位时长数值"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 1,
+ "usability": 3,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1104
+}

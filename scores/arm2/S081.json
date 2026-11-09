@@ -1,0 +1,30 @@
+{
+ "numeric_claims": [
+  {
+   "value": "15–20 mg/周",
+   "verdict": "supported",
+   "note": "CIRT试验目标剂量，符合文献"
+  },
+  {
+   "value": "4786例",
+   "verdict": "supported",
+   "note": "CIRT试验样本量，符合文献"
+  },
+  {
+   "value": "1 mg",
+   "verdict": "supported",
+   "note": "CIRT试验叶酸补充剂量，符合文献"
+  },
+  {
+   "value": "1年",
+   "verdict": "unverifiable",
+   "note": "未指明具体试验名称，无法溯源"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1251
+}

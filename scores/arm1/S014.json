@@ -1,0 +1,20 @@
+{
+ "numeric_claims": [
+  {
+   "value": "压差升高幅度可能小于10 mmHg",
+   "verdict": "supported",
+   "note": "单叶卡住时跨瓣压差升高常<10mmHg，符合血流动力学"
+  },
+  {
+   "value": "可疑阈值",
+   "verdict": "unverifiable",
+   "note": "未指明具体阈值数值及对应瓣位，无法溯源"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 727
+}

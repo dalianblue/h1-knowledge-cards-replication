@@ -1,0 +1,58 @@
+{
+ "numeric_claims": [
+  {
+   "value": "舒张压不低于110毫米汞柱",
+   "verdict": "supported",
+   "note": "Miller's及指南重度高血压择期手术推迟阈值"
+  },
+  {
+   "value": "收缩压不低于180毫米汞柱",
+   "verdict": "supported",
+   "note": "Miller's及指南重度高血压择期手术推迟阈值"
+  },
+  {
+   "value": "降至160/100毫米汞柱以下再手术",
+   "verdict": "supported",
+   "note": "指南控制目标,ACC/AHA及Miller's认可"
+  },
+  {
+   "value": "裸金属支架后择期非心脏手术延迟一个月",
+   "verdict": "wrong",
+   "note": "指南推荐14天(最少14天),非1个月"
+  },
+  {
+   "value": "球囊扩张为两周",
+   "verdict": "supported",
+   "note": "指南推荐POBA后延迟至少14天"
+  },
+  {
+   "value": "药物洗脱支架后最好延迟一年",
+   "verdict": "supported",
+   "note": "旧指南(如2014ACC/AHA)推荐,新指南亦认可"
+  },
+  {
+   "value": "延迟六个月",
+   "verdict": "supported",
+   "note": "指南允许高出血风险DES延迟6个月"
+  },
+  {
+   "value": "初始四至六周",
+   "verdict": "wrong",
+   "note": "指南为4周(30天),非4-6周"
+  },
+  {
+   "value": "术后24至72小时",
+   "verdict": "unverifiable",
+   "note": "PMI发生时间窗范围广,该精确区间无单一依据"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "裸金属支架(BMS)后择期非心脏手术延迟时间应为至少14天，而非1个月",
+  "支架植入后需紧急非心脏手术继续DAPT的窗口期为4周(30天)，而非4-6周"
+ ],
+ "status": "ok",
+ "answer_chars": 1463
+}

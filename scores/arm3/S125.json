@@ -1,0 +1,15 @@
+{
+ "numeric_claims": [
+  {
+   "value": "20例",
+   "verdict": "unverifiable",
+   "note": "特定研究样本量,无通用医学依据"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 1,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 939
+}

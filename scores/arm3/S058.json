@@ -1,0 +1,48 @@
+{
+ "numeric_claims": [
+  {
+   "value": "50%葡萄糖50克联合普通胰岛素12单位",
+   "verdict": "supported",
+   "note": "符合教科书常规比例(4-10g糖:1U胰岛素)"
+  },
+  {
+   "value": "10%葡萄糖酸钙10至30毫升",
+   "verdict": "supported",
+   "note": "Miller's等指南推荐10-30ml范围"
+  },
+  {
+   "value": "碳酸氢钠50至100毫升静注继以100至200毫升静滴",
+   "verdict": "unverifiable",
+   "note": "具体液体量无标准指南依据,通常按mEq给药"
+  },
+  {
+   "value": "呋塞米5至20毫克静注",
+   "verdict": "wrong",
+   "note": "围术期降钾剂量过小,常规至少20-40mg"
+  },
+  {
+   "value": "血钾低于6.0毫摩尔每升",
+   "verdict": "supported",
+   "note": "轻度高钾界定<6.0为教科书共识"
+  },
+  {
+   "value": "阳离子交换树脂15克口服每6小时一次",
+   "verdict": "supported",
+   "note": "符合SPS常规口服剂量范围"
+  },
+  {
+   "value": "血糖、电解质及血气宜每1至2小时复查一次",
+   "verdict": "supported",
+   "note": "监测频率符合临床常规与反跳风险"
+  }
+ ],
+ "hallucination_rate": 0.14,
+ "traceability": 2,
+ "usability": 3,
+ "errors_found": [
+  "呋塞米5-20mg静注剂量偏低，围术期利尿排钾通常需20-40mg甚至更高剂量，5mg无显著排钾作用",
+  "碳酸氢钠以固定毫升数描述静滴缺乏指南依据，标准给药应以mmol/L或mEq计算"
+ ],
+ "status": "ok",
+ "answer_chars": 907
+}

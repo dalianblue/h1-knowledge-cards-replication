@@ -1,0 +1,35 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5厘米",
+   "verdict": "supported",
+   "note": "ACCP指南等以5cm为远端DVT抗凝与观察阈值"
+  },
+  {
+   "value": "3厘米",
+   "verdict": "supported",
+   "note": "ACCP指南以距隐股交界3cm为浅静脉血栓抗凝界值"
+  },
+  {
+   "value": "一到两周",
+   "verdict": "supported",
+   "note": "远端DVT观察复查间隔1-2周符合指南推荐"
+  },
+  {
+   "value": "一周内",
+   "verdict": "supported",
+   "note": "观察策略首次超声复查在1周内符合规范"
+  },
+  {
+   "value": "第一周、第二周及第四至六周",
+   "verdict": "supported",
+   "note": "系列超声随访时间点符合常见临床路径"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 892
+}

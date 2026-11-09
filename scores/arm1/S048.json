@@ -1,0 +1,87 @@
+{
+ "numeric_claims": [
+  {
+   "value": "阿司匹林母药半衰期15至20分钟",
+   "verdict": "supported",
+   "note": "符合药理学教科书数据"
+  },
+  {
+   "value": "水杨酸半衰期2至3小时",
+   "verdict": "supported",
+   "note": "低剂量时半衰期符合此范围"
+  },
+  {
+   "value": "氯吡格雷母药半衰期约6小时",
+   "verdict": "supported",
+   "note": "符合说明书及药理学数据"
+  },
+  {
+   "value": "氯吡格雷活性代谢物半衰期约30分钟",
+   "verdict": "supported",
+   "note": "符合说明书及药理学数据"
+  },
+  {
+   "value": "血小板寿命周期约7至10天",
+   "verdict": "supported",
+   "note": "符合生理学教科书数据"
+  },
+  {
+   "value": "每日新生血小板约10%至15%",
+   "verdict": "supported",
+   "note": "符合血小板更新生理学数据"
+  },
+  {
+   "value": "阿司匹林停药3至4天恢复约50%",
+   "verdict": "supported",
+   "note": "基于每日10%更新率的推算"
+  },
+  {
+   "value": "阿司匹林术前停药5至7天",
+   "verdict": "supported",
+   "note": "符合指南标准推荐"
+  },
+  {
+   "value": "阿司匹林低出血风险手术停药3至5天",
+   "verdict": "supported",
+   "note": "符合部分指南对低危手术推荐"
+  },
+  {
+   "value": "氯吡格雷术前停药5天",
+   "verdict": "supported",
+   "note": "符合2016ACC/AHA指南推荐"
+  },
+  {
+   "value": "氯吡格雷高危延长至7天",
+   "verdict": "supported",
+   "note": "符合临床实践与部分指南"
+  },
+  {
+   "value": "氯吡格雷停药5天恢复50%至60%",
+   "verdict": "unverifiable",
+   "note": "缺乏权威文献精确恢复曲线"
+  },
+  {
+   "value": "裸金属支架至少1个月停药",
+   "verdict": "supported",
+   "note": "符合ACC/AHA指南最低要求"
+  },
+  {
+   "value": "药物洗脱支架至少6个月停药",
+   "verdict": "wrong",
+   "note": "现行指南推荐至少3个月"
+  },
+  {
+   "value": "双抗维持6至12个月",
+   "verdict": "supported",
+   "note": "符合ACS后标准双抗疗程"
+  }
+ ],
+ "hallucination_rate": 0.07,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "药物洗脱支架(DES)术后停药时间表述错误：答案称至少6个月，但现行ACC/AHA及ESC指南对多数新一代DES推荐择期手术前最少停药3个月即可，6个月为过时标准"
+ ],
+ "status": "ok",
+ "answer_chars": 967
+}

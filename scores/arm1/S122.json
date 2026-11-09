@@ -1,0 +1,92 @@
+{
+ "numeric_claims": [
+  {
+   "value": "纤维蛋白原低于2 g/L",
+   "verdict": "supported",
+   "note": "产科大出血Fib预警阈值2g/L符合指南"
+  },
+  {
+   "value": "纤维蛋白原低于1.5 g/L",
+   "verdict": "supported",
+   "note": "产科重症Fib阈值1.5g/L符合指南"
+  },
+  {
+   "value": "体温低于35℃",
+   "verdict": "supported",
+   "note": "创伤低体温定义<35℃为公认标准"
+  },
+  {
+   "value": "pH低于7.2",
+   "verdict": "supported",
+   "note": "创伤致死性酸中毒阈值pH<7.2"
+  },
+  {
+   "value": "目标值不低于2 g/L",
+   "verdict": "supported",
+   "note": "产科大出血Fib复苏目标≥2g/L"
+  },
+  {
+   "value": "氨甲环酸首剂1 g",
+   "verdict": "supported",
+   "note": "TXA首剂1g符合产科及创伤指南"
+  },
+  {
+   "value": "10分钟内静脉注射",
+   "verdict": "supported",
+   "note": "TXA 10min静注为标准给药速率"
+  },
+  {
+   "value": "30分钟内给药",
+   "verdict": "supported",
+   "note": "产科TXA须分娩后30min内给药"
+  },
+  {
+   "value": "24小时内重复1 g",
+   "verdict": "wrong",
+   "note": "产科TXA维持量应为3h内静滴1g"
+  },
+  {
+   "value": "A5低于12 mm",
+   "verdict": "supported",
+   "note": "FIBTEM A5<10-12mm提示Fib缺乏"
+  },
+  {
+   "value": "收缩压80至90 mmHg",
+   "verdict": "supported",
+   "note": "创伤允许性低血压SBP 80-90mmHg"
+  },
+  {
+   "value": "1比1比1的比例",
+   "verdict": "supported",
+   "note": "MTP 1:1:1比例符合创伤指南"
+  },
+  {
+   "value": "复温至35℃以上",
+   "verdict": "supported",
+   "note": "创伤复温目标>35℃符合指南"
+  },
+  {
+   "value": "pH大于7.2",
+   "verdict": "supported",
+   "note": "纠正酸中毒目标pH>7.2符合指南"
+  },
+  {
+   "value": "伤后3小时内",
+   "verdict": "supported",
+   "note": "CRASH-2规定TXA伤后3h内使用"
+  },
+  {
+   "value": "随后8小时输注1 g",
+   "verdict": "supported",
+   "note": "创伤TXA维持量8h输注1g符合指南"
+  }
+ ],
+ "hallucination_rate": 0.07,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [
+  "产科氨甲环酸维持剂量错误：答案称'24小时内重复1g'，依据WOMAN试验及指南，应为首剂1g后3小时内静脉滴注1g维持，而非24小时重复1g。"
+ ],
+ "status": "ok",
+ "answer_chars": 872
+}

@@ -1,0 +1,82 @@
+{
+ "numeric_claims": [
+  {
+   "value": "9分以上",
+   "verdict": "supported",
+   "note": "Caprini评分骨盆骨折9分,属极高危"
+  },
+  {
+   "value": "术前12至24小时停用",
+   "verdict": "supported",
+   "note": "指南依诺肝素预防量术前≥12h停用"
+  },
+  {
+   "value": "1至2天空窗",
+   "verdict": "supported",
+   "note": "术前停药与术后延迟恢复致空窗"
+  },
+  {
+   "value": "术后6至12小时内",
+   "verdict": "supported",
+   "note": "指南术后6-12h评估出血后恢复抗凝"
+  },
+  {
+   "value": "40mg每日一次",
+   "verdict": "supported",
+   "note": "标准依诺肝素预防剂量40mg qd"
+  },
+  {
+   "value": "依诺肝素40mg每12小时一次",
+   "verdict": "supported",
+   "note": "肥胖者依诺肝素预防40mg q12h"
+  },
+  {
+   "value": "0.5mg/kg每日",
+   "verdict": "supported",
+   "note": "肥胖者依诺肝素预防0.5mg/kg qd"
+  },
+  {
+   "value": "每日60至80mg以上",
+   "verdict": "supported",
+   "note": "170kg按0.5mg/kg算为85mg/d"
+  },
+  {
+   "value": "0.2至0.4 IU/mL",
+   "verdict": "supported",
+   "note": "q12h预防抗Xa峰值0.2-0.4 IU/mL"
+  },
+  {
+   "value": "肌酐清除率低于30",
+   "verdict": "supported",
+   "note": "CrCl<30依诺肝素需减量或换普通肝素"
+  },
+  {
+   "value": "拔管后至少4小时",
+   "verdict": "wrong",
+   "note": "ASRA指南预防量依诺肝素拔管后至少4h为错"
+  },
+  {
+   "value": "置管前至少12小时",
+   "verdict": "supported",
+   "note": "ASRA指南预防量依诺肝素置管前≥12h"
+  },
+  {
+   "value": "1mg/kg每12小时一次",
+   "verdict": "supported",
+   "note": "依诺肝素治疗剂量1mg/kg q12h"
+  },
+  {
+   "value": "0.6至1.0 IU/mL",
+   "verdict": "supported",
+   "note": "治疗剂量抗Xa目标0.6-1.0 IU/mL"
+  }
+ ],
+ "hallucination_rate": 0.07,
+ "traceability": 4,
+ "usability": 5,
+ "errors_found": [
+  "硬膜外拔管后依诺肝素预防剂量间隔错误：ASRA/ESAIC指南规定预防剂量依诺肝素（如40mg）拔管后至少需等待12小时才能给予下一剂，或给药后至少等待4小时才能拔管。答案称“拔管后至少4小时”混淆了给药后拔管与拔管后给药的时序方向。"
+ ],
+ "status": "ok",
+ "answer_chars": 1027
+}

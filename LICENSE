@@ -1,0 +1,9 @@
+CC0 1.0 Universal — Public Domain Dedication
+
+The data in this repository (question bank, anonymized answers, scoring records,
+aggregated results) are released under CC0 1.0.
+
+Code and figures in scripts/ are released under the MIT License.
+
+Card-library distilled text is NOT included in this repository (textbook copyright);
+card-level metadata sufficient for reproducing analyses is available on request.

@@ -1,0 +1,40 @@
+{
+ "numeric_claims": [
+  {
+   "value": "180次/分",
+   "verdict": "supported",
+   "note": "TAVI常规超速起搏频率为180-220bpm"
+  },
+  {
+   "value": "MAP ≤65 mmHg",
+   "verdict": "supported",
+   "note": "非心脏手术IOH与心肌损伤关联阈值"
+  },
+  {
+   "value": "MAP 50–75 mmHg",
+   "verdict": "supported",
+   "note": "术后低血压严重程度分级阈值范围"
+  },
+  {
+   "value": "6748例",
+   "verdict": "unverifiable",
+   "note": "儿科单中心队列样本量,脱离主旨"
+  },
+  {
+   "value": "157 764例",
+   "verdict": "unverifiable",
+   "note": "降心率药物Meta样本量,脱离主旨"
+  },
+  {
+   "value": "平均降心率8.2 bpm",
+   "verdict": "unverifiable",
+   "note": "降心率药物效应量,脱离主旨"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 4334
+}

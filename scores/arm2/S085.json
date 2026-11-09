@@ -1,0 +1,95 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5~8 cm H₂O",
+   "verdict": "supported",
+   "note": "符合中PEEP常规定义及PROVHILO等研究设定"
+  },
+  {
+   "value": "0.39（0.19~0.78）",
+   "verdict": "supported",
+   "note": "网状Meta分析中PEEP+RM的OR值及95%CI"
+  },
+  {
+   "value": "≥9 cm H₂O",
+   "verdict": "supported",
+   "note": "符合高PEEP定义及网状Meta分析设定"
+  },
+  {
+   "value": "0.34（0.14~0.79）",
+   "verdict": "supported",
+   "note": "网状Meta分析高PEEP+RM的OR值及95%CI"
+  },
+  {
+   "value": "0.51（0.35~0.76）",
+   "verdict": "supported",
+   "note": "TSA分析PEEP减少肺不张的RR及95%CI"
+  },
+  {
+   "value": "0.48（0.27~0.84）",
+   "verdict": "supported",
+   "note": "TSA分析PEEP减少肺炎的RR及95%CI"
+  },
+  {
+   "value": "1.78（0.55~5.70）",
+   "verdict": "supported",
+   "note": "TSA分析PEEP对死亡率的RR及95%CI"
+  },
+  {
+   "value": "2860例",
+   "verdict": "supported",
+   "note": "骨科全麻PEEP与VT研究(PROCURE)样本量"
+  },
+  {
+   "value": "5与8 cm H₂O",
+   "verdict": "supported",
+   "note": "PROCURE研究设定的PEEP比较水平"
+  },
+  {
+   "value": "6与10 ml/kg",
+   "verdict": "supported",
+   "note": "PROCURE研究设定的潮气量比较水平"
+  },
+  {
+   "value": "P=0.565",
+   "verdict": "supported",
+   "note": "PROCURE研究交互作用P值"
+  },
+  {
+   "value": "37例",
+   "verdict": "supported",
+   "note": "腹部手术最大顺应性滴定PEEP预试验样本量"
+  },
+  {
+   "value": "8 vs 12 cm H₂O",
+   "verdict": "supported",
+   "note": "预试验驱动压中位数比较"
+  },
+  {
+   "value": "P=0.006",
+   "verdict": "supported",
+   "note": "预试验驱动压差异P值"
+  },
+  {
+   "value": "21.9% vs 24.0%",
+   "verdict": "supported",
+   "note": "单肺通气挥发性vs丙泊酚并发症率"
+  },
+  {
+   "value": "0.89（0.58~1.35）",
+   "verdict": "supported",
+   "note": "单肺通气麻醉药比较的OR及95%CI"
+  },
+  {
+   "value": "P=0.570",
+   "verdict": "supported",
+   "note": "单肺通气麻醉药比较的P值"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1183
+}

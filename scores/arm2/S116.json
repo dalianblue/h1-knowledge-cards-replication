@@ -1,0 +1,82 @@
+{
+ "numeric_claims": [
+  {
+   "value": "体重指数不超过28 kg/m²",
+   "verdict": "supported",
+   "note": "符合无管胸科麻醉专家共识筛选标准"
+  },
+  {
+   "value": "低于21更佳",
+   "verdict": "unverifiable",
+   "note": "共识未将BMI<21列为更佳推荐阈值"
+  },
+  {
+   "value": "手术时间短于4小时",
+   "verdict": "supported",
+   "note": "符合无管胸科麻醉专家共识适应证"
+  },
+  {
+   "value": "术后24小时咽痛风险比为0.2（95%置信区间0.1至0.5）",
+   "verdict": "supported",
+   "note": "源自纤支镜引导插管减少咽痛的RCT数据"
+  },
+  {
+   "value": "动脉血二氧化碳分压控制在60 mmHg以下",
+   "verdict": "supported",
+   "note": "符合无管胸科麻醉高碳酸血症耐受阈值"
+  },
+  {
+   "value": "血氧饱和度目标不低于95%",
+   "verdict": "supported",
+   "note": "符合无管胸科麻醉最低氧合目标"
+  },
+  {
+   "value": "呼气末二氧化碳分压35至45 mmHg",
+   "verdict": "wrong",
+   "note": "自主呼吸下允许高碳酸，ETCO2上限不符"
+  },
+  {
+   "value": "潮气量3至5 ml/kg",
+   "verdict": "supported",
+   "note": "符合自主呼吸下允许的低潮气量范围"
+  },
+  {
+   "value": "呼吸频率8至15次/分",
+   "verdict": "unverifiable",
+   "note": "未查及共识指定此确切呼吸频率范围"
+  },
+  {
+   "value": "血压波动不超过术前基础值的20%",
+   "verdict": "unverifiable",
+   "note": "未查及共识明确20%这一确切波动阈值"
+  },
+  {
+   "value": "心率60至100次/分",
+   "verdict": "unverifiable",
+   "note": "未查及共识指定此确切心率控制范围"
+  },
+  {
+   "value": "脑电双频指数40至60",
+   "verdict": "supported",
+   "note": "符合全麻BIS监测常规目标范围"
+  },
+  {
+   "value": "相对危险度1.63（95%置信区间1.03至2.57）",
+   "verdict": "supported",
+   "note": "源自视频双腔管增加咽痛的RCT数据"
+  },
+  {
+   "value": "相对危险度1.48（95%置信区间1.06至2.06）",
+   "verdict": "supported",
+   "note": "源自视频双腔管增加声嘶的RCT数据"
+  }
+ ],
+ "hallucination_rate": 0.15,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "自主呼吸高碳酸血症状态下，呼气末二氧化碳分压上限设定为45 mmHg与允许PaCO2<60mmHg的共识自相矛盾，临床实际常允许ETCO2超45mmHg"
+ ],
+ "status": "ok",
+ "answer_chars": 1075
+}

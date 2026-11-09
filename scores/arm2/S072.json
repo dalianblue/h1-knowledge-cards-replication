@@ -1,0 +1,25 @@
+{
+ "numeric_claims": [
+  {
+   "value": "80–120%",
+   "verdict": "supported",
+   "note": "抗凝血酶目标水平80-120%符合体外循环相关指南"
+  },
+  {
+   "value": "1.5–2",
+   "verdict": "supported",
+   "note": "APTT比值1.5-2为体外循环抗凝常规目标范围"
+  },
+  {
+   "value": "22家机构",
+   "verdict": "unverifiable",
+   "note": "未提供具体文献来源，无法核实机构数量"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 2,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1017
+}

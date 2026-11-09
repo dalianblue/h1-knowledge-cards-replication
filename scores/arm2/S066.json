@@ -1,0 +1,150 @@
+{
+ "numeric_claims": [
+  {
+   "value": "36名健康志愿者",
+   "verdict": "supported",
+   "note": "符合该模拟手术志愿者研究样本量"
+  },
+  {
+   "value": "103 mmHg·μg⁻¹·kg·min",
+   "verdict": "supported",
+   "note": "清醒期斜率值与原文献一致"
+  },
+  {
+   "value": "约119",
+   "verdict": "supported",
+   "note": "全麻后斜率值与原文献一致"
+  },
+  {
+   "value": "约222",
+   "verdict": "supported",
+   "note": "累计斜率103+119=222，计算正确"
+  },
+  {
+   "value": "约34 mmHg",
+   "verdict": "supported",
+   "note": "平均动脉压基线下降值与原文献一致"
+  },
+  {
+   "value": "95%CI -37至-31",
+   "verdict": "supported",
+   "note": "MAP下降的置信区间与原文献一致"
+  },
+  {
+   "value": "诱导后15分钟",
+   "verdict": "supported",
+   "note": "全麻诱导后低血压评估标准窗口期"
+  },
+  {
+   "value": "276例随机、261例完整数据",
+   "verdict": "supported",
+   "note": "低中危非心脏手术试验样本量与文献一致"
+  },
+  {
+   "value": "72例随机、71例完成",
+   "verdict": "supported",
+   "note": "高危非心脏手术试验样本量与文献一致"
+  },
+  {
+   "value": "平均动脉压低于65 mmHg",
+   "verdict": "supported",
+   "note": "低血压主要终点阈值符合指南标准"
+  },
+  {
+   "value": "0.15 μg/kg继以0.05 μg/kg/min",
+   "verdict": "supported",
+   "note": "腰麻剖宫产去甲剂量与原研究一致"
+  },
+  {
+   "value": "约90%",
+   "verdict": "supported",
+   "note": "预防低血压事件比例与原研究一致"
+  },
+  {
+   "value": "0.05–1.0 mcg/kg/min",
+   "verdict": "supported",
+   "note": "儿科去甲肾上腺素常用剂量范围"
+  },
+  {
+   "value": "635例",
+   "verdict": "supported",
+   "note": "外周通路前瞻性观察总样本量"
+  },
+  {
+   "value": "51.6%（311/603）",
+   "verdict": "supported",
+   "note": "免中心静脉置管比例与原研究一致"
+  },
+  {
+   "value": "1天（IQR 0-2）",
+   "verdict": "supported",
+   "note": "避免CVC中位时间与原研究一致"
+  },
+  {
+   "value": "外渗35例",
+   "verdict": "supported",
+   "note": "外渗事件数与原研究一致"
+  },
+  {
+   "value": "75.8事件/1000个外周静脉导管输液日",
+   "verdict": "supported",
+   "note": "外渗发生率与原研究一致"
+  },
+  {
+   "value": "95%CI 52.8–105.4",
+   "verdict": "supported",
+   "note": "外渗发生率CI与原研究一致"
+  },
+  {
+   "value": "3626例",
+   "verdict": "supported",
+   "note": "去甲与去氧交叉试验样本量"
+  },
+  {
+   "value": "aOR=0.92（95%CI 0.6–1.39）",
+   "verdict": "supported",
+   "note": "30天再入院调整比值比与文献一致"
+  },
+  {
+   "value": "aOR=1.01（0.48–2.09）",
+   "verdict": "supported",
+   "note": "死亡调整比值比与文献一致"
+  },
+  {
+   "value": "aOR=1.1（0.92–1.31）",
+   "verdict": "supported",
+   "note": "急性肾损伤调整比值比与文献一致"
+  },
+  {
+   "value": "1120例中411例、37%",
+   "verdict": "supported",
+   "note": "膀胱癌队列样本量及用药比例"
+  },
+  {
+   "value": ">2 μg/kg/h",
+   "verdict": "supported",
+   "note": "与复发风险相关的剂量阈值"
+  },
+  {
+   "value": "HR 1.47（95%CI 0.98–2.21，P=0.061）",
+   "verdict": "supported",
+   "note": "未调整HR与原研究一致"
+  },
+  {
+   "value": "HR 1.82（1.13–2.91，P=0.013）",
+   "verdict": "supported",
+   "note": "调整术中变量HR与原研究一致"
+  },
+  {
+   "value": "HR 1.85（1.12–3.07，P=0.017）",
+   "verdict": "supported",
+   "note": "调整手术年份HR与原研究一致"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 5,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 1847
+}

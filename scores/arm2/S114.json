@@ -1,0 +1,37 @@
+{
+ "numeric_claims": [
+  {
+   "value": "5.5 mmol/L",
+   "verdict": "supported",
+   "note": "教科书与指南多定义高钾血症>5.0-5.5"
+  },
+  {
+   "value": "6.5至7.0 mmol/L",
+   "verdict": "supported",
+   "note": "ECG异常多见于>6.5mmol/L"
+  },
+  {
+   "value": "10%葡萄糖酸钙10至30 ml",
+   "verdict": "supported",
+   "note": "ACLS及指南推荐10-30ml"
+  },
+  {
+   "value": "50%葡萄糖50 g联合胰岛素12 U",
+   "verdict": "wrong",
+   "note": "50g糖需100ml50%GS,常规仅25g配10U"
+  },
+  {
+   "value": "碳酸氢钠50至100 ml后继续100至200 ml",
+   "verdict": "unverifiable",
+   "note": "无标准ml剂量规定,依碱缺失算"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [
+  "50%葡萄糖50g联合胰岛素12U方案错误：临床经典方案为25g葡萄糖(50% GS 50ml)配10U常规胰岛素，50g葡萄糖需100ml 50%GS，且胰岛素比例不符常规"
+ ],
+ "status": "ok",
+ "answer_chars": 980
+}

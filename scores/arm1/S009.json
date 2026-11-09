@@ -1,0 +1,35 @@
+{
+ "numeric_claims": [
+  {
+   "value": "对合高度不小于2毫米",
+   "verdict": "supported",
+   "note": "MitraClip指南要求coaptation depth≥2mm"
+  },
+  {
+   "value": "残余反流不超过1+",
+   "verdict": "supported",
+   "note": "MitraClip操作终点标准为MR≤1+"
+  },
+  {
+   "value": "跨瓣压差小于5毫米汞柱",
+   "verdict": "supported",
+   "note": "避免医源性二尖瓣狭窄,压差<5mmHg"
+  },
+  {
+   "value": "预期寿命超过1年",
+   "verdict": "supported",
+   "note": "指南推荐TAVR/MitraClip预期寿命>1年"
+  },
+  {
+   "value": "不足6至12个月",
+   "verdict": "unverifiable",
+   "note": "指南无此精确保守阈值区间"
+  }
+ ],
+ "hallucination_rate": 0.1,
+ "traceability": 3,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 721
+}

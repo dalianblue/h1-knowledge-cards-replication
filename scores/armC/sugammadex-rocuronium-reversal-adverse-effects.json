@@ -1,0 +1,125 @@
+{
+ "numeric_claims": [
+  {
+   "value": "1:1摩尔比",
+   "verdict": "supported",
+   "note": "舒更葡糖与罗库溴铵化学计量比为1:1"
+  },
+  {
+   "value": "4 mg/kg",
+   "verdict": "supported",
+   "note": "深阻滞(PTC1-2)推荐舒更葡糖4mg/kg"
+  },
+  {
+   "value": "0.07 mg/kg（最大5 mg）",
+   "verdict": "supported",
+   "note": "新斯的明拮抗常规剂量及极量"
+  },
+  {
+   "value": "1.0–1.2 mg/kg",
+   "verdict": "supported",
+   "note": "罗库溴铵大剂量诱导范围"
+  },
+  {
+   "value": "111.1 min与91.0 min",
+   "verdict": "supported",
+   "note": "PMID18648227安慰剂组恢复时间"
+  },
+  {
+   "value": "1.6 min",
+   "verdict": "supported",
+   "note": "PMID18648227舒更葡糖组最短恢复时间"
+  },
+  {
+   "value": "0.5 mg/kg",
+   "verdict": "supported",
+   "note": "观察肌松反跳的舒更葡糖不足剂量"
+  },
+  {
+   "value": "0.9 mg/kg",
+   "verdict": "supported",
+   "note": "诱发反跳的罗库溴铵给药剂量"
+  },
+  {
+   "value": "42 min",
+   "verdict": "supported",
+   "note": "舒更葡糖拮抗给药时间点"
+  },
+  {
+   "value": "2或4 mg/kg",
+   "verdict": "supported",
+   "note": "PMID25935840研究舒更葡糖剂量组"
+  },
+  {
+   "value": "180例",
+   "verdict": "supported",
+   "note": "老年高危人群RCT总入组数"
+  },
+  {
+   "value": "≥75岁",
+   "verdict": "supported",
+   "note": "老年研究入组年龄截断值"
+  },
+  {
+   "value": "168例",
+   "verdict": "supported",
+   "note": "老年研究可分析病例数"
+  },
+  {
+   "value": "80岁",
+   "verdict": "supported",
+   "note": "老年研究平均年龄"
+  },
+  {
+   "value": "0.052 vs 0.122",
+   "verdict": "supported",
+   "note": "PMID34127252肺部并发症评分概率"
+  },
+  {
+   "value": "51例",
+   "verdict": "supported",
+   "note": "PMID31808151觉醒研究完成例数"
+  },
+  {
+   "value": "49（IQR 43–53）升至63（IQR 53–80）",
+   "verdict": "supported",
+   "note": "PMID31808151舒更葡糖后BIS变化"
+  },
+  {
+   "value": "22例",
+   "verdict": "supported",
+   "note": "BIS升高≥20的例数"
+  },
+  {
+   "value": "14例（27%）",
+   "verdict": "supported",
+   "note": "出现临床觉醒征象例数及比例"
+  },
+  {
+   "value": "eGFR<30 ml/min",
+   "verdict": "supported",
+   "note": "FDA标签舒更葡糖肾功能禁用阈值"
+  },
+  {
+   "value": "49例",
+   "verdict": "supported",
+   "note": "PMID38190344严重肾功能不全研究例数"
+  },
+  {
+   "value": "CrCl<30 ml/min",
+   "verdict": "supported",
+   "note": "严重肾功能不全肌酐清除率阈值"
+  },
+  {
+   "value": "0.6 mg/kg",
+   "verdict": "supported",
+   "note": "PMID41122047罗库溴铵诱导剂量"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 5,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 4134
+}

@@ -1,0 +1,50 @@
+{
+ "numeric_claims": [
+  {
+   "value": "101项研究",
+   "verdict": "supported",
+   "note": "PMID:39761907系统评价纳入研究数"
+  },
+  {
+   "value": "50%葡萄糖50g",
+   "verdict": "supported",
+   "note": "符合传统教科书高钾胰岛素-葡萄糖方案"
+  },
+  {
+   "value": "普通胰岛素12U",
+   "verdict": "supported",
+   "note": "符合传统教科书常规起始剂量"
+  },
+  {
+   "value": "10%葡萄糖酸钙10~30ml",
+   "verdict": "supported",
+   "note": "符合Miller's等教科书推荐范围"
+  },
+  {
+   "value": "碳酸氢钠50~100ml静注后续100~200ml静滴",
+   "verdict": "unverifiable",
+   "note": "教科书有推荐但剂型与滴速缺乏公认标准"
+  },
+  {
+   "value": "呋塞米5~20mg静注",
+   "verdict": "supported",
+   "note": "符合教科书促排钾利尿剂常规剂量"
+  },
+  {
+   "value": "15g口服，每6h1次",
+   "verdict": "supported",
+   "note": "符合阳离子交换树脂标准给药方案"
+  },
+  {
+   "value": "每1~2h检查血糖、电解质、血气",
+   "verdict": "unverifiable",
+   "note": "临床常规但缺乏指南级别精确频率规定"
+  }
+ ],
+ "hallucination_rate": 0.0,
+ "traceability": 4,
+ "usability": 4,
+ "errors_found": [],
+ "status": "ok",
+ "answer_chars": 2465
+}
